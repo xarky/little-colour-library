@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "museum-patrol-boat",
+    title: "Museum Patrol Boat",
+    category: "Vehicles",
+    description: "A patrol boat with a tall radar mast and a waving flag rests on display outside a museum.",
+    tags: ["patrol boat", "naval ship", "museum", "radar mast", "flag", "boat display"],
+    preview: "assets/previews/museum-patrol-boat.png",
+    pdf: "assets/pdfs/museum-patrol-boat.pdf",
+    alt: "Outline drawing of a patrol boat resting on blocks in front of a museum, with a flag at the bow and a radar mast above the bridge"
+  },
+  {
     id: "tracked-artillery-vehicle",
     title: "Tracked Artillery Vehicle",
     category: "Vehicles",
