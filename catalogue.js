@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "volcano-beyond-the-cliffs",
+    title: "Volcano Beyond the Cliffs",
+    category: "Nature",
+    description: "Children can colour rocky seaside cliffs, small islands and a distant volcano sending a puff of smoke into the sky.",
+    tags: ["volcano", "coastal cliffs", "sea", "rocky islands", "clouds", "seascape"],
+    preview: "assets/previews/volcano-beyond-the-cliffs.png",
+    pdf: "assets/pdfs/volcano-beyond-the-cliffs.pdf",
+    alt: "Outline drawing of rocky cliffs overlooking a calm sea, with small islands and a smoking volcano on the horizon"
+  },
+  {
     id: "cliffside-bay",
     title: "Cliffside Bay",
     category: "Nature",
