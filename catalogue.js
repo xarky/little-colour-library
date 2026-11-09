@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "rocky-beach-walk",
+    title: "Rocky Beach Walk",
+    category: "Nature",
+    description: "Four walkers follow a curving beach beneath rocky cliffs while a sailboat floats in the bay.",
+    tags: ["rocky beach", "coastal walk", "sailboat", "sea cliffs", "seaside café", "beach rocks"],
+    preview: "assets/previews/rocky-beach-walk.png",
+    pdf: "assets/pdfs/rocky-beach-walk.pdf",
+    alt: "Outline drawing of four walkers beside a beach café, with rounded rocks in the foreground and a sailboat near the cliffs"
+  },
+  {
     id: 'stromboli-volcano',
     title: 'Stromboli Volcano',
     category: 'Nature',
