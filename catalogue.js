@@ -2,6 +2,26 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "tracked-artillery-vehicle",
+    title: "Tracked Artillery Vehicle",
+    category: "Vehicles",
+    description: "A museum visitor rests a hand on a tracked artillery vehicle, with a small propeller aeroplane in the background.",
+    tags: ["tracked vehicle", "artillery vehicle", "caterpillar tracks", "military museum", "propeller aeroplane", "outdoor museum"],
+    review: "assets/previews/tracked-artillery-vehicle.png",
+    pdf: "assets/pdfs/tracked-artillery-vehicle.pdf",
+    alt: "Outline drawing of a man resting one hand on a tracked vehicle with a long barrel, with a small propeller aeroplane behind him"
+  },
+  {
+    id: "tanks-at-the-museum",
+    title: "Tanks at the Museum",
+    category: "Vehicles",
+    description: "Two tanks with chunky tracks stand in front of vintage aircraft at an outdoor museum.",
+    tags: ["tanks", "tank tracks", "vintage aircraft", "military vehicles", "outdoor museum", "observation tower"],
+    preview: "assets/previews/tanks-at-the-museum.png",
+    pdf: "assets/pdfs/tanks-at-the-museum.pdf",
+    alt: "Outline drawing of two tanks in front of parked aircraft, with a visitor walking past and a tower on a hill."
+  },
+  {
     id: "ship-tanks-and-planes",
     title: "Ship, Tanks and Planes",
     category: "Vehicles",
@@ -20,16 +40,6 @@ window.COLOUR_CATALOGUE = [
     preview: "assets/previews/tanks-and-aircraft-museum.png",
     pdf: "assets/pdfs/tanks-and-aircraft-museum.pdf",
     alt: "Outline drawing of tanks on the left, aircraft on the right and visitors carrying umbrellas, with a hilltop tower in the background"
-  },
-  {
-    id: "tracked-artillery-vehicle",
-    title: "Tracked Artillery Vehicle",
-    category: "Vehicles",
-    description: "A museum visitor rests a hand on a tracked artillery vehicle, with a small propeller aeroplane in the background.",
-    tags: ["tracked vehicle", "artillery vehicle", "caterpillar tracks", "military museum", "propeller aeroplane", "outdoor museum"],
-    review: "assets/previews/tracked-artillery-vehicle.png",
-    pdf: "assets/pdfs/tracked-artillery-vehicle.pdf",
-    alt: "Outline drawing of a man resting one hand on a tracked vehicle with a long barrel, with a small propeller aeroplane behind him"
   },
   {
     id: "coastal-village-and-islands",
