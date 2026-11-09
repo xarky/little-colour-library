@@ -7,7 +7,7 @@ window.COLOUR_CATALOGUE = [
     category: "Vehicles",
     description: "A museum visitor rests a hand on a tracked artillery vehicle, with a small propeller aeroplane in the background.",
     tags: ["tracked vehicle", "artillery vehicle", "caterpillar tracks", "military museum", "propeller aeroplane", "outdoor museum"],
-    review: "assets/previews/tracked-artillery-vehicle.png",
+    preview: "assets/previews/tracked-artillery-vehicle.png",
     pdf: "assets/pdfs/tracked-artillery-vehicle.pdf",
     alt: "Outline drawing of a man resting one hand on a tracked vehicle with a long barrel, with a small propeller aeroplane behind him"
   },
