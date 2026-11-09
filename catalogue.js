@@ -50,5 +50,15 @@ window.COLOUR_CATALOGUE = [
     preview: "assets/previews/rocky-seaside-cove.png",
     pdf: "assets/pdfs/rocky-seaside-cove.pdf",
     alt: "A rocky seaside cove with cliffs, a pebble beach, people sitting by the shore, a sailing boat and distant mountains."
+  },
+  {
+    id: "sailboats-in-the-cove",
+    title: "Sailboats in the Cove",
+    category: "Nature",
+    description: "Three sailboats float in a sheltered cove beside a curving beach and a hillside dotted with houses.",
+    tags: ["sailboats", "cove", "beach", "coast", "hillside village", "prickly pear"],
+    preview: "assets/previews/sailboats-in-the-cove.png",
+    pdf: "assets/pdfs/sailboats-in-the-cove.pdf",
+    alt: "Outline drawing of three sailboats in a cove, with hillside houses on the left and a prickly pear cactus in the foreground."
   }
 ];
