@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "tanks-and-aircraft-museum",
+    title: "Tanks and Aircraft at the Museum",
+    category: "Vehicles",
+    description: "Visitors with umbrellas walk past historic tanks and propeller aircraft at an outdoor museum.",
+    tags: ["tanks", "tracked vehicles", "propeller aircraft", "military museum", "outdoor exhibits", "umbrellas"],
+    preview: "assets/previews/tanks-and-aircraft-museum.png",
+    pdf: "assets/pdfs/tanks-and-aircraft-museum.pdf",
+    alt: "Outline drawing of tanks on the left, aircraft on the right and visitors carrying umbrellas, with a hilltop tower in the background"
+  },
+  {
     id: "tracked-artillery-vehicle",
     title: "Tracked Artillery Vehicle",
     category: "Vehicles",
