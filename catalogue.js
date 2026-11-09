@@ -41,17 +41,14 @@ window.COLOUR_CATALOGUE = [
     pdf: 'assets/pdfs/mirabilandia-team-photo.pdf',
     alt: 'A group of young footballers and two coaches wearing medals and posing with a trophy'
   },
-  
-{
-  "id": "rocky-seaside-cove",
-  "title": "Rocky Seaside Cove",
-  "category": "Nature",
-  "description": "Explore a beautiful rocky seaside cove with towering cliffs, a pebble beach, a sailing boat and people enjoying a sunny day by the sea.",
-  "tags": [
-    "seaside","beach","cliffs","coast","sailing boat","pebbles","sea","summer"
-  ],
-  "preview": "assets/previews/rocky-seaside-cove.png",
-  "pdf": "assets/pdfs/rocky-seaside-cove.pdf",
-  "alt": "A rocky seaside cove with cliffs, a pebble beach, people sitting by the shore, a sailing boat and distant mountains."
-}
+  {
+    id: "rocky-seaside-cove",
+    title: "Rocky Seaside Cove",
+    category: "Nature",
+    description: "Explore a beautiful rocky seaside cove with towering cliffs, a pebble beach, a sailing boat and people enjoying a sunny day by the sea.",
+    tags: ["seaside","beach","cliffs","coast","sailing boat","pebbles","sea","summer"],
+    preview: "assets/previews/rocky-seaside-cove.png",
+    pdf: "assets/pdfs/rocky-seaside-cove.pdf",
+    alt: "A rocky seaside cove with cliffs, a pebble beach, people sitting by the shore, a sailing boat and distant mountains."
+  }
 ];
