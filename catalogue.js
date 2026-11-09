@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "coastal-village-and-islands",
+    title: "Coastal Village and Islands",
+    category: "Nature",
+    description: "A sailboat crosses a bay framed by a hillside village and palm trees, with rocky islands and a distant volcano on the horizon.",
+    tags: ["coastal village", "rocky islands", "volcano", "sailboat", "palm trees", "bay", "sea stack"],
+    preview: "assets/previews/coastal-village-and-islands.png",
+    pdf: "assets/pdfs/coastal-village-and-islands.pdf",
+    alt: "Outline drawing of a coastal village with a church and palm trees, a sailboat in the bay, and rocky islands and a volcano in the distance"
+  },
+  {
     id: "volcanic-island-bay",
     title: "Volcanic Island Bay",
     category: "Nature",
