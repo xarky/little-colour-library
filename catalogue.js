@@ -1,6 +1,16 @@
 // Add a new object inside the array to publish another colouring page.
 // Use relative paths so GitHub Pages also works under a repository subpath.
-window.COLOUR_CATALOGUE = [  
+window.COLOUR_CATALOGUE = [
+  {
+    id: "botanical-garden-group",
+    title: "Botanical Garden Group",
+    category: "Nature",
+    description: "Colour a cheerful group of friends enjoying a sunny day surrounded by palm trees, flowering trees and tropical plants in a beautiful botanical garden.",
+    tags: ["botanical garden", "group of friends", "palm trees", "flowering trees", "tropical plants", "garden adventure", "nature walk", "group photograph"],
+    preview: "assets/previews/botanical-garden-group.png",
+    pdf: "assets/pdfs/botanical-garden-group.pdf",
+    alt: "Black-and-white outline drawing of a group of friends standing together on a garden pathway surrounded by tall palm trees, flowering trees and tropical plants."
+  },
   {
     id: "n-seoul-tower",
     title: "N Seoul Tower",
