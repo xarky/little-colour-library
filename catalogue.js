@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [  
   {
+    id: "n-seoul-tower",
+    title: "N Seoul Tower",
+    category: "Landmarks",
+    description: "Colour the famous N Seoul Tower in South Korea, surrounded by leafy trees, a stone wall and a bright sun.",
+    tags: ["n seoul tower", "south korea", "seoul", "namsan tower", "landmark", "observation tower", "travel", "architecture"],
+    preview: "assets/previews/n-seoul-tower.png",
+    pdf: "assets/pdfs/n-seoul-tower.pdf",
+    alt: "Outline drawing of N Seoul Tower rising above trees and a stone wall, with the sun shining in the sky."
+  },
+  {
     id: "seoul-namsan-tower",
     title: "Seoul and Namsan Tower",
     category: "Places",
