@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [  
   {
+    id: "seoul-city-skyline",
+    title: "Seoul City Skyline",
+    category: "Places",
+    description: "Explore the skyline of Seoul in South Korea, with towering skyscrapers, busy city buildings and beautiful mountains ready to colour.",
+    tags: ["seoul", "south korea", "city skyline", "skyscrapers", "mountains", "cityscape", "architecture", "asia"],
+    preview: "assets/previews/seoul-city-skyline.png",
+    pdf: "assets/pdfs/seoul-city-skyline.pdf",
+    alt: "Black and white outline drawing of Seoul's skyline, featuring skyscrapers, smaller buildings, trees and mountains in the background"
+  },
+  {
     id: "seoul-namsan-cityscape",
     title: "Seoul Skyline from Namsan",
     category: "Places",
