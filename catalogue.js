@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [  
   {
+    id: "seoul-namsan-tower",
+    title: "Seoul and Namsan Tower",
+    category: "Places",
+    description: "Explore the South Korean capital with this colouring page featuring Namsan Tower, wooded hills, the Han River and Seoul's city skyline.",
+    tags: ["seoul", "south korea", "namsan tower", "n seoul tower", "han river", "city skyline", "mountains", "landmarks"],
+    preview: "assets/previews/seoul-namsan-tower.png",
+    pdf: "assets/pdfs/seoul-namsan-tower.pdf",
+    alt: "Black and white outline drawing of Seoul with Namsan Tower on a wooded hill, the Han River, bridges and buildings in the distance"
+  },
+  {
     id: "seoul-city-panorama",
     title: "Seoul City Panorama",
     category: "Places",
