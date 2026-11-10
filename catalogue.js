@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "jeju-jusangjeolli-cliffs",
+    title: "Jeju Jusangjeolli Cliffs",
+    category: "Nature",
+    description: "Explore the spectacular volcanic rock columns of Jusangjeolli Cliffs on Jeju Island, South Korea, with this fun coastal colouring page for children.",
+    tags: ["jeju island", "south korea", "jusangjeolli cliffs", "volcanic rocks", "coastline", "ocean", "rock formations", "geology"],
+    preview: "assets/previews/jeju-jusangjeolli-cliffs.png",
+    pdf: "assets/pdfs/jeju-jusangjeolli-cliffs.pdf",
+    alt: "Black and white outline drawing of the hexagonal volcanic rock columns at Jusangjeolli Cliffs, with ocean waves, distant mountains and trees."
+  },
+  {
     id: "botanical-garden-group",
     title: "Botanical Garden Group",
     category: "Nature",
