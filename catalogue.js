@@ -1,6 +1,16 @@
 // Add a new object inside the array to publish another colouring page.
 // Use relative paths so GitHub Pages also works under a repository subpath.
-window.COLOUR_CATALOGUE = [
+window.COLOUR_CATALOGUE = [  
+  {
+    id: "seoul-namsan-cityscape",
+    title: "Seoul Skyline from Namsan",
+    category: "Places",
+    description: "Explore the beautiful city of Seoul in South Korea, with its famous tower, winding river, bridges and tree-covered hills in this fun colouring activity.",
+    tags: ["seoul", "south korea", "namsan", "seoul tower", "city skyline", "han river", "mountains", "cityscape"],
+    preview: "assets/previews/seoul-namsan-cityscape.png",
+    pdf: "assets/pdfs/seoul-namsan-cityscape.pdf",
+    alt: "Black-and-white outline drawing of Seoul's skyline, showing Namsan hill, a tower, woodland, bridges, the Han River and distant buildings."
+  },
   {
     id: "museum-patrol-boat",
     title: "Museum Patrol Boat",
