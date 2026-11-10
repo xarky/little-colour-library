@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "jeju-rocky-coast",
+    title: "Jeju Island Rocky Coast",
+    category: "Nature",
+    description: "Explore the beautiful volcanic coastline of Jeju Island in South Korea, with its unusual rock formations, peaceful sea and coastal trees.",
+    tags: ["jeju island", "south korea", "volcanic rocks", "rocky coastline", "ocean", "coastal trees", "geology", "nature"],
+    preview: "assets/previews/jeju-rocky-coast.png",
+    pdf: "assets/pdfs/jeju-rocky-coast.pdf",
+    alt: "Black and white outline drawing of Jeju Island's rocky volcanic coastline, with large boulders, coastal trees, sea and distinctive column-shaped rock formations."
+  },
+  {
     id: "jeju-jusangjeolli-cliffs",
     title: "Jeju Jusangjeolli Cliffs",
     category: "Nature",
