@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "palm-tree-park",
+    title: "Palm Tree Park",
+    category: "Nature",
+    description: "Explore a peaceful park filled with tall palm trees, waving flags, leafy trees and an open grassy clearing.",
+    tags: ["palm trees", "park", "garden", "landscape", "south korea", "flags", "trees", "nature"],
+    preview: "assets/previews/palm-tree-park.png",
+    pdf: "assets/pdfs/palm-tree-park.pdf",
+    alt: "Black and white outline drawing of a landscaped park with palm trees, two waving flags, leafy trees and an open grassy clearing."
+  },
+  {
     id: "stone-statues-garden",
     title: "Stone Statues Garden",
     category: "Nature",
