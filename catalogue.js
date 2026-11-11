@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "two-grilled-fish",
+    title: "Two Grilled Fish",
+    category: "Animals",
+    description: "Two grilled fish resting on a serving plate, with simple outlines and plenty of space for children to enjoy colouring.",
+    tags: ["fish", "grilled fish", "seafood", "mackerel", "sea life", "food", "fish on plate"],
+    preview: "assets/previews/two-grilled-fish.png",
+    pdf: "assets/pdfs/two-grilled-fish.pdf",
+    alt: "Black and white outline drawing of two grilled fish with fins, tails and eyes on a rectangular serving plate"
+  },
+  {
     id: "coastal-cliff-hikers",
     title: "Coastal Cliff Hikers",
     category: "Nature",
