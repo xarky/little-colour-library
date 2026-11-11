@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "tulip-garden-curved",
+    title: "Tulip Garden",
+    category: "Nature",
+    description: "Explore a beautiful spring garden filled with rows of blooming tulips, trees and winding pathways.",
+    tags: ["tulips", "flowers", "flower garden", "spring", "botanical garden", "nature", "flower beds", "blossoms"],
+    preview: "assets/previews/tulip-garden.png",
+    pdf: "assets/pdfs/tulip-garden.pdf",
+    alt: "Black and white outline drawing of rows of blooming tulips in a garden with trees, pathways and visitors in the background"
+  },
+  {
     id: "tulip-garden-trees",
     title: "Tulip Garden",
     category: "Nature",
