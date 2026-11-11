@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "storybook-cottage-and-tower",
+    title: "Storybook Cottage and Tower",
+    category: "Buildings",
+    description: "Colour a charming storybook cottage with a patterned roof, a tall pointed tower and beautiful trees and bushes.",
+    tags: ["storybook cottage", "fairytale house", "tower", "architecture", "patterned roof", "woodland", "trees", "garden"],
+    preview: "assets/previews/storybook-cottage-and-tower.png",
+    pdf: "assets/pdfs/storybook-cottage-and-tower.pdf",
+    alt: "Black and white outline drawing of a decorative cottage with a patterned roof, pointed tower, arched windows, bushes and trees."
+  },
+  {
     id: "jeju-traditional-village",
     title: "Jeju Traditional Village",
     category: "Places",
