@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "hat-wearing-garden-statue",
+    title: "Hat-Wearing Garden Statue",
+    category: "Nature",
+    description: "Colour a cheerful garden statue of a seated man tipping his hat, surrounded by trees, bushes and a stone pathway.",
+    tags: ["garden", "statue", "hat", "trees", "stone pathway", "park", "seated figure", "outdoors"],
+    preview: "assets/previews/hat-wearing-garden-statue.png",
+    pdf: "assets/pdfs/hat-wearing-garden-statue.pdf",
+    alt: "Black outline drawing of a smiling man sitting cross-legged and tipping his hat in a garden with trees, bushes and stone paving."
+  },
+  {
     id: "yellow-tulip-field",
     title: "Yellow Tulip Field",
     category: "Nature",
