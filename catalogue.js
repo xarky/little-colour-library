@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "yellow-tulip-field",
+    title: "Yellow Tulip Field",
+    category: "Nature",
+    description: "Explore a beautiful field of blooming tulips surrounded by trees in this cheerful spring colouring page.",
+    tags: ["tulips", "flowers", "flower field", "spring", "garden", "woodland", "blossoms", "nature"],
+    preview: "assets/previews/yellow-tulip-field.png",
+    pdf: "assets/pdfs/yellow-tulip-field.pdf",
+    alt: "Black and white outline drawing of a large field of blooming tulips with trees in the background"
+  },
+  {
     id: "rocky-coastal-cove",
     title: "Rocky Coastal Cove",
     category: "Nature",
