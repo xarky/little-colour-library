@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "jeju-rocky-beach",
+    title: "Jeju Rocky Coast",
+    category: "Nature",
+    description: "Explore a beautiful coastal landscape inspired by Jeju Island in South Korea, with volcanic rocks, sandy beaches, rolling waves and distant wind turbines.",
+    tags: ["jeju island", "south korea", "volcanic rocks", "rocky beach", "ocean", "island", "wind turbines", "coastline"],
+    preview: "assets/previews/jeju-rocky-beach.png",
+    pdf: "assets/pdfs/jeju-rocky-beach.pdf",
+    alt: "Black outline drawing of a rocky coastal beach with ocean waves, a distant island, clouds and wind turbines."
+  },
+  {
     id: "tropical-palm-garden-path",
     title: "Tropical Palm Garden Path",
     category: "Nature",
