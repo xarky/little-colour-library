@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "palm-lined-garden-path",
+    title: "Palm-Lined Garden Path",
+    category: "Nature",
+    description: "Colour a peaceful garden pathway lined with tall palm trees, leafy bushes and rocks in this relaxing outdoor scene.",
+    tags: ["palm trees", "garden", "pathway", "tropical", "trees", "landscape", "nature", "park"],
+    preview: "assets/previews/palm-lined-garden-path.png",
+    pdf: "assets/pdfs/palm-lined-garden-path.pdf",
+    alt: "Black and white outline drawing of a brick pathway through a garden, with tall palm trees on the left and leafy bushes and rocks on the right."
+  },
+  {
     id: "palm-tree-park",
     title: "Palm Tree Park",
     category: "Nature",
