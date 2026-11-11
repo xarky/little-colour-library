@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "daffodil-garden",
+    title: "Daffodil Garden",
+    category: "Nature",
+    description: "Explore a beautiful garden filled with blooming flowers, tall palm trees and woodland scenery in this delightful colouring activity for children.",
+    tags: ["daffodils", "flowers", "garden", "palm trees", "woodland", "spring", "flower meadow", "nature"],
+    preview: "assets/previews/daffodil-garden.png",
+    pdf: "assets/pdfs/daffodil-garden.pdf",
+    alt: "Black-and-white outline drawing of a garden filled with large flowers, grass, palm trees and woodland trees in the background"
+  },
+  {
     id: "bonsai-garden",
     title: "Bonsai Garden",
     category: "Nature",
