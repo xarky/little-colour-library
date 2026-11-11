@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "flowering-bonsai-tree",
+    title: "Flowering Bonsai Tree",
+    category: "Nature",
+    description: "Colour a beautiful flowering bonsai tree growing in a shallow pot on a garden bench, surrounded by trees and plants.",
+    tags: ["bonsai", "bonsai tree", "flowering tree", "flowers", "garden", "nature", "plants", "tree"],
+    preview: "assets/previews/flowering-bonsai-tree.png",
+    pdf: "assets/pdfs/flowering-bonsai-tree.pdf",
+    alt: "Outline drawing of a flowering bonsai tree in an oval pot on a garden bench, surrounded by trees, bushes and rocks."
+  },
+  {
     id: "tulip-garden-curved",
     title: "Tulip Garden",
     category: "Nature",
