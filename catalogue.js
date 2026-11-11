@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "seaside-group-selfie",
+    title: "Seaside Group Selfie",
+    category: "People",
+    description: "A cheerful group of friends pose for a selfie beside the sea and towering rocky cliffs.",
+    tags: ["group selfie", "friends", "seaside", "rocky cliffs", "group photo", "coastal adventure", "holiday", "people"],
+    preview: "assets/previews/seaside-group-selfie.png",
+    pdf: "assets/pdfs/seaside-group-selfie.pdf",
+    alt: "Outline drawing of a smiling woman taking a selfie with a group of friends beside the sea and rocky cliffs"
+  },
+  {
     id: "two-grilled-fish",
     title: "Two Grilled Fish",
     category: "Animals",
