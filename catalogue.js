@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "coastal-cliff-hikers",
+    title: "Coastal Cliff Hikers",
+    category: "Nature",
+    description: "Two smiling hikers enjoy a scenic coastal viewpoint surrounded by towering rocky cliffs, flowers and the sea.",
+    tags: ["hiking", "hikers", "coastal cliffs", "mountains", "seaside", "outdoor adventure", "nature walk", "landscape"],
+    preview: "assets/previews/coastal-cliff-hikers.png",
+    pdf: "assets/pdfs/coastal-cliff-hikers.pdf",
+    alt: "Black and white outline drawing of two smiling hikers standing beside a wooden fence overlooking the sea and rocky coastal cliffs, with flowers in the foreground."
+  },
+  {
     id: "hilltop-group-photo",
     title: "Friends on a Hilltop",
     category: "People",
