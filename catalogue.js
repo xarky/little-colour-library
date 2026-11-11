@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "stone-statues-garden",
+    title: "Stone Statues Garden",
+    category: "Nature",
+    description: "Explore a fascinating garden of carved stone figures surrounded by trees and tropical plants, inspired by the traditional stone statues of Jeju Island in South Korea.",
+    tags: ["stone statues", "stone garden", "jeju island", "south korea", "dol hareubang", "korean culture", "sculptures", "tropical garden"],
+    preview: "assets/previews/stone-statues-garden.png",
+    pdf: "assets/pdfs/stone-statues-garden.pdf",
+    alt: "Black and white outline drawing of a garden filled with stone statues featuring carved faces, surrounded by trees, rocks and leafy plants."
+  },
+  {
     id: "daffodil-garden",
     title: "Daffodil Garden",
     category: "Nature",
