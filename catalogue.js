@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "stone-cottages-lily-pond",
+    title: "Stone Cottages and Lily Pond",
+    category: "Nature",
+    description: "Colour a peaceful village scene featuring traditional stone cottages with thatched roofs, a lily pond, trees and rustic stone walls.",
+    tags: ["stone cottages", "thatched roofs", "lily pond", "traditional village", "stone walls", "countryside", "nature", "korean village"],
+    preview: "assets/previews/stone-cottages-lily-pond.png",
+    pdf: "assets/pdfs/stone-cottages-lily-pond.pdf",
+    alt: "Black and white outline drawing of traditional thatched stone cottages overlooking a lily pond surrounded by stone walls, trees and plants."
+  },
+  {
     id: "korean-village-walk",
     title: "Korean Village Walk",
     category: "Places",
