@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "hilltop-group-photo",
+    title: "Friends on a Hilltop",
+    category: "People",
+    description: "A cheerful group of friends pose together on a countryside hilltop, ready for children to bring their outdoor adventure to life with colour.",
+    tags: ["friends", "group photo", "hilltop", "countryside", "outdoor adventure", "friendship", "people", "nature walk"],
+    preview: "assets/previews/hilltop-group-photo.png",
+    pdf: "assets/pdfs/hilltop-group-photo.pdf",
+    alt: "Black-and-white outline drawing of a large group of smiling friends posing on a grassy hilltop, with a wooden fence, clouds and countryside scenery."
+  },
+  {
     id: "garden-group-walk",
     title: "Garden Group Walk",
     category: "Nature",
