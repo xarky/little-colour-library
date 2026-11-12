@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "jeju-stone-statues",
+    title: "Jeju Stone Statues",
+    category: "Places",
+    description: "Colour five traditional Dol Hareubang stone statues standing beneath the volcanic mountains of Jeju Island in South Korea.",
+    tags: ["jeju island", "south korea", "dol hareubang", "stone statues", "volcanic mountain", "korean culture", "travel", "landmarks"],
+    preview: "assets/previews/jeju-stone-statues.png",
+    pdf: "assets/pdfs/jeju-stone-statues.pdf",
+    alt: "Black and white outline drawing of five smiling Korean stone statues wearing hats, with wooden fences and volcanic mountains behind them."
+  },
+  {
     id: "coastal-cove",
     title: "Coastal Cove",
     category: "Nature",
