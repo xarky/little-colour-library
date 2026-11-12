@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "fishing-boats-in-harbour",
+    title: "Fishing Boats in Harbour",
+    category: "Vehicles",
+    description: "Explore a busy fishing harbour filled with colourful possibilities as children colour the boats, fishing equipment and peaceful waterfront.",
+    tags: ["fishing boats", "harbour", "fisherman", "sea", "boats", "maritime", "fishing", "waterfront"],
+    preview: "assets/previews/fishing-boats-in-harbour.png",
+    pdf: "assets/pdfs/fishing-boats-in-harbour.pdf",
+    alt: "Outline drawing of fishing boats moored in a harbour, with a fisherman, boat cabins, ropes, masts and waterfront buildings."
+  },
+  {
     id: "fish-market-stall",
     title: "Fish Market Stall",
     category: "Animals",
