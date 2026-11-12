@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "gamcheon-culture-village",
+    title: "Gamcheon Culture Village",
+    category: "Places",
+    description: "Explore the hillside houses, winding rooftops and beautiful coastal scenery of Gamcheon Culture Village in Busan, South Korea.",
+    tags: ["gamcheon", "busan", "south korea", "hillside village", "houses", "coastal town", "architecture", "travel"],
+    preview: "assets/previews/gamcheon-culture-village.png",
+    pdf: "assets/pdfs/gamcheon-culture-village.pdf",
+    alt: "Black outline drawing of hillside houses, rooftops, trees and a distant harbour in Gamcheon Culture Village, Busan"
+  },
+  {
     id: "hello-jeju-airport",
     title: "Hello Jeju Airport",
     category: "Travel",
