@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "hello-jeju-airport",
+    title: "Hello Jeju Airport",
+    category: "Travel",
+    description: "Explore the tropical gardens, towering palm trees and modern buildings outside Jeju International Airport in South Korea.",
+    tags: ["jeju island", "south korea", "jeju airport", "palm trees", "tropical gardens", "airport", "travel", "landscape"],
+    preview: "assets/previews/hello-jeju-airport.png",
+    pdf: "assets/pdfs/hello-jeju-airport.pdf",
+    alt: "Outline drawing of Jeju International Airport with tall palm trees, rounded garden bushes, modern buildings and a Hello Jeju sign."
+  },
+  {
     id: "lobster-seafood-stall",
     title: "Lobsters at a Seafood Stall",
     category: "Animals",
