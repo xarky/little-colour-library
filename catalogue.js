@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "jeju-stone-grandfather",
+    title: "Jeju Stone Grandfather",
+    category: "Landmarks",
+    description: "Discover South Korean culture by colouring a traditional Dol Hareubang stone grandfather statue on Jeju Island.",
+    tags: ["jeju island", "south korea", "dol hareubang", "stone grandfather", "korean culture", "traditional statue", "landmarks", "asia"],
+    preview: "assets/previews/jeju-stone-grandfather.png",
+    pdf: "assets/pdfs/jeju-stone-grandfather.pdf",
+    alt: "Black and white outline drawing of a traditional Jeju Island stone grandfather statue with a rounded hat, folded hands and stone base."
+  },
+  {
     id: "jeju-stone-statues",
     title: "Jeju Stone Statues",
     category: "Places",
