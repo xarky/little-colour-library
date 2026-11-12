@@ -1,7 +1,26 @@
 // Add a new object inside the array to publish another colouring page.
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
-  
+  {
+    id: "coastal-nature-walk",
+    title: "Coastal Nature Walk",
+    category: "Nature",
+    description: "Enjoy a peaceful countryside walk along a winding coastal path, with wooden steps, grassy fields and a distant lookout tower to colour.",
+    tags: ["coastal walk", "nature trail", "countryside", "wooden staircase", "walking", "landscape", "lookout tower", "outdoors"],
+    preview: "assets/previews/coastal-nature-walk.png",
+    pdf: "assets/pdfs/coastal-nature-walk.pdf",
+    alt: "Outline drawing of two people walking down wooden steps towards a winding coastal path, surrounded by grass, bushes, hills and a distant lookout tower."
+  },
+  {
+    id: "hilltop-hiking-trail",
+    title: "Hilltop Hiking Trail",
+    category: "Nature",
+    description: "Join a group of hikers climbing a winding wooden staircase through grassy hills towards a hilltop observation tower.",
+    tags: ["hiking", "hilltop", "walking trail", "wooden staircase", "observation tower", "outdoor adventure", "nature", "hikers"],
+    preview: "assets/previews/hilltop-hiking-trail.png",
+    pdf: "assets/pdfs/hilltop-hiking-trail.pdf",
+    alt: "Black and white outline drawing of hikers walking up a fenced wooden staircase towards an observation tower on a grassy hill."
+  },
   {
     id: "storybook-cottage-and-tower",
     title: "Storybook Cottage and Tower",
