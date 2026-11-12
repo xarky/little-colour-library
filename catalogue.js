@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "rocky-coastal-cove-jeju",
+    title: "Rocky Coastal Cove",
+    category: "Nature",
+    description: "Explore a peaceful coastal cove with towering rocky cliffs, a curved beach, small boats and beautiful seaside scenery.",
+    tags: ["coastal cove", "rocky cliffs", "seaside", "beach", "boats", "coastline", "sea", "nature"],
+    preview: "assets/previews/rocky-coastal-cove-jeju.png",
+    pdf: "assets/pdfs/rocky-coastal-cove-jeju.pdf",
+    alt: "Black and white outline drawing of a rocky coastal cove with tall cliffs, a curved beach, two small boats, sea rocks and a foreground fence."
+  },
+  {
     id: "coastal-cliff-adventure",
     title: "Coastal Cliff Adventure",
     category: "Nature",
