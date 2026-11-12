@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "hillside-village",
+    title: "Hillside Village",
+    category: "Places",
+    description: "Explore a colourful hillside village filled with closely packed houses, winding streets and mountain scenery in this detailed colouring activity.",
+    tags: ["hillside village", "south korea", "houses", "rooftops", "mountains", "cityscape", "architecture", "village"],
+    preview: "assets/previews/hillside-village.png",
+    pdf: "assets/pdfs/hillside-village.pdf",
+    alt: "Black and white outline drawing of a hillside village with clustered houses, rooftops, winding streets, trees and mountains"
+  },
+  {
     id: "gamcheon-culture-village",
     title: "Gamcheon Culture Village",
     category: "Places",
