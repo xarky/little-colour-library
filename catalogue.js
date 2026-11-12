@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "wildflower-meadow-and-rocky-hill",
+    title: "Wildflower Meadow and Rocky Hill",
+    category: "Nature",
+    description: "Explore a beautiful countryside meadow filled with flowers beneath a magnificent rocky hill in this relaxing colouring activity for children.",
+    tags: ["wildflowers", "flower meadow", "rocky hill", "countryside", "spring flowers", "landscape", "nature", "mountains"],
+    preview: "assets/previews/wildflower-meadow-and-rocky-hill.png",
+    pdf: "assets/pdfs/wildflower-meadow-and-rocky-hill.pdf",
+    alt: "Black and white outline drawing of a countryside meadow filled with large flowers, with a rocky hill, trees and lampposts in the background"
+  },
+  {
     id: "jeju-coastal-walk",
     title: "Jeju Coastal Walk",
     category: "Nature",
