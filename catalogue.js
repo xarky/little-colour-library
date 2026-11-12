@@ -1,6 +1,7 @@
 // Add a new object inside the array to publish another colouring page.
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
+  
   {
     id: "storybook-cottage-and-tower",
     title: "Storybook Cottage and Tower",
