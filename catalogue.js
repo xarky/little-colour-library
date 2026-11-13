@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "busan-tower-guardian",
+    title: "Busan Tower Guardian",
+    category: "Landmarks",
+    description: "Colour the historic guardian statue standing beneath Busan Tower in South Korea, surrounded by traditional architecture and gardens.",
+    tags: ["busan", "south korea", "busan tower", "guardian statue", "korean landmarks", "monument", "travel", "architecture"],
+    preview: "assets/previews/busan-tower-guardian.png",
+    pdf: "assets/pdfs/busan-tower-guardian.pdf",
+    alt: "Black outline drawing of a Korean guardian statue on a stone pedestal, with Busan Tower rising behind it, a traditional building, trees and a chain fence."
+  },
+  {
     id: "woodland-walking-path-busan",
     title: "Woodland Walking Path",
     category: "Nature",
