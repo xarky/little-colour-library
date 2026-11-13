@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-bodhisattva-statue",
+    title: "Korean Bodhisattva Statue",
+    category: "Landmarks",
+    description: "Colour a beautiful Korean Bodhisattva statue standing on a lotus pedestal, surrounded by trees and smaller statues in a peaceful temple garden.",
+    tags: ["south korea", "bodhisattva", "buddhist statue", "temple", "lotus flower", "korean culture", "temple garden", "landmark"],
+    preview: "assets/previews/korean-bodhisattva-statue.png",
+    pdf: "assets/pdfs/korean-bodhisattva-statue.pdf",
+    alt: "Outline drawing of a tall Korean Bodhisattva statue standing on a lotus pedestal, with a smaller statue, offering altar and trees."
+  },
+  {
     id: "korean-coastal-temple",
     title: "Korean Coastal Temple",
     category: "Places",
