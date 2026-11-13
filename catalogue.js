@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-seafood-market",
+    title: "Korean Seafood Market",
+    category: "Animals",
+    description: "Explore a bustling South Korean seafood market filled with crabs, clams, oysters and other fascinating sea creatures waiting to be coloured.",
+    tags: ["south korea", "seafood market", "crabs", "oysters", "clams", "shellfish", "marine life", "fish market"],
+    preview: "assets/previews/korean-seafood-market.png",
+    pdf: "assets/pdfs/korean-seafood-market.pdf",
+    alt: "Black and white outline drawing of a Korean seafood market stall displaying trays of clams, oysters and other shellfish beside water tanks containing crabs."
+  },
+  {
     id: "gwangan-bridge-beach",
     title: "Gwangan Bridge Beach",
     category: "Places",
