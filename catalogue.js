@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "busan-railway-cityscape",
+    title: "Busan Railway Cityscape",
+    category: "Places",
+    description: "Explore the railway tracks, bridges, mountains and tall buildings of Busan in South Korea with this cityscape colouring page.",
+    tags: ["busan", "south korea", "railway", "train tracks", "cityscape", "skyscrapers", "bridges", "mountains"],
+    preview: "assets/previews/busan-railway-cityscape.png",
+    pdf: "assets/pdfs/busan-railway-cityscape.pdf",
+    alt: "Outline drawing of Busan's railway tracks and platforms, with bridges, skyscrapers and mountains in the background"
+  },
+  {
     id: "sea-cable-car",
     title: "Sea Cable Car",
     category: "Vehicles",
