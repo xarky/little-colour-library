@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-indoor-market",
+    title: "Korean Indoor Market",
+    category: "Places",
+    description: "Explore a bustling South Korean indoor market filled with shoppers, colourful stalls and a beautiful arched roof in this fun colouring activity.",
+    tags: ["south korea", "korean market", "indoor market", "shopping", "market stalls", "busan", "travel", "architecture"],
+    preview: "assets/previews/korean-indoor-market.png",
+    pdf: "assets/pdfs/korean-indoor-market.pdf",
+    alt: "Black and white outline drawing of shoppers walking through a busy Korean indoor market with stalls on both sides and a tall arched roof."
+  },
+  {
     id: "korean-market-street",
     title: "Korean Market Street",
     category: "Places",
