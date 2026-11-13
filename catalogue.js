@@ -2,6 +2,17 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "coastal-cargo-ships",
+    title: "Coastal Cargo Ships",
+    category: "Nature",
+    description: "Colour a peaceful coastal landscape featuring cargo ships sailing across the sea, rocky cliffs, pine trees and distant mountains.",
+    tags: ["cargo ships", "sea", "coastline", "mountains", "pine trees", "rocky cliffs", "harbour", "landscape"],
+    preview: "assets/previews/coastal-cargo-ships.png",
+    pdf: "assets/pdfs/coastal-cargo-ships.pdf",
+    alt: "Black and white outline drawing of cargo ships at sea, with rocky coastal cliffs, pine trees and mountains in the background."
+  },
+
+  {
     id: "busan-tower-guardian",
     title: "Busan Tower Guardian",
     category: "Landmarks",
