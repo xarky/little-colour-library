@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "sea-cable-car",
+    title: "Sea Cable Car",
+    category: "Vehicles",
+    description: "Colour cable cars travelling high above the sea, with beautiful coastal hills, boats and buildings in the background.",
+    tags: ["cable car", "gondola", "ropeway", "sea", "coast", "mountains", "transport", "south korea"],
+    preview: "assets/previews/sea-cable-car.png",
+    pdf: "assets/pdfs/sea-cable-car.pdf",
+    alt: "Black and white outline drawing of cable cars travelling over the sea, supported by a tall tower, with coastal hills, buildings and boats."
+  },
+  {
     id: "busan-cable-car-waterfront",
     title: "Busan Cable Car Waterfront",
     category: "Vehicles",
