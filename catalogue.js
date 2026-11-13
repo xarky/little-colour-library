@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-market-street",
+    title: "Korean Market Street",
+    category: "Places",
+    description: "Explore a lively South Korean shopping street filled with shops, market stalls, pedestrians and a scooter in this fun colouring activity for children.",
+    tags: ["south korea", "korean street", "shopping street", "market", "scooter", "city buildings", "street scene", "asia"],
+    preview: "assets/previews/korean-market-street.png",
+    pdf: "assets/pdfs/korean-market-street.pdf",
+    alt: "Black and white outline drawing of a Korean shopping street with tall buildings, shop signs, clothing stalls, pedestrians, a scooter and road markings."
+  },
+  {
     id: "busan-film-festival-street",
     title: "Busan International Film Festival Street",
     category: "Places",
