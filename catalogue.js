@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-lollipop-stall",
+    title: "Korean Lollipop Stall",
+    category: "Food",
+    description: "Explore a colourful Korean sweet stall filled with playful character-shaped lollipops, including animals, flowers and fun designs.",
+    tags: ["south korea", "korean sweets", "lollipops", "candy stall", "dalgona", "street food", "sweet treats", "character sweets"],
+    preview: "assets/previews/korean-lollipop-stall.png",
+    pdf: "assets/pdfs/korean-lollipop-stall.pdf",
+    alt: "Outline drawing of character-shaped Korean lollipops displayed on a tiered stand, featuring animals, faces, flowers and playful designs."
+  },
+  {
     id: "korean-street-food-stall",
     title: "Korean Street Food Stall",
     category: "Food",
