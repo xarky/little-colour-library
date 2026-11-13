@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "busan-film-festival-street",
+    title: "Busan International Film Festival Street",
+    category: "Places",
+    description: "Explore a lively street in Busan, South Korea, with its famous film festival arches, bustling crowds, shops and market stalls.",
+    tags: ["busan", "south korea", "film festival", "street scene", "city", "asia", "market stalls", "travel"],
+    preview: "assets/previews/busan-film-festival-street.png",
+    pdf: "assets/pdfs/busan-film-festival-street.pdf",
+    alt: "Black and white outline drawing of Busan International Film Festival street with large decorative arches, pedestrians, shops and market stalls."
+  },
+  {
     id: "seafood-market-stall",
     title: "Seafood Market Stall",
     category: "Animals",
