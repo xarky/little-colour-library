@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "seafood-market-stall",
+    title: "Seafood Market Stall",
+    category: "Animals",
+    description: "Explore a bustling seafood market filled with baskets of shellfish, mussels, clams and other fascinating sea creatures waiting to be coloured.",
+    tags: ["seafood", "fish market", "shellfish", "mussels", "clams", "sea creatures", "market stall", "ocean life"],
+    preview: "assets/previews/seafood-market-stall.png",
+    pdf: "assets/pdfs/seafood-market-stall.pdf",
+    alt: "Black and white outline drawing of a seafood market stall with trays of shellfish, baskets of mussels, clams and other seafood."
+  },
+  {
     id: "korean-seafood-market",
     title: "Korean Seafood Market",
     category: "Animals",
