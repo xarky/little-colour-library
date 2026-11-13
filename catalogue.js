@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "drone-show-by-the-sea",
+    title: "Drone Show by the Sea",
+    category: "Places",
+    description: "Colour a spectacular seaside drone light show above a waterfront skyline, with clouds, gentle waves and a peaceful beach.",
+    tags: ["drone show", "light display", "seaside", "beach", "city skyline", "night sky", "waterfront", "south korea"],
+    preview: "assets/previews/drone-show-by-the-sea.png",
+    pdf: "assets/pdfs/drone-show-by-the-sea.pdf",
+    alt: "Outline drawing of a seaside drone light display above a city skyline, waterfront promenade and rolling waves."
+  },
+  {
     id: "busan-harbour-bridge",
     title: "Busan Harbour Bridge",
     category: "Places",
