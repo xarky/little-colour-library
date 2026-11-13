@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "busan-gwangalli-beach",
+    title: "Gwangalli Beach, Busan",
+    category: "Places",
+    description: "Explore South Korea's Gwangalli Beach with its famous bridge, city skyline and families enjoying the waterfront.",
+    tags: ["busan", "gwangalli beach", "south korea", "gwangan bridge", "beach", "city skyline", "waterfront", "travel"],
+    preview: "assets/previews/busan-gwangalli-beach.png",
+    pdf: "assets/pdfs/busan-gwangalli-beach.pdf",
+    alt: "Outline drawing of visitors at Gwangalli Beach in Busan, with decorative installations, a city skyline and Gwangan Bridge."
+  },
+  {
     id: "drone-show-by-the-sea",
     title: "Drone Show by the Sea",
     category: "Places",
