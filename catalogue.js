@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "busan-harbour-bridge",
+    title: "Busan Harbour Bridge",
+    category: "Places",
+    description: "Explore Busan's waterfront in South Korea with its impressive cable-stayed bridge, boats, buildings and coastal scenery.",
+    tags: ["busan", "south korea", "harbour", "bridge", "waterfront", "cityscape", "boats", "architecture"],
+    preview: "assets/previews/busan-harbour-bridge.png",
+    pdf: "assets/pdfs/busan-harbour-bridge.pdf",
+    alt: "Outline drawing of Busan's waterfront with a large cable-stayed bridge, a boat, city buildings, hills and clouds."
+  },
+  {
     id: "busan-railway-cityscape",
     title: "Busan Railway Cityscape",
     category: "Places",
