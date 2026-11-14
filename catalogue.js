@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "laughing-buddha-temple",
+    title: "Laughing Buddha Temple",
+    category: "Places",
+    description: "Explore a peaceful woodland temple featuring a cheerful Laughing Buddha statue, a stone pagoda and a seated visitor.",
+    tags: ["laughing buddha", "buddha statue", "temple", "south korea", "pagoda", "woodland", "travel", "buddhist temple"],
+    preview: "assets/previews/laughing-buddha-temple.png",
+    pdf: "assets/pdfs/laughing-buddha-temple.pdf",
+    alt: "Black and white outline drawing of a smiling Laughing Buddha statue behind a seated visitor, with a stone pagoda, trees and a traditional temple roof."
+  },
+  {
     id: "football-training-evening",
     title: "Football Training Evening",
     category: "Sport",
