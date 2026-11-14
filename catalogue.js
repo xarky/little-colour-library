@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "football-team-celebration",
+    title: "Football Team Celebration",
+    category: "Sport",
+    description: "Children, parents and coaches gather on a football pitch for a cheerful team photograph, celebrating friendship and the joy of football.",
+    tags: ["football", "soccer", "football team", "young players", "teamwork", "football pitch", "coaches", "sports"],
+    preview: "assets/previews/football-team-celebration.png",
+    pdf: "assets/pdfs/football-team-celebration.pdf",
+    alt: "Black-and-white outline drawing of children and adults posing together on a football pitch, with a football, goalposts and stadium lights."
+  },
+  {
     id: "football-family-fun",
     title: "Football Family Fun",
     category: "Sport",
