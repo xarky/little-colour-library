@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "rocky-coastline",
+    title: "Rocky Coastline",
+    category: "Nature",
+    description: "Explore a beautiful rocky coastline with towering cliffs, coastal trees and gentle waves rolling towards the shore.",
+    tags: ["coastline", "cliffs", "sea", "ocean", "waves", "rocks", "coastal landscape", "nature"],
+    preview: "assets/previews/rocky-coastline.png",
+    pdf: "assets/pdfs/rocky-coastline.pdf",
+    alt: "Black and white outline drawing of a rocky coastline with tall cliffs, coastal vegetation, clouds and waves across the sea."
+  },
+  {
     id: "korean-stone-guardian",
     title: "Korean Stone Guardian",
     category: "Travel",
