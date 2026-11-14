@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "football-training-at-night",
+    title: "Football Training at Night",
+    category: "Sport",
+    description: "Young footballers and their coaches enjoy a lively training session under the floodlights on a football pitch.",
+    tags: ["football", "soccer", "football training", "young footballers", "football coaches", "team sports", "floodlights", "football pitch"],
+    preview: "assets/previews/football-training-at-night.png",
+    pdf: "assets/pdfs/football-training-at-night.pdf",
+    alt: "Black and white outline drawing of children and adult coaches playing football on a floodlit pitch, with a goal, fencing and buildings in the background."
+  },
+  {
     id: "football-training-under-floodlights",
     title: "Football Training Under Floodlights",
     category: "Sport",
