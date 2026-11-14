@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "football-family-fun-1",
+    title: "Football Family Fun",
+    category: "Sport",
+    description: "Children and adults enjoy a fun football match together on a floodlit pitch, perfect for young football fans to colour.",
+    tags: ["football", "soccer", "sports", "football pitch", "children playing", "family football", "football match", "teamwork"],
+    preview: "assets/previews/football-family-fun-1.png",
+    pdf: "assets/pdfs/football-family-fun-1.pdf",
+    alt: "Black and white outline drawing of children and adults playing football on a pitch with goals, floodlights and buildings in the background"
+  },
+  {
     id: "football-training-at-night",
     title: "Football Training at Night",
     category: "Sport",
