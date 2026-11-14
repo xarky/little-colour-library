@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-stone-monk-statues",
+    title: "Korean Stone Monk Statues",
+    category: "Landmarks",
+    description: "Explore a peaceful Korean shrine featuring five smiling stone monk statues surrounded by rocks and plants.",
+    tags: ["south korea", "korean shrine", "stone statues", "buddhist monks", "temple", "lotus flowers", "prayer beads", "korean culture"],
+    preview: "assets/previews/korean-stone-monk-statues.png",
+    pdf: "assets/pdfs/korean-stone-monk-statues.pdf",
+    alt: "Black and white outline drawing of five smiling Korean stone monk statues in a rocky shrine, with lotus bases, prayer beads and an offering box."
+  },
+  {
     id: "korean-coastal-temple-1",
     title: "Korean Coastal Temple",
     category: "Places",
