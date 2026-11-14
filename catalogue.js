@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "buddhist-statue-garden",
+    title: "Buddhist Statue Garden",
+    category: "Places",
+    description: "Explore a peaceful Buddhist statue garden with traditional stone figures, terraced walls, water pools and leafy trees in this detailed colouring activity.",
+    tags: ["buddhist statues", "buddha", "temple garden", "south korea", "stone sculptures", "water pools", "asian culture", "meditation"],
+    preview: "assets/previews/buddhist-statue-garden.png",
+    pdf: "assets/pdfs/buddhist-statue-garden.pdf",
+    alt: "Black-and-white outline drawing of a Buddhist statue garden with rows of seated figures, a standing statue, stone terraces, water pools and trees."
+  },
+  {
     id: "laughing-buddha-temple",
     title: "Laughing Buddha Temple",
     category: "Places",
