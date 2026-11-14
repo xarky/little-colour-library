@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-coastal-temple-1",
+    title: "Korean Coastal Temple",
+    category: "Places",
+    description: "Explore a beautiful Korean coastal temple with traditional tiled roofs, rocky mountains, stone stairways and visitors enjoying the scenery.",
+    tags: ["south korea", "korean temple", "coastal temple", "traditional architecture", "mountains", "stone staircase", "travel", "asia"],
+    preview: "assets/previews/korean-coastal-temple-1.png",
+    pdf: "assets/pdfs/korean-coastal-temple-1.pdf",
+    alt: "Black and white outline drawing of a Korean coastal temple with traditional tiled roofs, rocky mountains, trees, visitors and a long stone staircase."
+  },
+  {
     id: "buddhist-statue-garden",
     title: "Buddhist Statue Garden",
     category: "Places",
