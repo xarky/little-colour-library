@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "youth-football-team-photo",
+    title: "Youth Football Team Photo",
+    category: "Sport",
+    description: "A group of young footballers pose together on a football pitch after a fun day of football, with a goal and historic buildings in the background.",
+    tags: ["football", "soccer", "youth football", "football team", "team photo", "football pitch", "sports", "football tournament"],
+    preview: "assets/previews/youth-football-team-photo.png",
+    pdf: "assets/pdfs/youth-football-team-photo.pdf",
+    alt: "Black and white outline drawing of young footballers standing and kneeling together on a football pitch, with a goal and historic buildings behind them."
+  },
+  {
     id: "rocky-coastline",
     title: "Rocky Coastline",
     category: "Nature",
