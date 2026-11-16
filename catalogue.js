@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "busan-rocky-coast",
+    title: "Busan Rocky Coast",
+    category: "Places",
+    description: "Explore the rocky coastline of Busan in South Korea, with rolling sea waves, a distant bridge and a modern waterfront building.",
+    tags: ["busan", "south korea", "rocky coast", "ocean waves", "seaside", "bridge", "coastal scenery", "waterfront"],
+    preview: "assets/previews/busan-rocky-coast.png",
+    pdf: "assets/pdfs/busan-rocky-coast.pdf",
+    alt: "Black outline drawing of waves crashing against rocks along Busan's coastline, with a bridge, city skyline and domed waterfront building."
+  },
+  {
     id: "mermaid-on-rocks",
     title: "Mermaid on the Rocks",
     category: "Fantasy",
