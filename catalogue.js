@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-barbecue-grill",
+    title: "Korean Barbecue Grill",
+    category: "Food",
+    description: "Explore a traditional Korean barbecue meal with meat cooking on a tabletop charcoal grill, surrounded by side dishes and utensils.",
+    tags: ["korean barbecue", "korean food", "charcoal grill", "bbq", "cooking", "meat", "south korea", "food"],
+    preview: "assets/previews/korean-barbecue-grill.png",
+    pdf: "assets/pdfs/korean-barbecue-grill.pdf",
+    alt: "Outline drawing of a Korean tabletop barbecue grill with pieces of meat, cooking tongs, bowls of side dishes and kitchen utensils."
+  },
+  {
     id: "circular-conference-room",
     title: "Circular Conference Room",
     category: "Buildings",
