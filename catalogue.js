@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "busan-haeundae-beach",
+    title: "Busan Haeundae Beach",
+    category: "Places",
+    description: "Colour the famous Haeundae Beach in Busan, South Korea, with its towering city skyline, rolling sea waves and rocky shoreline.",
+    tags: ["busan", "haeundae beach", "south korea", "beach", "ocean waves", "city skyline", "coastline", "seaside"],
+    preview: "assets/previews/busan-haeundae-beach.png",
+    pdf: "assets/pdfs/busan-haeundae-beach.pdf",
+    alt: "Black outline drawing of Haeundae Beach in Busan, showing tall skyscrapers, rolling waves, a sandy beach and large rocks along the shore."
+  },
+  {
     id: "cherry-blossom-group",
     title: "Friends Beneath the Cherry Blossoms",
     category: "People",
