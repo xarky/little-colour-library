@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "beach-group-celebration",
+    title: "Beach Group Celebration",
+    category: "People",
+    description: "A cheerful group of friends jump, wave and celebrate together on a sandy beach beside the sea.",
+    tags: ["beach", "friends", "group celebration", "seaside", "jumping", "ocean", "friendship", "outdoor adventure"],
+    preview: "assets/previews/beach-group-celebration.png",
+    pdf: "assets/pdfs/beach-group-celebration.pdf",
+    alt: "Black-and-white outline drawing of a cheerful group of friends jumping and waving on a sandy beach, with waves and rocks in the background."
+  },
+  {
     id: "youth-football-team-trophy",
     title: "Youth Football Team with Trophy",
     category: "Sport",
