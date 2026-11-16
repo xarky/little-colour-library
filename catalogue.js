@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "circular-conference-room",
+    title: "Circular Conference Room",
+    category: "Buildings",
+    description: "Explore a grand circular conference room with a large meeting table, elegant chairs and decorative architectural features in this colouring activity.",
+    tags: ["conference room", "meeting room", "round table", "chairs", "architecture", "interior design", "conference hall", "buildings"],
+    preview: "assets/previews/circular-conference-room.png",
+    pdf: "assets/pdfs/circular-conference-room.pdf",
+    alt: "Black and white outline drawing of a grand circular conference room with a large round meeting table, rows of chairs, columns and curved walls."
+  },
+  {
     id: "coastal-lighthouse-and-pine-trees",
     title: "Coastal Lighthouse and Pine Trees",
     category: "Nature",
