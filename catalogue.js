@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mermaid-on-rocks",
+    title: "Mermaid on the Rocks",
+    category: "Fantasy",
+    description: "Colour a beautiful mermaid resting on seaside rocks, surrounded by rolling ocean waves in this magical underwater-inspired scene.",
+    tags: ["mermaid", "sea", "ocean", "rocks", "waves", "fantasy", "seaside", "mythical creatures"],
+    preview: "assets/previews/mermaid-on-rocks.png",
+    pdf: "assets/pdfs/mermaid-on-rocks.pdf",
+    alt: "Black and white outline drawing of a mermaid with flowing hair and a curved tail sitting on coastal rocks beside ocean waves"
+  },
+  {
     id: "haeundae-beach-skyline",
     title: "Haeundae Beach Skyline",
     category: "Places",
