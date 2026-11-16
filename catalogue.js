@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "cherry-blossom-group",
+    title: "Friends Beneath the Cherry Blossoms",
+    category: "People",
+    description: "A cheerful group of friends gathers beneath a beautiful cherry blossom tree beside a traditional Korean building, offering children a fun scene to colour.",
+    tags: ["cherry blossom", "friends", "group photo", "south korea", "spring", "flowering tree", "traditional korean architecture", "garden"],
+    preview: "assets/previews/cherry-blossom-group.png",
+    pdf: "assets/pdfs/cherry-blossom-group.pdf",
+    alt: "Black and white outline drawing of a group of friends standing beneath a flowering cherry blossom tree in a traditional Korean garden."
+  },
+  {
     id: "korean-village-group",
     title: "Korean Village Group",
     category: "Travel",
