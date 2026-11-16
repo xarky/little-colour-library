@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "temple-volunteers-group",
+    title: "Temple Volunteers Group",
+    category: "People",
+    description: "A cheerful group of volunteers pose together outdoors while a smiling man performs the splits in front of them.",
+    tags: ["volunteers", "group photo", "temple", "teamwork", "friendship", "people", "splits", "south korea"],
+    preview: "assets/previews/temple-volunteers-group.png",
+    pdf: "assets/pdfs/temple-volunteers-group.pdf",
+    alt: "Outline drawing of a group of smiling volunteers standing outside a building, with a man performing the splits in the foreground."
+  },
+  {
     id: "korean-temple-guardians",
     title: "Korean Temple Guardians",
     category: "Travel",
