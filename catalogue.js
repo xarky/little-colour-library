@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "rocky-coast-and-bridge",
+    title: "Rocky Coast and Bridge",
+    category: "Nature",
+    description: "Explore a rocky seaside landscape with rolling waves, coastal trees and a long bridge stretching across the water.",
+    tags: ["rocky coast", "seaside", "ocean waves", "coastal landscape", "bridge", "rocks", "trees", "south korea"],
+    preview: "assets/previews/rocky-coast-and-bridge.png",
+    pdf: "assets/pdfs/rocky-coast-and-bridge.pdf",
+    alt: "Black and white outline drawing of waves washing against a rocky shoreline, with trees, a fence, distant buildings and a long bridge."
+  },
+  {
     id: "busan-rocky-coast",
     title: "Busan Rocky Coast",
     category: "Places",
