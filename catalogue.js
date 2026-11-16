@@ -2,14 +2,24 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
-    id: "temple-volunteers-group",
+    id: "korean-village-group",
+    title: "Korean Village Group",
+    category: "Travel",
+    description: "A cheerful group of travellers stands in front of traditional Korean houses, hillside trees and a stone wall.",
+    tags: ["south korea", "korean village", "traditional houses", "group of travellers", "korean architecture", "stone wall", "countryside", "travel"],
+    preview: "assets/previews/korean-village-group.png",
+    pdf: "assets/pdfs/korean-village-group.pdf",
+    alt: "Outline drawing of a group of travellers standing together in a traditional Korean village with tiled rooftops, trees and a stone wall"
+  },
+  {
+    id: "",
     title: "Temple Volunteers Group",
     category: "People",
     description: "A cheerful group of volunteers pose together outdoors while a smiling man performs the splits in front of them.",
     tags: ["volunteers", "group photo", "temple", "teamwork", "friendship", "people", "splits", "south korea"],
     preview: "assets/previews/temple-volunteers-group.png",
     pdf: "assets/pdfs/temple-volunteers-group.pdf",
-    alt: "Outline drawing of a group of smiling volunteers standing outside a building, with a man performing the splits in the foreground."
+    alt: "Outline drawing oftemple-volunteers-group a group of smiling volunteers standing outside a building, with a man performing the splits in the foreground."
   },
   {
     id: "korean-temple-guardians",
