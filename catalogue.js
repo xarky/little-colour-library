@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "lantern-bridge-group",
+    title: "Lantern Bridge Group",
+    category: "Travel",
+    description: "Colour a cheerful group of travellers standing on a decorative stone bridge surrounded by hanging lanterns and woodland trees.",
+    tags: ["stone bridge", "lanterns", "group photo", "travellers", "woodland", "architecture", "friendship", "holiday"],
+    preview: "assets/previews/lantern-bridge-group.png",
+    pdf: "assets/pdfs/lantern-bridge-group.pdf",
+    alt: "Outline drawing of a group of smiling travellers standing on an ornate stone bridge beneath hanging lanterns and trees."
+  },
+  {
     id: "korean-bear-statue-group",
     title: "Korean Bear Statue Group",
     category: "Travel",
