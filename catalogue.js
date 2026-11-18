@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-traditional-village-1",
+    title: "Korean Traditional Village",
+    category: "Places",
+    description: "Explore a peaceful traditional Korean village with charming houses, winding paths and beautiful trees in this countryside colouring page.",
+    tags: ["south korea", "korean village", "traditional houses", "countryside", "trees", "village landscape", "korean culture", "nature"],
+    preview: "assets/previews/korean-traditional-village-1.png",
+    pdf: "assets/pdfs/korean-traditional-village-1.pdf",
+    alt: "Black and white outline drawing of a traditional Korean village with houses, leafless trees, winding paths, benches and a person walking"
+  },
+  {
     id: "woodland-stone-path",
     title: "Woodland Stone Path",
     category: "Nature",
