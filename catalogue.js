@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "woodland-stone-path",
+    title: "Woodland Stone Path",
+    category: "Nature",
+    description: "Explore a peaceful woodland landscape with a traditional stone wall, winding path, flowering trees and rolling hills in this charming colouring activity for children.",
+    tags: ["woodland", "stone wall", "forest path", "flowering trees", "countryside", "mountains", "spring", "landscape"],
+    preview: "assets/previews/woodland-stone-path.png",
+    pdf: "assets/pdfs/woodland-stone-path.pdf",
+    alt: "Black outline drawing of a winding woodland path beside a traditional stone wall, with flowering trees, bushes, distant hills and a lamppost"
+  },
+  {
     id: "korean-barbecue-grill",
     title: "Korean Barbecue Grill",
     category: "Food",
