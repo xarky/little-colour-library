@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "buddhist-temple-altar",
+    title: "Buddhist Temple Altar",
+    category: "Places",
+    description: "Explore a traditional Buddhist temple altar with three peaceful statues, decorative lanterns and flowers.",
+    tags: ["buddha", "buddhist temple", "south korea", "temple altar", "buddhism", "lanterns", "statues", "asian culture"],
+    preview: "assets/previews/buddhist-temple-altar.png",
+    pdf: "assets/pdfs/buddhist-temple-altar.pdf",
+    alt: "Outline drawing of three seated Buddhist statues on a temple altar, surrounded by lanterns, flowers and candles."
+  },
+  {
     id: "korean-street-food-stall-2",
     title: "Korean Street Food Stall",
     category: "Food",
