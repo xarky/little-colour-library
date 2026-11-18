@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "pine-forest-beach",
+    title: "Pine Forest Beach",
+    category: "Nature",
+    description: "Colour a peaceful sandy beach surrounded by pine trees, gentle sea waves, coastal rocks and distant hills.",
+    tags: ["beach", "coastline", "pine trees", "sea", "waves", "forest", "seaside", "landscape"],
+    preview: "assets/previews/pine-forest-beach.png",
+    pdf: "assets/pdfs/pine-forest-beach.pdf",
+    alt: "Black and white outline drawing of a curved sandy beach, pine trees, coastal rocks, gentle waves and distant hills."
+  },
+  {
     id: "japanese-cutlet-meal",
     title: "Japanese Cutlet Meal",
     category: "Food",
