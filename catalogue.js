@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "ferris-wheel-waterfront",
+    title: "Ferris Wheel Waterfront",
+    category: "Places",
+    description: "Explore a lively waterfront with a giant Ferris wheel, tall city buildings and people enjoying a walk.",
+    tags: ["ferris wheel", "waterfront", "city skyline", "observation wheel", "buildings", "seaside", "amusement ride", "cityscape"],
+    preview: "assets/previews/ferris-wheel-waterfront.png",
+    pdf: "assets/pdfs/ferris-wheel-waterfront.pdf",
+    alt: "Outline drawing of a giant Ferris wheel beside modern city buildings, trees and people walking along a waterfront."
+  },
+  {
     id: "lantern-bridge-group",
     title: "Lantern Bridge Group",
     category: "Travel",
