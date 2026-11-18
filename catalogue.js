@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "japanese-cutlet-meal",
+    title: "Japanese Cutlet Meal",
+    category: "Food",
+    description: "Explore a delicious Japanese-style meal featuring crispy breaded cutlets, rice, fresh vegetables and traditional side dishes.",
+    tags: ["japanese food", "cutlet", "rice", "vegetables", "asian cuisine", "lunch", "food platter", "traditional meal"],
+    preview: "assets/previews/japanese-cutlet-meal.png",
+    pdf: "assets/pdfs/japanese-cutlet-meal.pdf",
+    alt: "Outline drawing of a Japanese meal tray with breaded cutlets, rice, vegetables, soup, salad and small side dishes."
+  },
+  {
     id: "cherry-blossom-street",
     title: "Cherry Blossom Street",
     category: "Places",
