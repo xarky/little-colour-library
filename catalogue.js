@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "temple-guardian-statues-1",
+    title: "Korean Temple Guardians",
+    category: "Landmarks",
+    description: "Colour two traditional Korean temple guardians wearing elaborate crowns and armour inside a beautifully decorated temple.",
+    tags: ["south korea", "korean temple", "temple guardians", "traditional statues", "korean culture", "asian architecture", "temple decorations", "cultural heritage"],
+    preview: "assets/previews/temple-guardian-statues-1.png",
+    pdf: "assets/pdfs/temple-guardian-statues-1.pdf",
+    alt: "Black and white outline drawing of two bearded Korean temple guardians wearing ornate crowns and armour, with one holding a tall staff inside a decorated temple."
+  },
+  {
     id: "temple-guardian-statues",
     title: "Temple Guardian Statues",
     category: "Landmarks",
