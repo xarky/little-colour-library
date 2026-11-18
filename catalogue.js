@@ -2,6 +2,26 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-temple-sunset",
+    title: "Korean Temple at Sunset",
+    category: "Places",
+    description: "Explore a peaceful South Korean temple surrounded by wooded hills, traditional architecture and a beautiful sunset.",
+    tags: ["south korea", "korean temple", "sunset", "traditional architecture", "pagoda", "woodland", "asia", "temple"],
+    preview: "assets/previews/korean-temple-sunset.png",
+    pdf: "assets/pdfs/korean-temple-sunset.pdf",
+    alt: "Outline drawing of a traditional Korean temple complex with pagoda-style buildings, trees, parked cars and a setting sun."
+  },
+  {
+    id: "korean-temple-gate",
+    title: "Korean Temple Gate",
+    category: "Places",
+    description: "Explore a traditional Korean temple entrance with guardian statues, martial arts figures and colourful lanterns waiting to be coloured in.",
+    tags: ["south korea", "korean temple", "temple gate", "traditional architecture", "martial arts", "guardian statues", "lanterns", "korean culture"],
+    preview: "assets/previews/korean-temple-gate.png",
+    pdf: "assets/pdfs/korean-temple-gate.pdf",
+    alt: "Outline drawing of a traditional Korean temple gate beside martial arts statues, lanterns, guardian figures and a wooded hillside"
+  },
+  {
     id: "stone-bridge-garden-pond",
     title: "Stone Bridge Garden Pond",
     category: "Nature",
