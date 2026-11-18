@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-temple",
+    title: "Traditional Korean Temple",
+    category: "Places",
+    description: "Explore traditional Korean architecture with this colouring page featuring a beautiful Buddhist temple, its curved tiled roof and visitors in the courtyard.",
+    tags: ["south korea", "korean temple", "buddhist temple", "korean architecture", "traditional buildings", "asian landmarks", "temple courtyard", "cultural heritage"],
+    preview: "assets/previews/korean-temple.png",
+    pdf: "assets/pdfs/korean-temple.pdf",
+    alt: "Black and white outline drawing of a traditional Korean Buddhist temple with a curved tiled roof, stone lantern, steps and visitors in the courtyard."
+  },
+  {
     id: "cherry-blossom-park-2",
     title: "Cherry Blossom Park",
     category: "Nature",
