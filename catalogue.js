@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "wooden-bridge-mountain-stream",
+    title: "Wooden Bridge and Mountain Stream",
+    category: "Nature",
+    description: "Colour a traditional wooden bridge crossing a rocky mountain stream, surrounded by beautiful trees and a Korean-style pavilion.",
+    tags: ["wooden bridge", "mountain stream", "south korea", "korean pavilion", "mountains", "river rocks", "forest", "nature"],
+    preview: "assets/previews/wooden-bridge-mountain-stream.png",
+    pdf: "assets/pdfs/wooden-bridge-mountain-stream.pdf",
+    alt: "Black and white outline drawing of a wooden bridge over a rocky stream, with a traditional Korean pavilion, trees and mountains in the background"
+  },
+  {
     id: "temple-guardian-statues-1",
     title: "Korean Temple Guardians",
     category: "Landmarks",
