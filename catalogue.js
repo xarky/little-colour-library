@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "meditation-hall",
+    title: "Meditation Hall",
+    category: "Places",
+    description: "Explore a peaceful meditation hall where people sit together on cushions surrounded by traditional Buddhist artwork and a large ceremonial drum.",
+    tags: ["meditation", "buddhist temple", "mindfulness", "mandala", "ceremonial drum", "meditation hall", "peaceful gathering", "buddhist culture"],
+    preview: "assets/previews/meditation-hall.png",
+    pdf: "assets/pdfs/meditation-hall.pdf",
+    alt: "Black and white outline drawing of people sitting on cushions in a meditation hall, facing a decorative mandala and altar, with a large drum nearby."
+  },
+  {
     id: "korean-temple-sunset",
     title: "Korean Temple at Sunset",
     category: "Places",
