@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "pondside-statues",
+    title: "Pondside Statues",
+    category: "Nature",
+    description: "Explore a peaceful pond surrounded by woodland, with beautiful statues, a stone terrace and reflections in the water to colour.",
+    tags: ["pond", "statues", "woodland", "water reflections", "stone wall", "trees", "waterside", "scenery"],
+    preview: "assets/previews/pondside-statues.png",
+    pdf: "assets/pdfs/pondside-statues.pdf",
+    alt: "Black and white outline drawing of statues beside a woodland pond, with bare trees, a stone terrace, water reflections and rocks."
+  },
+  {
     id: "meditation-hall",
     title: "Meditation Hall",
     category: "Places",
