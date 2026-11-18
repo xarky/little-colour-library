@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mountain-river-landscape",
+    title: "Mountain River Landscape",
+    category: "Nature",
+    description: "Explore a peaceful mountain landscape with a flowing rocky river, pine trees and towering peaks in this nature-inspired colouring page.",
+    tags: ["mountains", "river", "pine trees", "forest", "rocks", "landscape", "nature", "scenery"],
+    preview: "assets/previews/mountain-river-landscape.png",
+    pdf: "assets/pdfs/mountain-river-landscape.pdf",
+    alt: "Black and white outline drawing of a rocky mountain river surrounded by pine trees, forest and tall mountain peaks"
+  },
+  {
     id: "mountain-stream",
     title: "Mountain Stream",
     category: "Nature",
