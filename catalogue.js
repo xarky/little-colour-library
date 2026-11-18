@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-street-food-stall-1",
+    title: "Korean Street Food Stall",
+    category: "Food",
+    description: "Explore a Korean street food stall filled with crispy tempura, fried prawns and delicious snacks waiting to be coloured.",
+    tags: ["south korea", "korean food", "street food", "tempura", "fried prawns", "food market", "asian cuisine", "food stall"],
+    preview: "assets/previews/korean-street-food-stall-1.png",
+    pdf: "assets/pdfs/korean-street-food-stall-1.pdf",
+    alt: "Outline drawing of a Korean street food stall displaying baskets of fried prawns, tempura and assorted snacks."
+  },
+  {
     id: "sokcho-harbour",
     title: "Sokcho Harbour",
     category: "Places",
