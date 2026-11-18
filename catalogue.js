@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "cherry-blossom-park-walk",
+    title: "Cherry Blossom Park Walk",
+    category: "Nature",
+    description: "Enjoy a peaceful springtime walk through a beautiful park filled with cherry blossom trees, flowerbeds and visitors exploring the gardens.",
+    tags: ["cherry blossom", "spring", "park", "flowers", "trees", "garden", "walking", "nature"],
+    preview: "assets/previews/cherry-blossom-park-walk.png",
+    pdf: "assets/pdfs/cherry-blossom-park-walk.pdf",
+    alt: "Black and white outline drawing of people walking along a park path beneath blossoming cherry trees, with flowerbeds, bushes and a traditional lamppost."
+  },
+  {
     id: "cherry-blossom-park-path",
     title: "Cherry Blossom Park Path",
     category: "Nature",
