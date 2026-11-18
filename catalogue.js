@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "stone-bridge-garden-pond",
+    title: "Stone Bridge Garden Pond",
+    category: "Nature",
+    description: "Colour a peaceful garden landscape featuring a traditional stone bridge, evergreen trees, a little island and beautiful reflections in a tranquil pond.",
+    tags: ["stone bridge", "garden pond", "pine tree", "mountains", "water reflections", "landscape", "traditional garden", "nature"],
+    preview: "assets/previews/stone-bridge-garden-pond.png",
+    pdf: "assets/pdfs/stone-bridge-garden-pond.pdf",
+    alt: "Black and white outline drawing of a stone arch bridge beside a garden pond, with trees, a small island, distant mountains and reflections in the water."
+  },
+  {
     id: "peaceful-garden-pond",
     title: "Peaceful Garden Pond",
     category: "Nature",
