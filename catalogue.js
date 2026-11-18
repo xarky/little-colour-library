@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "sokcho-harbour",
+    title: "Sokcho Harbour",
+    category: "Places",
+    description: "Explore Sokcho Harbour in South Korea with its impressive bridge, colourful waterfront buildings, fishing boats and mountains.",
+    tags: ["sokcho", "south korea", "harbour", "bridge", "fishing boats", "coastal town", "mountains", "travel"],
+    preview: "assets/previews/sokcho-harbour.png",
+    pdf: "assets/pdfs/sokcho-harbour.pdf",
+    alt: "Outline drawing of Sokcho Harbour featuring a cable-stayed bridge, waterfront buildings, boats and distant mountains"
+  },
+  {
     id: "seaside-island",
     title: "Seaside Island",
     category: "Nature",
