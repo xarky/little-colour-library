@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "seaside-island",
+    title: "Seaside Island",
+    category: "Nature",
+    description: "Colour a peaceful sandy beach with gentle sea waves, distant coastal buildings and a little island on the horizon.",
+    tags: ["beach", "seaside", "island", "ocean", "waves", "sandy beach", "coastline", "sea"],
+    preview: "assets/previews/seaside-island.png",
+    pdf: "assets/pdfs/seaside-island.pdf",
+    alt: "Black and white outline drawing of a sandy beach with sea waves, navigation markers, a distant island and coastal buildings."
+  },
+  {
     id: "ferris-wheel-waterfront",
     title: "Ferris Wheel Waterfront",
     category: "Places",
