@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mountain-stream",
+    title: "Mountain Stream",
+    category: "Nature",
+    description: "Colour a peaceful mountain landscape with a winding stream, rocky riverbanks, pine trees and towering peaks.",
+    tags: ["mountains", "stream", "river", "pine trees", "rocks", "forest", "landscape", "nature"],
+    preview: "assets/previews/mountain-stream.png",
+    pdf: "assets/pdfs/mountain-stream.pdf",
+    alt: "Outline drawing of a rocky mountain stream surrounded by pine trees, boulders and mountain peaks"
+  },
+  {
     id: "wooden-bridge-mountain-stream",
     title: "Wooden Bridge and Mountain Stream",
     category: "Nature",
