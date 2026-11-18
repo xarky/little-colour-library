@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "peaceful-garden-pond",
+    title: "Peaceful Garden Pond",
+    category: "Nature",
+    description: "Explore a peaceful garden pond surrounded by beautiful trees, a small bridge, distant hills and reflections in the water.",
+    tags: ["garden", "pond", "trees", "bridge", "landscape", "reflections", "nature", "mountains"],
+    preview: "assets/previews/peaceful-garden-pond.png",
+    pdf: "assets/pdfs/peaceful-garden-pond.pdf",
+    alt: "Black and white outline drawing of a peaceful garden pond with trees, a small bridge, distant hills and reflections in the water."
+  },
+  {
     id: "korean-temple",
     title: "Traditional Korean Temple",
     category: "Places",
