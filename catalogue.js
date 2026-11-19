@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mountain-river-bridge",
+    title: "Mountain River Bridge",
+    category: "Nature",
+    description: "Explore a peaceful mountain valley with a bridge crossing a rocky river, surrounded by trees and towering peaks.",
+    tags: ["mountains", "river", "bridge", "woodland", "rocks", "landscape", "valley", "nature"],
+    preview: "assets/previews/mountain-river-bridge.png",
+    pdf: "assets/pdfs/mountain-river-bridge.pdf",
+    alt: "Black and white outline drawing of a bridge crossing a rocky mountain river, with woodland and mountain peaks in the background"
+  },
+  {
     id: "seoraksan-mountain-landscape",
     title: "Seoraksan Mountain Landscape",
     category: "Nature",
