@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "seoraksan-mountain-landscape",
+    title: "Seoraksan Mountain Landscape",
+    category: "Nature",
+    description: "Explore the magnificent peaks of South Korea's Seoraksan mountains, with woodland trees, a monument and a winding pathway to colour.",
+    tags: ["seoraksan", "south korea", "mountains", "national park", "landscape", "forest", "nature", "scenery"],
+    preview: "assets/previews/seoraksan-mountain-landscape.png",
+    pdf: "assets/pdfs/seoraksan-mountain-landscape.pdf",
+    alt: "Black-and-white outline drawing of Seoraksan mountain peaks above woodland trees, a central monument and a winding pathway."
+  },
+  {
     id: "mountain-valley-bridge",
     title: "Mountain Valley Bridge",
     category: "Nature",
