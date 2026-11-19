@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mountain-hiker",
+    title: "Mountain Hiker",
+    category: "Nature",
+    description: "A hiker enjoys a mountain adventure, standing on large rocks with beautiful mountain peaks in the background.",
+    tags: ["hiker", "hiking", "mountains", "adventure", "outdoors", "rocks", "mountain landscape", "nature"],
+    preview: "assets/previews/mountain-hiker.png",
+    pdf: "assets/pdfs/mountain-hiker.pdf",
+    alt: "Black and white outline drawing of a hiker wearing a padded jacket and hiking shoes, standing on rocks with mountain peaks in the background."
+  },
+  {
     id: "mountain-river-bridge",
     title: "Mountain River Bridge",
     category: "Nature",
