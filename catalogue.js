@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mountain-forest-landscape",
+    title: "Mountain Forest Landscape",
+    category: "Nature",
+    description: "Explore a beautiful mountain landscape with towering rocky peaks, pine forests and winding valleys in this relaxing nature colouring page for children.",
+    tags: ["mountains", "forest", "pine trees", "landscape", "nature", "woodland", "mountain scenery", "valley"],
+    preview: "assets/previews/mountain-forest-landscape.png",
+    pdf: "assets/pdfs/mountain-forest-landscape.pdf",
+    alt: "Black and white outline drawing of a mountain landscape with rocky peaks, pine trees, rolling hills, clouds and a winding valley."
+  },
+  {
     id: "mountain-valley-landscape",
     title: "Mountain Valley Landscape",
     category: "Nature",
