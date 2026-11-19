@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mountain-valley-bridge",
+    title: "Mountain Valley Bridge",
+    category: "Nature",
+    description: "Explore a peaceful mountain valley with a winding river, a charming bridge, woodland trees and rocky riverbanks in this scenic colouring page for children.",
+    tags: ["mountains", "valley", "bridge", "river", "forest", "woodland", "landscape", "nature"],
+    preview: "assets/previews/mountain-valley-bridge.png",
+    pdf: "assets/pdfs/mountain-valley-bridge.pdf",
+    alt: "Black and white outline drawing of a bridge crossing a rocky river surrounded by woodland trees and mountains."
+  },
+  {
     id: "mountain-forest-landscape",
     title: "Mountain Forest Landscape",
     category: "Nature",
