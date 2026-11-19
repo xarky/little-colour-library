@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mountain-valley-landscape",
+    title: "Mountain Valley Landscape",
+    category: "Nature",
+    description: "Explore a spectacular mountain landscape with towering rocky peaks, rolling ridges and a peaceful valley in this colouring activity for children.",
+    tags: ["mountains", "mountain valley", "rocky peaks", "landscape", "nature", "mountain scenery", "wilderness", "outdoors"],
+    preview: "assets/previews/mountain-valley-landscape.png",
+    pdf: "assets/pdfs/mountain-valley-landscape.pdf",
+    alt: "Black and white outline drawing of layered mountain peaks, a deep valley and large rocky formations in the foreground"
+  },
+  {
     id: "lantern-lined-woodland-path",
     title: "Lantern-Lined Woodland Path",
     category: "Nature",
