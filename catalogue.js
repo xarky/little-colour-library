@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "lantern-lined-woodland-path",
+    title: "Lantern-Lined Woodland Path",
+    category: "Nature",
+    description: "Colour a peaceful woodland pathway decorated with hanging lanterns, tall trees and people enjoying a walk.",
+    tags: ["woodland", "forest path", "lanterns", "trees", "nature walk", "park", "outdoors", "scenery"],
+    preview: "assets/previews/lantern-lined-woodland-path.png",
+    pdf: "assets/pdfs/lantern-lined-woodland-path.pdf",
+    alt: "Black and white outline drawing of a wide woodland path lined with tall trees, hanging lanterns, rocks and people walking."
+  },
+  {
     id: "buddha-lantern-festival",
     title: "Buddha Lantern Festival",
     category: "Places",
