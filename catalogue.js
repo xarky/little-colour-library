@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "seoul-shopping-street",
+    title: "Seoul Shopping Street",
+    category: "Places",
+    description: "Explore a lively shopping street in Seoul, South Korea, filled with pedestrians, colourful shops and tall buildings waiting to be coloured in.",
+    tags: ["seoul", "south korea", "shopping street", "city", "buildings", "pedestrians", "travel", "urban life"],
+    preview: "assets/previews/seoul-shopping-street.png",
+    pdf: "assets/pdfs/seoul-shopping-street.pdf",
+    alt: "Black and white outline drawing of a busy Seoul shopping street with pedestrians, tall buildings, shopfronts and flower planters."
+  },
+  {
     id: "seoraksan-bear-statue",
     title: "Seoraksan Bear Statue",
     category: "Nature",
