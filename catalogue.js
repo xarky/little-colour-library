@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "dmz-third-tunnel-monument",
+    title: "DMZ Third Tunnel Monument",
+    category: "Landmarks",
+    description: "Explore South Korea's DMZ Third Tunnel Monument, featuring a large arch and figures pushing apart a divided sculpture.",
+    tags: ["south korea", "dmz", "third tunnel", "korean landmarks", "monument", "history", "sculpture", "travel"],
+    preview: "assets/previews/dmz-third-tunnel-monument.png",
+    pdf: "assets/pdfs/dmz-third-tunnel-monument.pdf",
+    alt: "Outline drawing of the DMZ Third Tunnel Monument in South Korea, showing figures pushing two halves of a sculpture beneath a large arch."
+  },
+  {
     id: "korean-hotpot",
     title: "Korean Hotpot",
     category: "Food",
