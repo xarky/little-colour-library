@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "seoraksan-bear-statue",
+    title: "Seoraksan Bear Statue",
+    category: "Nature",
+    description: "Colour the famous bear statue surrounded by pine trees and mountains at Seoraksan National Park in South Korea.",
+    tags: ["seoraksan", "south korea", "bear statue", "national park", "pine trees", "mountains", "nature", "landmarks"],
+    preview: "assets/previews/seoraksan-bear-statue.png",
+    pdf: "assets/pdfs/seoraksan-bear-statue.pdf",
+    alt: "Outline drawing of a bear statue on a stone pedestal surrounded by trees, mountains and a winding park path."
+  },
+  {
     id: "mountain-park-walk-1",
     title: "Mountain Park Walk",
     category: "Nature",
