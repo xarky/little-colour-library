@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "third-infiltration-tunnel",
+    title: "South Korea's Third Infiltration Tunnel",
+    category: "Landmarks",
+    description: "Explore South Korea's famous Third Infiltration Tunnel entrance with a smiling visitor standing between two uniformed guards in this fun colouring activity.",
+    tags: ["south korea", "third infiltration tunnel", "dmz", "korean guards", "military uniforms", "travel", "landmarks", "asia"],
+    preview: "assets/previews/third-infiltration-tunnel.png",
+    pdf: "assets/pdfs/third-infiltration-tunnel.pdf",
+    alt: "Black and white outline drawing of a smiling visitor standing between two uniformed guards beneath an arched entrance sign at South Korea's Third Infiltration Tunnel."
+  },
+  {
     id: "dmz-third-tunnel-monument",
     title: "DMZ Third Tunnel Monument",
     category: "Landmarks",
