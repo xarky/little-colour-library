@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mountain-suspension-bridge",
+    title: "Mountain Suspension Bridge",
+    category: "Nature",
+    description: "Explore a beautiful mountain landscape as hikers cross a long suspension bridge surrounded by forests and rocky cliffs.",
+    tags: ["suspension bridge", "mountains", "hiking", "forest", "nature", "adventure", "south korea", "landscape"],
+    preview: "assets/previews/mountain-suspension-bridge.png",
+    pdf: "assets/pdfs/mountain-suspension-bridge.pdf",
+    alt: "Black and white outline drawing of hikers crossing a long suspension bridge through a mountainous forest, with trees, cliffs and a small lookout pavilion."
+  },
+  {
     id: "korean-mountain-lookout",
     title: "Korean Mountain Lookout",
     category: "Nature",
