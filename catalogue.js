@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-hanbok-group",
+    title: "Traditional Korean Hanbok Group",
+    category: "Travel",
+    description: "Explore South Korean culture by colouring a cheerful group wearing traditional hanbok clothing in front of a historic palace in Seoul.",
+    tags: ["south korea", "seoul", "hanbok", "korean culture", "traditional clothing", "korean palace", "gyeongbokgung", "group portrait"],
+    preview: "assets/previews/korean-hanbok-group.png",
+    pdf: "assets/pdfs/korean-hanbok-group.pdf",
+    alt: "Black-and-white outline drawing of a group wearing traditional Korean hanbok in front of a palace gate, with mountains and trees in the background."
+  },
+  {
     id: "city-skyscraper",
     title: "City Skyscraper",
     category: "Buildings",
