@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "city-skyscraper",
+    title: "City Skyscraper",
+    category: "Buildings",
+    description: "Explore a towering modern skyscraper with a giant digital billboard and busy city architecture in this fun colouring activity.",
+    tags: ["skyscraper", "city", "buildings", "architecture", "billboard", "skyline", "smartphone", "urban"],
+    preview: "assets/previews/city-skyscraper.png",
+    pdf: "assets/pdfs/city-skyscraper.pdf",
+    alt: "Outline drawing of a tall modern skyscraper with rows of windows, a large smartphone billboard, street barriers and pavement."
+  },
+  {
     id: "interlocking-hands-sculpture",
     title: "Interlocking Hands Sculpture",
     category: "Landmarks",
