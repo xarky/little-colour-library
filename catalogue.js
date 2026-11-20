@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-bell-pavilion",
+    title: "Korean Bell Pavilion",
+    category: "Landmarks",
+    description: "Explore traditional Korean architecture with this beautiful bell pavilion featuring a curved tiled roof, decorative pillars and stone steps.",
+    tags: ["south korea", "korean architecture", "bell pavilion", "traditional building", "asian landmarks", "temple roof", "cultural heritage", "korea"],
+    preview: "assets/previews/korean-bell-pavilion.png",
+    pdf: "assets/pdfs/korean-bell-pavilion.pdf",
+    alt: "Black and white outline drawing of a traditional Korean bell pavilion with a curved tiled roof, large bell, pillars, stone railings, steps and trees."
+  },
+  {
     id: "seoul-shopping-street-1",
     title: "Seoul Shopping Street",
     category: "Places",
