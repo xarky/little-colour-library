@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mountain-park-walk-1",
+    title: "Mountain Park Walk",
+    category: "Nature",
+    description: "Enjoy a peaceful mountain park adventure with walkers, winding paths and beautiful trees in this nature-inspired colouring page for children.",
+    tags: ["mountains", "park", "walking", "hiking", "trees", "nature", "outdoors", "south korea"],
+    preview: "assets/previews/mountain-park-walk-1.png",
+    pdf: "assets/pdfs/mountain-park-walk-1.pdf",
+    alt: "Black and white outline drawing of walkers with backpacks following a park path surrounded by trees and mountains."
+  },
+  {
     id: "mountain-park-walk",
     title: "Mountain Park Walk",
     category: "Nature",
