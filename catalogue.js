@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "mountain-park-walk",
+    title: "Mountain Park Walk",
+    category: "Nature",
+    description: "Explore a beautiful mountain park with visitors walking along a scenic trail surrounded by trees, woodland and towering peaks.",
+    tags: ["mountains", "hiking", "walking", "mountain trail", "woodland", "national park", "south korea", "nature"],
+    preview: "assets/previews/mountain-park-walk.png",
+    pdf: "assets/pdfs/mountain-park-walk.pdf",
+    alt: "Black and white outline drawing of visitors walking along a wide mountain park trail with trees, a signpost and mountain peaks in the background."
+  },
+  {
     id: "mountain-hiker",
     title: "Mountain Hiker",
     category: "Nature",
