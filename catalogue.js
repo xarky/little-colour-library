@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "interlocking-hands-sculpture",
+    title: "Interlocking Hands Sculpture",
+    category: "Landmarks",
+    description: "Colour a giant sculpture of two interlocking hands surrounded by buildings and trees in a city square.",
+    tags: ["hands", "sculpture", "seoul", "south korea", "city", "landmark", "public art", "architecture"],
+    preview: "assets/previews/interlocking-hands-sculpture.png",
+    pdf: "assets/pdfs/interlocking-hands-sculpture.pdf",
+    alt: "Black outline drawing of two giant interlocking hands forming a sculpture in a city square, with buildings, trees and a crane in the background."
+  },
+  {
     id: "mountain-suspension-bridge",
     title: "Mountain Suspension Bridge",
     category: "Nature",
