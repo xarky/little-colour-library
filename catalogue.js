@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-hotpot",
+    title: "Korean Hotpot",
+    category: "Food",
+    description: "Explore a traditional Korean hotpot meal filled with mushrooms, vegetables and delicious side dishes in this fun colouring activity.",
+    tags: ["korean food", "hotpot", "korean cuisine", "mushrooms", "vegetables", "asian food", "cooking", "traditional food"],
+    preview: "assets/previews/korean-hotpot.png",
+    pdf: "assets/pdfs/korean-hotpot.pdf",
+    alt: "Overhead outline drawing of a Korean hotpot filled with vegetables and mushrooms, surrounded by side dishes, chopsticks and a serving ladle"
+  },
+  {
     id: "korean-bell-pavilion",
     title: "Korean Bell Pavilion",
     category: "Landmarks",
