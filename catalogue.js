@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-mountain-lookout",
+    title: "Korean Mountain Lookout",
+    category: "Nature",
+    description: "A cheerful hiker enjoys a mountain lookout surrounded by forests and a suspension bridge in South Korea.",
+    tags: ["south korea", "mountains", "hiking", "forest", "suspension bridge", "lookout", "travel", "nature"],
+    preview: "assets/previews/korean-mountain-lookout.png",
+    pdf: "assets/pdfs/korean-mountain-lookout.pdf",
+    alt: "Outline drawing of a smiling hiker leaning against a wooden lookout railing, with forested mountains, a gazebo and a suspension bridge in the background."
+  },
+  {
     id: "korean-dmz-monument",
     title: "Korean DMZ Monument",
     category: "Landmarks",
