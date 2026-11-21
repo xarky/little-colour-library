@@ -762,7 +762,7 @@ window.COLOUR_CATALOGUE = [
     alt: "Outline drawing of a group of travellers standing together in a traditional Korean village with tiled rooftops, trees and a stone wall"
   },
   {
-    id: "",
+    id: "temple-volunteers-group",
     title: "Temple Volunteers Group",
     category: "People",
     description: "A cheerful group of volunteers pose together outdoors while a smiling man performs the splits in front of them.",
