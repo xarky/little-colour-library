@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-palace-pagoda",
+    title: "Korean Palace Pagoda",
+    category: "Landmarks",
+    description: "Explore traditional Korean architecture with a beautiful multi-tiered palace pagoda, grand stone staircases, trees and visitors in this colouring activity.",
+    tags: ["south korea", "korean palace", "pagoda", "korean architecture", "seoul", "landmarks", "travel", "palace"],
+    preview: "assets/previews/korean-palace-pagoda.png",
+    pdf: "assets/pdfs/korean-palace-pagoda.pdf",
+    alt: "Black and white outline drawing of a traditional Korean palace pagoda with tiered roofs, broad staircases, trees, shrubs and five visitors."
+  },
+  {
     id: "korean-mountain-gateway",
     title: "Korean Mountain Gateway",
     category: "Places",
