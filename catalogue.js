@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-hanok-village-street",
+    title: "Traditional Korean Village Street",
+    category: "Places",
+    description: "Explore a charming traditional South Korean village with beautiful hanok houses, curved tiled roofs and visitors walking along a peaceful street.",
+    tags: ["south korea", "korean village", "hanok houses", "traditional architecture", "bukchon", "seoul", "korean culture", "village street"],
+    preview: "assets/previews/korean-hanok-village-street.png",
+    pdf: "assets/pdfs/korean-hanok-village-street.pdf",
+    alt: "Colouring page showing a traditional Korean village street lined with hanok houses, curved tiled roofs and people walking uphill."
+  },
+  {
     id: "seoul-hanok-village",
     title: "Seoul Hanok Village",
     category: "Places",
