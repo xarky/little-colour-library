@@ -1,6 +1,16 @@
 // Add a new object inside the array to publish another colouring page.
 // Use relative paths so GitHub Pages also works under a repository subpath.
-window.COLOUR_CATALOGUE = [,
+window.COLOUR_CATALOGUE = [
+  {
+    id: "seoul-hanok-village",
+    title: "Seoul Hanok Village",
+    category: "Places",
+    description: "Explore a traditional Korean village in Seoul, with beautiful tiled-roof houses, narrow streets and visitors enjoying the historic neighbourhood.",
+    tags: ["seoul", "south korea", "hanok", "korean village", "traditional houses", "bukchon", "architecture", "travel"],
+    preview: "assets/previews/seoul-hanok-village.png",
+    pdf: "assets/pdfs/seoul-hanok-village.pdf",
+    alt: "Black and white outline drawing of a traditional Seoul hanok village, showing tiled-roof houses, visitors walking along a narrow street and a city skyline in the background."
+  },
   {
     id: "seoul-hanok-village-group",
     title: "Friends in a Korean Hanok Village",
