@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-palace-pavilion",
+    title: "Korean Palace Pavilion",
+    category: "Buildings",
+    description: "Children can colour a Korean palace pavilion and trace the shape of its curved roof in the pond below.",
+    tags: ["south korea", "korean palace", "pavilion", "pond reflection", "pine trees", "stone bridge"],
+    preview: "assets/previews/korean-palace-pavilion.png",
+    pdf: "assets/pdfs/korean-palace-pavilion.pdf",
+    alt: "A curved-roof pavilion stands on stone pillars beside a pond, with pine trees on the left, a bridge on the right and the roof reflected below."
+  },
+  {
     id: "korean-palace-courtyard",
     title: "Korean Palace Courtyard",
     category: "Buildings",
