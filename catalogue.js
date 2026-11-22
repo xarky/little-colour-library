@@ -2,6 +2,56 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "airport-travellers-group",
+    title: "Airport Travellers",
+    category: "People",
+    description: "A cheerful group of travellers gathers with suitcases at an airport.",
+    tags: ["airport", "travellers", "friends", "suitcases", "terminal", "journey"],
+    preview: "assets/previews/airport-travellers-group.png",
+    pdf: "assets/pdfs/airport-travellers-group.pdf",
+    alt: "A group of smiling travellers standing with suitcases inside an airport terminal"
+  },
+  {
+    id: "korean-traditional-pavilion",
+    title: "Traditional Korean Pavilion",
+    category: "Places",
+    description: "A traditional Korean pavilion stands among trees and city buildings.",
+    tags: ["korea", "pavilion", "architecture", "roof", "temple", "city"],
+    preview: "assets/previews/korean-traditional-pavilion.png",
+    pdf: "assets/pdfs/korean-traditional-pavilion.pdf",
+    alt: "A two-storey traditional Korean pavilion with a curved tiled roof, steps and trees"
+  },
+  {
+    id: "city-stream-walk",
+    title: "City Stream Walk",
+    category: "Places",
+    description: "People stroll beside a stream winding between tall city buildings.",
+    tags: ["stream", "city", "walkway", "stepping-stones", "trees", "buildings"],
+    preview: "assets/previews/city-stream-walk.png",
+    pdf: "assets/pdfs/city-stream-walk.pdf",
+    alt: "A wide city stream with stepping stones, walking paths, trees and buildings"
+  },
+  {
+    id: "city-stream-perspective",
+    title: "City Stream Perspective",
+    category: "Places",
+    description: "A narrow stream flows towards the distant skyline beneath city walkways.",
+    tags: ["stream", "skyline", "water", "stepping-stones", "walkways", "architecture"],
+    preview: "assets/previews/city-stream-perspective.png",
+    pdf: "assets/pdfs/city-stream-perspective.pdf",
+    alt: "A portrait view along a stream between walkways and tall buildings"
+  },
+  {
+    id: "busy-shopping-street",
+    title: "Busy Shopping Street",
+    category: "Places",
+    description: "Shoppers wander along a lively street lined with shops and signs.",
+    tags: ["shopping", "street", "pedestrians", "shops", "signs", "city"],
+    preview: "assets/previews/busy-shopping-street.png",
+    pdf: "assets/pdfs/busy-shopping-street.pdf",
+    alt: "People walking between shopfronts, awnings and blank signs along a busy street"
+  },
+  {
     id: "gwanghwamun-palace-gate-explorers",
     title: "Gwanghwamun Palace Gate",
     category: "Landmarks",
