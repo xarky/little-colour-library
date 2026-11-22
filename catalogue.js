@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-island-pavilion",
+    title: "Korean Island Pavilion",
+    category: "Buildings",
+    description: "An arched bridge crosses a pond to a traditional Korean pavilion with a sweeping roof and flowers beside its steps.",
+    tags: ["korean pavilion", "south korea", "arched bridge", "garden pond", "pine tree", "mountain"],
+    preview: "assets/previews/korean-island-pavilion.png",
+    pdf: "assets/pdfs/korean-island-pavilion.pdf",
+    alt: "Outline drawing of a two-storey pavilion on a small island, with an arched bridge leading to a pine tree and a mountain in the background."
+  },
+  {
     id: "korean-zodiac-statues",
     title: "Korean Zodiac Statues",
     category: "Animals",
