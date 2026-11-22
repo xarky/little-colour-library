@@ -15,7 +15,10 @@ README.md                  This guide
 assets/
   previews/                Preview images (PNG, JPG or WebP)
   pdfs/                    Print-ready A4 PDFs
+  social-preview.png       1200 × 630 social sharing image
 ```
+
+The homepage uses `assets/social-preview.png` for social link previews. To regenerate it after changing the design or sample artwork, run `powershell -ExecutionPolicy Bypass -File scripts/generate-social-preview.ps1` on Windows.
 
 ## Included colouring pages
 
