@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-palace-guard-parade",
+    title: "Korean Palace Guard Parade",
+    category: "Landmarks",
+    description: "Explore South Korean traditions by colouring a royal guard procession with ceremonial flags outside a historic palace gate in Seoul.",
+    tags: ["south korea", "seoul", "gwanghwamun gate", "royal guards", "korean palace", "traditional clothing", "ceremonial parade", "korean culture"],
+    preview: "assets/previews/korean-palace-guard-parade.png",
+    pdf: "assets/pdfs/korean-palace-guard-parade.pdf",
+    alt: "Black and white outline drawing of Korean royal guards carrying ceremonial flags in front of a traditional palace gate, with spectators and city buildings behind them."
+  },
+  {
     id: "korean-palace-courtyard-1",
     title: "Korean Palace Courtyard",
     category: "Travel",
