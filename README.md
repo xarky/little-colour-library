@@ -10,6 +10,7 @@ catalogue.js               All colouring-page metadata
 scripts/generate-pages.js  Generates static, search-friendly page URLs
 colouring-pages/           Generated detail pages (do not edit by hand)
 sitemap.xml                Generated sitemap (do not edit by hand)
+robots.txt                 Crawl policy and sitemap declaration
 README.md                  This guide
 assets/
   previews/                Preview images (PNG, JPG or WebP)
@@ -133,7 +134,7 @@ Paste these **only after uploading the matching originals** at the paths shown:
 
 ## 5. Commit and test
 
-After adding or editing entries in `catalogue.js`, run `node scripts/generate-pages.js` from the repository root. The generator validates IDs and asset paths, writes one page at `colouring-pages/<id>/index.html`, removes stale generated pages, and creates a root-level `sitemap.xml` containing the homepage and current detail-page URLs. The GitHub Actions Pages workflow runs this generator before uploading the site, so the deployed sitemap stays in sync with the catalogue. The sitemap is build output; do not commit it.
+After adding or editing entries in `catalogue.js`, run `node scripts/generate-pages.js` from the repository root. The generator validates IDs and asset paths, writes one page at `colouring-pages/<id>/index.html`, removes stale generated pages, and creates the root-level `robots.txt` and `sitemap.xml` containing the homepage and current detail-page URLs. The GitHub Actions Pages workflow runs this generator before uploading the site, so the deployed crawl files stay in sync with the catalogue. The sitemap is build output; do not commit it.
 
 1. Commit the catalogue and asset changes to `main` (or the branch selected for Pages). The GitHub Actions workflow regenerates the detail pages and sitemap before deployment.
 2. Wait for the Pages deployment to complete, then open the live site and refresh (Ctrl+F5 on desktop if the old version is cached).

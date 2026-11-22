@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xarky.github.io/little-colour-library/sitemap.xml
