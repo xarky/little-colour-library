@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "visitors-beneath-the-blossom",
+    title: "Visitors Beneath the Blossom",
+    category: "Nature",
+    description: "Visitors in traditional Korean hanbok gather beside a path beneath a tree in full spring blossom.",
+    tags: ["blossom tree", "spring flowers", "hanbok", "south korea", "park visitors"],
+    preview: "assets/previews/visitors-beneath-the-blossom.png",
+    pdf: "assets/pdfs/visitors-beneath-the-blossom.pdf",
+    alt: "A spreading tree with large five-petalled flowers towers over visitors in hanbok on the left and three people with backpacks on the right, one crouching."
+  },
+  {
     id: "korean-island-pavilion",
     title: "Korean Island Pavilion",
     category: "Buildings",
