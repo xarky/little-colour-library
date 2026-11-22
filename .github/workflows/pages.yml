@@ -26,7 +26,7 @@ jobs:
 
       - uses: actions/configure-pages@v5
 
-      - name: Generate detail pages
+      - name: Generate pages and sitemap
         run: node scripts/generate-pages.js
 
       - uses: actions/upload-pages-artifact@v3

@@ -1,6 +1,6 @@
 # Little Colour Library
 
-A free, mobile-friendly colouring-page catalogue for GitHub Pages. No deployment build step, npm packages, external fonts, external scripts or image hosts are required. The site works by opening `index.html` directly, including from a `file://` URL. Run the included Node.js script after catalogue changes to regenerate the static detail pages.
+A free, mobile-friendly colouring-page catalogue for GitHub Pages. No npm packages, external fonts, external scripts or image hosts are required. The site works by opening `index.html` directly, including from a `file://` URL. Run the included Node.js script after catalogue changes to regenerate the static detail pages and sitemap.
 
 ## Contents
 
@@ -9,6 +9,7 @@ index.html                 Website design, gallery and search logic
 catalogue.js               All colouring-page metadata
 scripts/generate-pages.js  Generates static, search-friendly page URLs
 colouring-pages/           Generated detail pages (do not edit by hand)
+sitemap.xml                Generated sitemap (do not edit by hand)
 README.md                  This guide
 assets/
   previews/                Preview images (PNG, JPG or WebP)
@@ -132,9 +133,9 @@ Paste these **only after uploading the matching originals** at the paths shown:
 
 ## 5. Commit and test
 
-After adding or editing entries in `catalogue.js`, run `node scripts/generate-pages.js` from the repository root and include the generated `colouring-pages/` changes in the commit. The generator validates IDs and asset paths, writes one page at `colouring-pages/<id>/index.html`, and removes stale pages that it generated. These files are served directly by GitHub Pages; no GitHub Actions workflow is required.
+After adding or editing entries in `catalogue.js`, run `node scripts/generate-pages.js` from the repository root. The generator validates IDs and asset paths, writes one page at `colouring-pages/<id>/index.html`, removes stale generated pages, and creates a root-level `sitemap.xml` containing the homepage and current detail-page URLs. The GitHub Actions Pages workflow runs this generator before uploading the site, so the deployed sitemap stays in sync with the catalogue. The sitemap is build output; do not commit it.
 
-1. Commit the catalogue changes and generated pages to `main` (or the branch selected for Pages).
+1. Commit the catalogue and asset changes to `main` (or the branch selected for Pages). The GitHub Actions workflow regenerates the detail pages and sitemap before deployment.
 2. Wait for the Pages deployment to complete, then open the live site and refresh (Ctrl+F5 on desktop if the old version is cached).
 3. Check the new card shows the correct picture, title, category and description.
 4. Open `https://xarky.github.io/little-colour-library/colouring-pages/<id>/` directly and confirm its title, description, preview and PDF link are correct.
