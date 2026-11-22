@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "gwanghwamun-palace-gate-explorers",
+    title: "Gwanghwamun Palace Gate",
+    category: "Landmarks",
+    description: "Explore Seoul's magnificent Gwanghwamun Palace Gate, where visitors gather in traditional Korean clothing beneath its grand tiled roofs.",
+    tags: ["gwanghwamun", "seoul", "south korea", "palace", "korean architecture", "hanbok", "historic landmarks", "travel"],
+    preview: "assets/previews/gwanghwamun-palace-gate-explorers.png",
+    pdf: "assets/pdfs/gwanghwamun-palace-gate-explorers.pdf",
+    alt: "Black and white outline drawing of Gwanghwamun Palace Gate in Seoul, with traditional Korean roofs, three arched entrances and visitors wearing hanbok and modern clothing."
+  },
+  {
     id: "gyeongbokgung-palace-gate-poser",
     title: "Gyeongbokgung Palace Gate",
     category: "Places",
