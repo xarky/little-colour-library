@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "korean-zodiac-statues",
+    title: "Korean Zodiac Statues",
+    category: "Animals",
+    description: "Children can spot the rat, pig and rooster among the zodiac statues standing in a circle in a Korean palace courtyard.",
+    tags: ["korean zodiac", "animal statues", "palace courtyard", "south korea", "rat", "pig", "rooster"],
+    preview: "assets/previews/korean-zodiac-statues.png",
+    pdf: "assets/pdfs/korean-zodiac-statues.pdf",
+    alt: "A rat statue faces forwards between a rooster on the left and a pig on the right, with trees and a tiled palace roof behind them."
+  },
+  {
     id: "korean-hanbok-palace",
     title: "Traditional Korean Hanbok at the Palace",
     category: "Travel",
