@@ -2,6 +2,16 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "gyeongbokgung-palace-gate-poser",
+    title: "Gyeongbokgung Palace Gate",
+    category: "Places",
+    description: "A visitor wearing traditional Korean clothing poses in front of a grand palace gate in Seoul.",
+    tags: ["gyeongbokgung", "seoul", "south korea", "palace", "hanbok", "korean architecture", "travel", "landmark"],
+    preview: "assets/previews/gyeongbokgung-palace-gate-poser.png",
+    pdf: "assets/pdfs/gyeongbokgung-palace-gate-poser.pdf",
+    alt: "A smiling visitor in traditional Korean clothing stands before a two-tiered Korean palace gate with tourists nearby."
+  },
+  {
     id: "gyeongbokgung-palace-gate-courtyard",
     title: "Gyeongbokgung Palace Gate",
     category: "Landmarks",
