@@ -2,6 +2,261 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "spiral-monument-terrace",
+    "title": "Spiral Monument Terrace",
+    "category": "Places",
+    "description": "A tall spiral monument rises above a stone terrace and steps.",
+    "tags": [
+      "monument",
+      "sculpture",
+      "terrace",
+      "steps",
+      "stone",
+      "spiral"
+    ],
+    "preview": "assets/previews/spiral-monument-terrace.png",
+    "pdf": "assets/pdfs/spiral-monument-terrace.pdf",
+    "alt": "Outline drawing of a spiral monument on a stone terrace with steps"
+  },
+  {
+    "id": "modern-stone-church",
+    "title": "Modern Stone Church",
+    "category": "Places",
+    "description": "A modern church stands above a patterned stone courtyard.",
+    "tags": [
+      "church",
+      "stone",
+      "courtyard",
+      "architecture",
+      "steps",
+      "cross"
+    ],
+    "preview": "assets/previews/modern-stone-church.png",
+    "pdf": "assets/pdfs/modern-stone-church.pdf",
+    "alt": "Outline drawing of a modern church with stone paving"
+  },
+  {
+    "id": "holiday-dinner-plate",
+    "title": "Holiday Dinner Plate",
+    "category": "Food",
+    "description": "A plate of rice, vegetables and grilled food is ready to enjoy.",
+    "tags": [
+      "meal",
+      "rice",
+      "vegetables",
+      "plate",
+      "dinner",
+      "food"
+    ],
+    "preview": "assets/previews/holiday-dinner-plate.png",
+    "pdf": "assets/pdfs/holiday-dinner-plate.pdf",
+    "alt": "Outline drawing of a dinner plate with rice and vegetables"
+  },
+  {
+    "id": "acropolis-on-the-hill",
+    "title": "Acropolis on the Hill",
+    "category": "Places",
+    "description": "Ancient temples rise above trees and rocky slopes.",
+    "tags": [
+      "acropolis",
+      "athens",
+      "temple",
+      "ruins",
+      "hill",
+      "trees"
+    ],
+    "preview": "assets/previews/acropolis-on-the-hill.png",
+    "pdf": "assets/pdfs/acropolis-on-the-hill.pdf",
+    "alt": "Outline drawing of ancient temples on a rocky hill"
+  },
+  {
+    "id": "ancient-acropolis-walls",
+    "title": "Ancient Acropolis Walls",
+    "category": "Places",
+    "description": "Tall stone walls and classical columns stand above a hillside.",
+    "tags": [
+      "ancient",
+      "columns",
+      "ruins",
+      "stone",
+      "architecture",
+      "history"
+    ],
+    "preview": "assets/previews/ancient-acropolis-walls.png",
+    "pdf": "assets/pdfs/ancient-acropolis-walls.pdf",
+    "alt": "Outline drawing of ancient walls and columns on a hill"
+  },
+  {
+    "id": "traveller-at-acropolis",
+    "title": "Traveller at the Acropolis",
+    "category": "People",
+    "description": "A traveller stands on rocks with ancient buildings behind.",
+    "tags": [
+      "traveller",
+      "backpack",
+      "rocks",
+      "athens",
+      "acropolis",
+      "adventure"
+    ],
+    "preview": "assets/previews/traveller-at-acropolis.png",
+    "pdf": "assets/pdfs/traveller-at-acropolis.pdf",
+    "alt": "Outline drawing of a traveller on rocks near ancient ruins"
+  },
+  {
+    "id": "floating-in-the-sea",
+    "title": "Floating in the Sea",
+    "category": "People",
+    "description": "A happy swimmer floats with raised arms in calm water.",
+    "tags": [
+      "swimming",
+      "sea",
+      "floating",
+      "water",
+      "holiday",
+      "waves"
+    ],
+    "preview": "assets/previews/floating-in-the-sea.png",
+    "pdf": "assets/pdfs/floating-in-the-sea.pdf",
+    "alt": "Outline drawing of a swimmer floating with both arms raised"
+  },
+  {
+    "id": "desert-rocks-and-walkers",
+    "title": "Desert Rocks and Walkers",
+    "category": "Nature",
+    "description": "A group of walkers crosses a wide desert valley.",
+    "tags": [
+      "desert",
+      "hikers",
+      "sandstone",
+      "valley",
+      "walking",
+      "cliffs"
+    ],
+    "preview": "assets/previews/desert-rocks-and-walkers.png",
+    "pdf": "assets/pdfs/desert-rocks-and-walkers.pdf",
+    "alt": "Outline drawing of walkers among desert rock formations"
+  },
+  {
+    "id": "resting-among-desert-rocks",
+    "title": "Resting Among Desert Rocks",
+    "category": "People",
+    "description": "A traveller rests on a rock beneath tall sandstone cliffs.",
+    "tags": [
+      "desert",
+      "rocks",
+      "traveller",
+      "resting",
+      "sandstone",
+      "hiking"
+    ],
+    "preview": "assets/previews/resting-among-desert-rocks.png",
+    "pdf": "assets/pdfs/resting-among-desert-rocks.pdf",
+    "alt": "Outline drawing of a seated traveller in a rocky desert"
+  },
+  {
+    "id": "camel-ride-in-desert",
+    "title": "Camel Ride in the Desert",
+    "category": "Animals",
+    "description": "A traveller rides a friendly camel past desert rocks.",
+    "tags": [
+      "camel",
+      "desert",
+      "rider",
+      "travel",
+      "sand",
+      "rocks"
+    ],
+    "preview": "assets/previews/camel-ride-in-desert.png",
+    "pdf": "assets/pdfs/camel-ride-in-desert.pdf",
+    "alt": "Outline drawing of a traveller riding a camel in the desert"
+  },
+  {
+    "id": "second-camel-adventure",
+    "title": "Another Camel Adventure",
+    "category": "Animals",
+    "description": "A traveller rides a camel across the open desert.",
+    "tags": [
+      "camel",
+      "desert",
+      "riding",
+      "traveller",
+      "saddle",
+      "sand"
+    ],
+    "preview": "assets/previews/second-camel-adventure.png",
+    "pdf": "assets/pdfs/second-camel-adventure.pdf",
+    "alt": "Outline drawing of a person riding a camel in the desert"
+  },
+  {
+    "id": "coastal-palm-and-cactus",
+    "title": "Coastal Palm and Cactus",
+    "category": "Nature",
+    "description": "A palm tree and cactus stand beside a coastal stone wall.",
+    "tags": [
+      "coast",
+      "palm",
+      "cactus",
+      "sea",
+      "hills",
+      "stone"
+    ],
+    "preview": "assets/previews/coastal-palm-and-cactus.png",
+    "pdf": "assets/pdfs/coastal-palm-and-cactus.pdf",
+    "alt": "Outline drawing of a palm and cactus overlooking a bay"
+  },
+  {
+    "id": "sicilian-town-square",
+    "title": "Sicilian Town Square",
+    "category": "Places",
+    "description": "A church and clock tower overlook a lively town square.",
+    "tags": [
+      "square",
+      "church",
+      "clocktower",
+      "italy",
+      "town",
+      "buildings"
+    ],
+    "preview": "assets/previews/sicilian-town-square.png",
+    "pdf": "assets/pdfs/sicilian-town-square.pdf",
+    "alt": "Outline drawing of a church and clock tower in a town square"
+  },
+  {
+    "id": "narrow-sicilian-street",
+    "title": "Narrow Sicilian Street",
+    "category": "Places",
+    "description": "Balconies line a narrow pedestrian street between tall buildings.",
+    "tags": [
+      "street",
+      "balconies",
+      "buildings",
+      "italy",
+      "village",
+      "walking"
+    ],
+    "preview": "assets/previews/narrow-sicilian-street.png",
+    "pdf": "assets/pdfs/narrow-sicilian-street.pdf",
+    "alt": "Outline drawing of a narrow street with balconies and walkers"
+  },
+  {
+    "id": "hillside-bay-panorama",
+    "title": "Hillside Bay Panorama",
+    "category": "Nature",
+    "description": "A winding road leads past hillside homes towards a bay.",
+    "tags": [
+      "bay",
+      "hillside",
+      "coast",
+      "road",
+      "houses",
+      "trees"
+    ],
+    "preview": "assets/previews/hillside-bay-panorama.png",
+    "pdf": "assets/pdfs/hillside-bay-panorama.pdf",
+    "alt": "Outline drawing of a hillside village overlooking a bay"
+  },
+  {
     id: "airport-travellers-group",
     title: "Airport Travellers",
     category: "People",
