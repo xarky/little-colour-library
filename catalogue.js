@@ -2,6 +2,240 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "sandstone-rock-hollow",
+    "title": "Sandstone Rock Hollow",
+    "category": "Places",
+    "description": "A rounded sandstone formation has a curious hollow and sweeping layers.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "canyon",
+      "rocks"
+    ],
+    "preview": "assets/previews/sandstone-rock-hollow.png",
+    "pdf": "assets/pdfs/sandstone-rock-hollow.pdf",
+    "alt": "Outline drawing of sandstone rock hollow"
+  },
+  {
+    "id": "walking-through-the-siq",
+    "title": "Walking Through the Siq",
+    "category": "Places",
+    "description": "Visitors walk between the towering walls of a narrow canyon.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "canyon",
+      "hiking"
+    ],
+    "preview": "assets/previews/walking-through-the-siq.png",
+    "pdf": "assets/pdfs/walking-through-the-siq.pdf",
+    "alt": "Outline drawing of walking through the siq"
+  },
+  {
+    "id": "winding-canyon-passage",
+    "title": "Winding Canyon Passage",
+    "category": "Places",
+    "description": "A winding passage leads between smooth sandstone cliffs.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "canyon",
+      "rocks"
+    ],
+    "preview": "assets/previews/winding-canyon-passage.png",
+    "pdf": "assets/pdfs/winding-canyon-passage.pdf",
+    "alt": "Outline drawing of winding canyon passage"
+  },
+  {
+    "id": "visitors-in-the-siq",
+    "title": "Visitors in the Siq",
+    "category": "Places",
+    "description": "A group of visitors explores the tall rock walls of the Siq.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "canyon",
+      "hiking"
+    ],
+    "preview": "assets/previews/visitors-in-the-siq.png",
+    "pdf": "assets/pdfs/visitors-in-the-siq.pdf",
+    "alt": "Outline drawing of visitors in the siq"
+  },
+  {
+    "id": "first-view-of-the-treasury",
+    "title": "First View of the Treasury",
+    "category": "Places",
+    "description": "Visitors glimpse a carved monument through the narrow canyon.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "architecture",
+      "hiking"
+    ],
+    "preview": "assets/previews/first-view-of-the-treasury.png",
+    "pdf": "assets/pdfs/first-view-of-the-treasury.pdf",
+    "alt": "Outline drawing of first view of the treasury"
+  },
+  {
+    "id": "petra-treasury-facade-with-crowd",
+    "title": "Petra Treasury Facade with Crowd",
+    "category": "Places",
+    "description": "The famous Treasury stands beneath towering sandstone cliffs.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "architecture",
+      "rocks"
+    ],
+    "preview": "assets/previews/petra-treasury-facade-with-crowd.png",
+    "pdf": "assets/pdfs/petra-treasury-facade-with-crowd.pdf",
+    "alt": "Outline drawing of petra treasury facade with crowd"
+  },
+  {
+    "id": "treasury-in-the-cliffs",
+    "title": "The Treasury in the Cliffs",
+    "category": "Places",
+    "description": "A carved stone façade sits among layered hills and arches.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "architecture",
+      "rocks"
+    ],
+    "preview": "assets/previews/treasury-in-the-cliffs.png",
+    "pdf": "assets/pdfs/treasury-in-the-cliffs.pdf",
+    "alt": "Outline drawing of the treasury in the cliffs"
+  },
+  {
+    "id": "royal-tombs-of-petra",
+    "title": "Royal Tombs of Petra",
+    "category": "Places",
+    "description": "Ancient rock-cut tombs rise from the surrounding hills.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "architecture",
+      "rocks"
+    ],
+    "preview": "assets/previews/royal-tombs-of-petra.png",
+    "pdf": "assets/pdfs/royal-tombs-of-petra.pdf",
+    "alt": "Outline drawing of royal tombs of petra"
+  },
+  {
+    "id": "petra-colonnaded-street",
+    "title": "Petra Colonnaded Street",
+    "category": "Places",
+    "description": "Tall columns line a paved street through an ancient city.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "architecture",
+      "rocks"
+    ],
+    "preview": "assets/previews/petra-colonnaded-street.png",
+    "pdf": "assets/pdfs/petra-colonnaded-street.pdf",
+    "alt": "Outline drawing of petra colonnaded street"
+  },
+  {
+    "id": "ancient-petra-ruins",
+    "title": "Ancient Petra Ruins",
+    "category": "Places",
+    "description": "Stone walls and ruins sit below the rugged desert hills.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "architecture",
+      "rocks"
+    ],
+    "preview": "assets/previews/ancient-petra-ruins.png",
+    "pdf": "assets/pdfs/ancient-petra-ruins.pdf",
+    "alt": "Outline drawing of ancient petra ruins"
+  },
+  {
+    "id": "hiking-the-rocky-trail",
+    "title": "Hiking the Rocky Trail",
+    "category": "Places",
+    "description": "Hikers follow steps between rounded rocks and cliffs.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "canyon",
+      "hiking"
+    ],
+    "preview": "assets/previews/hiking-the-rocky-trail.png",
+    "pdf": "assets/pdfs/hiking-the-rocky-trail.pdf",
+    "alt": "Outline drawing of hiking the rocky trail"
+  },
+  {
+    "id": "rocky-canyon-gorge",
+    "title": "Rocky Canyon Gorge",
+    "category": "Places",
+    "description": "A stony ravine winds between layered canyon walls.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "canyon",
+      "rocks"
+    ],
+    "preview": "assets/previews/rocky-canyon-gorge.png",
+    "pdf": "assets/pdfs/rocky-canyon-gorge.pdf",
+    "alt": "Outline drawing of rocky canyon gorge"
+  },
+  {
+    "id": "petra-valley-overlook",
+    "title": "Petra Valley Overlook",
+    "category": "Places",
+    "description": "A sweeping view stretches across a rocky desert valley.",
+    "tags": [
+      "petra",
+      "jordan",
+      "sandstone",
+      "landscape",
+      "colouring",
+      "canyon",
+      "rocks"
+    ],
+    "preview": "assets/previews/petra-valley-overlook.png",
+    "pdf": "assets/pdfs/petra-valley-overlook.pdf",
+    "alt": "Outline drawing of petra valley overlook"
+  },
+  {
     "id": "petra-monastery-close-up",
     "title": "Petra Monastery Close-up",
     "category": "Places",
