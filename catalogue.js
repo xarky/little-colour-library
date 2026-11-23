@@ -2,6 +2,159 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "petra-monastery-close-up",
+    "title": "Petra Monastery Close-up",
+    "category": "Places",
+    "description": "Monastery façade with tall columns and carved cliff walls.",
+    "tags": [
+      "petra",
+      "jordan",
+      "landmark",
+      "architecture",
+      "colouring",
+      "heritage"
+    ],
+    "preview": "assets/previews/petra-monastery-close-up.png",
+    "pdf": "assets/pdfs/petra-monastery-close-up.pdf",
+    "alt": "Outline drawing of the Petra Monastery with columns and surrounding cliffs"
+  },
+  {
+    "id": "petra-monastery-plaza",
+    "title": "Petra Monastery Plaza",
+    "category": "Places",
+    "description": "Visitors walking across the plaza in front of the Petra Monastery.",
+    "tags": [
+      "petra",
+      "jordan",
+      "landmark",
+      "architecture",
+      "colouring",
+      "heritage"
+    ],
+    "preview": "assets/previews/petra-monastery-plaza.png",
+    "pdf": "assets/pdfs/petra-monastery-plaza.pdf",
+    "alt": "Outline drawing of visitors outside the Petra Monastery"
+  },
+  {
+    "id": "jordan-flag-monastery-view",
+    "title": "Jordan Flag and Monastery",
+    "category": "Places",
+    "description": "Jordanian flag flying above the carved Petra Monastery.",
+    "tags": [
+      "jordan",
+      "flag",
+      "petra",
+      "monastery",
+      "travel",
+      "landmark"
+    ],
+    "preview": "assets/previews/jordan-flag-monastery-view.png",
+    "pdf": "assets/pdfs/jordan-flag-monastery-view.pdf",
+    "alt": "Outline drawing of the Jordanian flag and Petra Monastery"
+  },
+  {
+    "id": "jordan-flag-traveller",
+    "title": "Traveller with Jordan Flag",
+    "category": "Places",
+    "description": "A smiling traveller near the Jordanian flag and Petra Monastery.",
+    "tags": [
+      "jordan",
+      "flag",
+      "petra",
+      "monastery",
+      "travel",
+      "landmark"
+    ],
+    "preview": "assets/previews/jordan-flag-traveller.png",
+    "pdf": "assets/pdfs/jordan-flag-traveller.pdf",
+    "alt": "Outline drawing of a smiling traveller, Jordanian flag and Petra Monastery"
+  },
+  {
+    "id": "traveller-at-monastery",
+    "title": "Traveller at Petra Monastery",
+    "category": "Places",
+    "description": "A traveller stands with folded arms outside the Petra Monastery.",
+    "tags": [
+      "petra",
+      "traveller",
+      "jordan",
+      "adventure",
+      "landmark",
+      "holiday"
+    ],
+    "preview": "assets/previews/traveller-at-monastery.png",
+    "pdf": "assets/pdfs/traveller-at-monastery.pdf",
+    "alt": "Outline drawing of a traveller standing in front of the Petra Monastery"
+  },
+  {
+    "id": "petra-royal-tombs",
+    "title": "Petra Rock-cut Tombs",
+    "category": "Places",
+    "description": "A row of rock-cut tombs in Petra’s sandstone cliffs.",
+    "tags": [
+      "petra",
+      "tombs",
+      "cliffs",
+      "architecture",
+      "heritage",
+      "jordan"
+    ],
+    "preview": "assets/previews/petra-royal-tombs.png",
+    "pdf": "assets/pdfs/petra-royal-tombs.pdf",
+    "alt": "Outline drawing of several carved tomb façades in Petra"
+  },
+  {
+    "id": "petra-mountain-valley",
+    "title": "Petra Mountain Valley",
+    "category": "Places",
+    "description": "A winding path through towering cliffs in Petra.",
+    "tags": [
+      "petra",
+      "valley",
+      "cliffs",
+      "mountains",
+      "path",
+      "landscape"
+    ],
+    "preview": "assets/previews/petra-mountain-valley.png",
+    "pdf": "assets/pdfs/petra-mountain-valley.pdf",
+    "alt": "Outline drawing of a winding path through Petra’s rocky valley"
+  },
+  {
+    "id": "traveller-at-petra-treasury",
+    "title": "Traveller at Petra Treasury",
+    "category": "Places",
+    "description": "A traveller standing in front of Petra’s Treasury.",
+    "tags": [
+      "petra",
+      "traveller",
+      "jordan",
+      "adventure",
+      "landmark",
+      "holiday"
+    ],
+    "preview": "assets/previews/traveller-at-petra-treasury.png",
+    "pdf": "assets/pdfs/traveller-at-petra-treasury.pdf",
+    "alt": "Outline drawing of a traveller standing before the Petra Treasury"
+  },
+  {
+    "id": "petra-treasury-facade",
+    "title": "Petra Treasury Façade",
+    "category": "Places",
+    "description": "The carved columns and pediments of Petra’s Treasury.",
+    "tags": [
+      "petra",
+      "jordan",
+      "landmark",
+      "architecture",
+      "colouring",
+      "heritage"
+    ],
+    "preview": "assets/previews/petra-treasury-facade.png",
+    "pdf": "assets/pdfs/petra-treasury-facade.pdf",
+    "alt": "Outline drawing of Petra’s Treasury with columns and carved cliff walls"
+  },
+  {
     "id": "spiral-monument-terrace",
     "title": "Spiral Monument Terrace",
     "category": "Places",
