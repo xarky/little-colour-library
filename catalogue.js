@@ -2,6 +2,135 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "desert-dome-camp",
+    "title": "Desert Dome Camp",
+    "category": "Travel",
+    "description": "Dome tents nestle beside a towering desert cliff.",
+    "tags": [
+      "camp",
+      "dome",
+      "tents",
+      "desert",
+      "cliffs",
+      "travel"
+    ],
+    "preview": "assets/previews/desert-dome-camp.png",
+    "pdf": "assets/pdfs/desert-dome-camp.pdf",
+    "alt": "Outline drawing: Dome tents nestle beside a towering desert cliff"
+  },
+  {
+    "id": "desert-rock-panorama",
+    "title": "Desert Rock Panorama",
+    "category": "Nature",
+    "description": "Rocky mountains rise beyond a wide sandy plain.",
+    "tags": [
+      "desert",
+      "mountains",
+      "rocks",
+      "sand",
+      "landscape"
+    ],
+    "preview": "assets/previews/desert-rock-panorama.png",
+    "pdf": "assets/pdfs/desert-rock-panorama.pdf",
+    "alt": "Outline drawing: Rocky mountains rise beyond a wide sandy plain"
+  },
+  {
+    "id": "desert-off-road-adventure",
+    "title": "Desert Off-Road Adventure",
+    "category": "Vehicles",
+    "description": "Three off-road vehicles follow a sandy trail.",
+    "tags": [
+      "desert",
+      "vehicles",
+      "trucks",
+      "trail",
+      "adventure"
+    ],
+    "preview": "assets/previews/desert-off-road-adventure.png",
+    "pdf": "assets/pdfs/desert-off-road-adventure.pdf",
+    "alt": "Outline drawing: Three off-road vehicles follow a sandy trail"
+  },
+  {
+    "id": "desert-winding-trail",
+    "title": "Desert Winding Trail",
+    "category": "Vehicles",
+    "description": "A convoy follows winding tracks through the desert.",
+    "tags": [
+      "convoy",
+      "desert",
+      "vehicles",
+      "tracks",
+      "mountains"
+    ],
+    "preview": "assets/previews/desert-winding-trail.png",
+    "pdf": "assets/pdfs/desert-winding-trail.pdf",
+    "alt": "Outline drawing: A convoy follows winding tracks through the desert"
+  },
+  {
+    "id": "resting-desert-camels",
+    "title": "Resting Desert Camels",
+    "category": "Animals",
+    "description": "Saddled camels rest beside their handlers in the desert.",
+    "tags": [
+      "camels",
+      "desert",
+      "animals",
+      "saddles",
+      "blankets"
+    ],
+    "preview": "assets/previews/resting-desert-camels.png",
+    "pdf": "assets/pdfs/resting-desert-camels.pdf",
+    "alt": "Outline drawing: Saddled camels rest beside their handlers in the desert"
+  },
+  {
+    "id": "sandstone-desert-valley",
+    "title": "Sandstone Desert Valley",
+    "category": "Nature",
+    "description": "Layered cliffs surround a sweeping sandy valley.",
+    "tags": [
+      "sandstone",
+      "desert",
+      "valley",
+      "cliffs",
+      "dunes"
+    ],
+    "preview": "assets/previews/sandstone-desert-valley.png",
+    "pdf": "assets/pdfs/sandstone-desert-valley.pdf",
+    "alt": "Outline drawing: Layered cliffs surround a sweeping sandy valley"
+  },
+  {
+    "id": "desert-explorer-arms-wide",
+    "title": "Desert Explorer Arms Wide",
+    "category": "Travel",
+    "description": "A smiling explorer stretches out his arms in the desert.",
+    "tags": [
+      "explorer",
+      "desert",
+      "scarf",
+      "sunglasses",
+      "adventure"
+    ],
+    "preview": "assets/previews/desert-explorer-arms-wide.png",
+    "pdf": "assets/pdfs/desert-explorer-arms-wide.pdf",
+    "alt": "Outline drawing: A smiling explorer stretches out his arms in the desert"
+  },
+  {
+    "id": "desert-explorer-portrait",
+    "title": "Desert Explorer Portrait",
+    "category": "Travel",
+    "description": "A smiling explorer stands with one hand on his hip.",
+    "tags": [
+      "explorer",
+      "desert",
+      "portrait",
+      "scarf",
+      "sunglasses"
+    ],
+    "preview": "assets/previews/desert-explorer-portrait.png",
+    "pdf": "assets/pdfs/desert-explorer-portrait.pdf",
+    "alt": "Outline drawing: A smiling explorer stands with one hand on his hip"
+  },
+  {
     "id": "desert-road-trip",
     "title": "Desert Road Trip",
     "category": "Vehicles",
