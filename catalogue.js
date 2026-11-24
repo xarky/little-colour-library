@@ -2,6 +2,122 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "calm-sea-and-cliffs",
+    "title": "Calm Sea and Cliffs",
+    "category": "Nature",
+    "description": "Gentle waves stretch towards distant cliffs.",
+    "tags": [
+      "sea",
+      "cliffs",
+      "waves",
+      "coast",
+      "landscape"
+    ],
+    "preview": "assets/previews/calm-sea-and-cliffs.png",
+    "pdf": "assets/pdfs/calm-sea-and-cliffs.pdf",
+    "alt": "A calm sea with distant cliffs and foreground rocks"
+  },
+  {
+    "id": "rocky-shore",
+    "title": "Rocky Shore",
+    "category": "Nature",
+    "description": "Rounded rocks line a winding shore beneath distant cliffs.",
+    "tags": [
+      "rocks",
+      "shore",
+      "coast",
+      "sea",
+      "cliffs"
+    ],
+    "preview": "assets/previews/rocky-shore.png",
+    "pdf": "assets/pdfs/rocky-shore.pdf",
+    "alt": "A rocky shoreline with calm water and distant cliffs"
+  },
+  {
+    "id": "desert-sunset",
+    "title": "Desert Sunset",
+    "category": "Nature",
+    "description": "The sun sets behind desert hills beside electricity pylons.",
+    "tags": [
+      "desert",
+      "sunset",
+      "hills",
+      "pylons",
+      "clouds"
+    ],
+    "preview": "assets/previews/desert-sunset.png",
+    "pdf": "assets/pdfs/desert-sunset.pdf",
+    "alt": "A setting sun, desert hills, clouds and electricity pylons"
+  },
+  {
+    "id": "harbour-at-night",
+    "title": "Harbour at Night",
+    "category": "Nature",
+    "description": "Small boats float in a harbour beside a waterfront town.",
+    "tags": [
+      "harbour",
+      "boats",
+      "water",
+      "town",
+      "reflections",
+      "night"
+    ],
+    "preview": "assets/previews/harbour-at-night.png",
+    "pdf": "assets/pdfs/harbour-at-night.pdf",
+    "alt": "Boats and reflections on water beside waterfront buildings"
+  },
+  {
+    "id": "swimmer-and-sunken-tank",
+    "title": "Swimmer and Sunken Tank",
+    "category": "Vehicles",
+    "description": "A swimmer wearing goggles explores a sunken tank.",
+    "tags": [
+      "swimmer",
+      "goggles",
+      "tank",
+      "wreck",
+      "underwater",
+      "diving"
+    ],
+    "preview": "assets/previews/swimmer-and-sunken-tank.png",
+    "pdf": "assets/pdfs/swimmer-and-sunken-tank.pdf",
+    "alt": "A swimmer above a sunken tank with bubbles and coral"
+  },
+  {
+    "id": "sunken-tank",
+    "title": "Sunken Tank",
+    "category": "Vehicles",
+    "description": "A sunken tank rests on the seabed among bubbles.",
+    "tags": [
+      "tank",
+      "wreck",
+      "seabed",
+      "underwater",
+      "coral",
+      "vehicle"
+    ],
+    "preview": "assets/previews/sunken-tank.png",
+    "pdf": "assets/pdfs/sunken-tank.pdf",
+    "alt": "A tank wreck with tracks, coral and bubbles on the seabed"
+  },
+  {
+    "id": "coral-reef-swimmers",
+    "title": "Coral Reef Swimmers",
+    "category": "Nature",
+    "description": "Two swimmers glide above a reef filled with rounded and branching corals.",
+    "tags": [
+      "coral",
+      "reef",
+      "swimmers",
+      "ocean",
+      "underwater",
+      "marine"
+    ],
+    "preview": "assets/previews/coral-reef-swimmers.png",
+    "pdf": "assets/pdfs/coral-reef-swimmers.pdf",
+    "alt": "Two swimmers above a reef with rounded and branching coral"
+  },
+  {
     id: "seaside-pier",
     title: "Seaside Pier",
     category: "Nature",
