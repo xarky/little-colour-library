@@ -2,6 +2,86 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    id: "seaside-pier",
+    title: "Seaside Pier",
+    category: "Nature",
+    description: "Three people sit on a pier near a boat and distant mountains.",
+    tags: ["pier", "sea", "beach", "boat", "mountains"],
+    preview: "assets/previews/seaside-pier.png",
+    pdf: "assets/pdfs/seaside-pier.pdf",
+    alt: "Outline drawing of a pier with three people, a boat and mountains"
+  },
+  {
+    id: "harbour-boats",
+    title: "Harbour Boats",
+    category: "Vehicles",
+    description: "Boats with canopies rest beside the shore.",
+    tags: ["boats", "harbour", "canopy", "shore", "water"],
+    preview: "assets/previews/harbour-boats.png",
+    pdf: "assets/pdfs/harbour-boats.pdf",
+    alt: "Outline drawing of canopied boats with palm tree decorations"
+  },
+  {
+    id: "ship-at-sea",
+    title: "Ship at Sea",
+    category: "Vehicles",
+    description: "A ship sails beyond rolling waves and distant mountains.",
+    tags: ["ship", "sea", "waves", "mountains", "coast"],
+    preview: "assets/previews/ship-at-sea.png",
+    pdf: "assets/pdfs/ship-at-sea.pdf",
+    alt: "Outline drawing of a ship beyond waves and mountain ridges"
+  },
+  {
+    id: "fresh-catch",
+    title: "Fresh Catch",
+    category: "Animals",
+    description: "Five fish lie beside a harbour railing and a container.",
+    tags: ["fish", "fishing", "harbour", "catch", "fins"],
+    preview: "assets/previews/fresh-catch.png",
+    pdf: "assets/pdfs/fresh-catch.pdf",
+    alt: "Outline drawing of five fish beside a railing and container"
+  },
+  {
+    id: "steam-locomotive",
+    title: "Steam Locomotive",
+    category: "Vehicles",
+    description: "A steam locomotive stands on railway tracks.",
+    tags: ["train", "steam", "locomotive", "railway", "tracks"],
+    preview: "assets/previews/steam-locomotive.png",
+    pdf: "assets/pdfs/steam-locomotive.pdf",
+    alt: "Outline drawing of front of a steam locomotive with a round lamp"
+  },
+  {
+    id: "desert-valley",
+    title: "Desert Valley",
+    category: "Nature",
+    description: "A vehicle crosses a rocky desert landscape.",
+    tags: ["desert", "valley", "mountains", "vehicle", "rocks"],
+    preview: "assets/previews/desert-valley.png",
+    pdf: "assets/pdfs/desert-valley.pdf",
+    alt: "Outline drawing of a vehicle in a desert with rocky mountains"
+  },
+  {
+    id: "desert-rocks",
+    title: "Desert Rocks",
+    category: "Nature",
+    description: "Two vehicles sit beneath towering desert rock formations.",
+    tags: ["desert", "rocks", "cliffs", "vehicles", "mountains"],
+    preview: "assets/previews/desert-rocks.png",
+    pdf: "assets/pdfs/desert-rocks.pdf",
+    alt: "Outline drawing of two vehicles beneath tall rock formations"
+  },
+  {
+    id: "desert-camp",
+    title: "Desert Camp",
+    category: "Nature",
+    description: "Hikers climb a slope above tents and cabins.",
+    tags: ["hiking", "camp", "desert", "tents", "cabins"],
+    preview: "assets/previews/desert-camp.png",
+    pdf: "assets/pdfs/desert-camp.pdf",
+    alt: "Outline drawing of hikers on a slope above a desert camp"
+  },
+  {
     "id": "desert-dome-camp",
     "title": "Desert Dome Camp",
     "category": "Travel",
