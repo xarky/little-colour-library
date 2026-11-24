@@ -2,6 +2,134 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "desert-road-trip",
+    "title": "Desert Road Trip",
+    "category": "Vehicles",
+    "description": "A convoy of off-road vehicles travels between rocky desert cliffs.",
+    "tags": [
+      "desert",
+      "vehicles",
+      "convoy",
+      "cliffs",
+      "road"
+    ],
+    "preview": "assets/previews/desert-road-trip.png",
+    "pdf": "assets/pdfs/desert-road-trip.pdf",
+    "alt": "Off-road vehicles on a winding track between cliffs and bushes"
+  },
+  {
+    "id": "desert-rock-arch",
+    "title": "Desert Rock Arch",
+    "category": "Nature",
+    "description": "Visitors and resting camels explore a desert beneath a natural rock arch.",
+    "tags": [
+      "desert",
+      "arch",
+      "rocks",
+      "camels",
+      "landscape"
+    ],
+    "preview": "assets/previews/desert-rock-arch.png",
+    "pdf": "assets/pdfs/desert-rock-arch.pdf",
+    "alt": "A large rock arch with visitors and resting camels below"
+  },
+  {
+    "id": "camel-riding-adventure",
+    "title": "Camel Riding Adventure",
+    "category": "Animals",
+    "description": "A traveller with a backpack looks back while riding a camel.",
+    "tags": [
+      "camel",
+      "rider",
+      "backpack",
+      "desert",
+      "travel"
+    ],
+    "preview": "assets/previews/camel-riding-adventure.png",
+    "pdf": "assets/pdfs/camel-riding-adventure.pdf",
+    "alt": "A smiling backpacked camel rider with other riders ahead"
+  },
+  {
+    "id": "camels-at-the-cliffs",
+    "title": "Camels at the Cliffs",
+    "category": "Animals",
+    "description": "Visitors ride and stand beside camels beneath rocky cliffs.",
+    "tags": [
+      "camels",
+      "riders",
+      "cliffs",
+      "desert",
+      "saddles"
+    ],
+    "preview": "assets/previews/camels-at-the-cliffs.png",
+    "pdf": "assets/pdfs/camels-at-the-cliffs.pdf",
+    "alt": "Standing and resting camels with visitors in front of cliffs"
+  },
+  {
+    "id": "desert-camel-caravan",
+    "title": "Desert Camel Caravan",
+    "category": "Animals",
+    "description": "Four camel riders cross the desert towards distant buildings.",
+    "tags": [
+      "camels",
+      "caravan",
+      "riders",
+      "desert",
+      "journey"
+    ],
+    "preview": "assets/previews/desert-camel-caravan.png",
+    "pdf": "assets/pdfs/desert-camel-caravan.pdf",
+    "alt": "Four riders on camels with distant buildings and mountains"
+  },
+  {
+    "id": "desert-oasis-camp",
+    "title": "Desert Oasis Camp",
+    "category": "Nature",
+    "description": "Palm trees, domed shelters and a pool fill a desert camp.",
+    "tags": [
+      "desert",
+      "camp",
+      "palms",
+      "pool",
+      "mountains"
+    ],
+    "preview": "assets/previews/desert-oasis-camp.png",
+    "pdf": "assets/pdfs/desert-oasis-camp.pdf",
+    "alt": "A desert camp with palm trees, domed shelters and a pool"
+  },
+  {
+    "id": "desert-viewpoint",
+    "title": "Desert Viewpoint",
+    "category": "People",
+    "description": "A traveller stands on a rocky viewpoint above a desert valley.",
+    "tags": [
+      "traveller",
+      "desert",
+      "viewpoint",
+      "rocks",
+      "mountains"
+    ],
+    "preview": "assets/previews/desert-viewpoint.png",
+    "pdf": "assets/pdfs/desert-viewpoint.pdf",
+    "alt": "A standing traveller beside a small arched structure overlooking a valley"
+  },
+  {
+    "id": "desert-traveller-portrait",
+    "title": "Desert Traveller Portrait",
+    "category": "People",
+    "description": "A smiling traveller wearing sunglasses poses against desert mountains.",
+    "tags": [
+      "traveller",
+      "portrait",
+      "sunglasses",
+      "desert",
+      "mountains"
+    ],
+    "preview": "assets/previews/desert-traveller-portrait.png",
+    "pdf": "assets/pdfs/desert-traveller-portrait.pdf",
+    "alt": "A smiling traveller wearing sunglasses with mountains behind him"
+  },
+  {
     "id": "petra-stable-horse",
     "title": "Petra Stable Horse",
     "category": "Animals",
