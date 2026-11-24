@@ -2,6 +2,125 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "petra-stable-horse",
+    "title": "Petra Stable Horse",
+    "category": "Animals",
+    "description": "A horse stands beside a feeding trough in a fenced paddock.",
+    "tags": [
+      "horse",
+      "paddock",
+      "stable",
+      "trough",
+      "petra",
+      "jordan"
+    ],
+    "preview": "assets/previews/petra-stable-horse.png",
+    "pdf": "assets/pdfs/petra-stable-horse.pdf",
+    "alt": "Horse beside a trough with a fence and stable behind it"
+  },
+  {
+    "id": "petra-museum",
+    "title": "Petra Museum",
+    "category": "Places",
+    "description": "The museum stands above terraces, steps and rounded trees.",
+    "tags": [
+      "museum",
+      "petra",
+      "jordan",
+      "architecture",
+      "steps",
+      "trees"
+    ],
+    "preview": "assets/previews/petra-museum.png",
+    "pdf": "assets/pdfs/petra-museum.pdf",
+    "alt": "Museum building with terraces, steps and trees"
+  },
+  {
+    "id": "petra-horseback-trail",
+    "title": "Petra Horseback Trail",
+    "category": "Places",
+    "description": "Two riders follow a winding trail between rocky cliffs.",
+    "tags": [
+      "petra",
+      "jordan",
+      "horses",
+      "riders",
+      "trail",
+      "cliffs"
+    ],
+    "preview": "assets/previews/petra-horseback-trail.png",
+    "pdf": "assets/pdfs/petra-horseback-trail.pdf",
+    "alt": "Two riders on a curved path beside rock-cut buildings"
+  },
+  {
+    "id": "petra-obelisk-tomb-rider",
+    "title": "Petra Obelisk Tomb Rider",
+    "category": "Places",
+    "description": "A horse rider passes an ancient tomb carved into a cliff.",
+    "tags": [
+      "petra",
+      "jordan",
+      "tomb",
+      "horse",
+      "rider",
+      "history"
+    ],
+    "preview": "assets/previews/petra-obelisk-tomb-rider.png",
+    "pdf": "assets/pdfs/petra-obelisk-tomb-rider.pdf",
+    "alt": "Horse and rider below a rock-cut tomb with tall obelisks"
+  },
+  {
+    "id": "petra-narrow-siq",
+    "title": "Petra Narrow Siq",
+    "category": "Nature",
+    "description": "Tall curving rock walls surround a narrow path with distant visitors.",
+    "tags": [
+      "petra",
+      "siq",
+      "jordan",
+      "canyon",
+      "rocks",
+      "path"
+    ],
+    "preview": "assets/previews/petra-narrow-siq.png",
+    "pdf": "assets/pdfs/petra-narrow-siq.pdf",
+    "alt": "Narrow canyon with layered walls and distant walkers"
+  },
+  {
+    "id": "petra-siq-walkers",
+    "title": "Petra Siq Walkers",
+    "category": "Places",
+    "description": "Visitors with backpacks walk through a towering rocky canyon.",
+    "tags": [
+      "petra",
+      "siq",
+      "jordan",
+      "walking",
+      "backpacks",
+      "canyon"
+    ],
+    "preview": "assets/previews/petra-siq-walkers.png",
+    "pdf": "assets/pdfs/petra-siq-walkers.pdf",
+    "alt": "Visitors walking between tall layered canyon walls"
+  },
+  {
+    "id": "petra-traveller-portrait",
+    "title": "Petra Traveller Portrait",
+    "category": "People",
+    "description": "A traveller wearing a headscarf and backpack poses in a canyon.",
+    "tags": [
+      "petra",
+      "jordan",
+      "traveller",
+      "headscarf",
+      "backpack",
+      "canyon"
+    ],
+    "preview": "assets/previews/petra-traveller-portrait.png",
+    "pdf": "assets/pdfs/petra-traveller-portrait.pdf",
+    "alt": "Portrait of a traveller in a wrapped headscarf against canyon walls"
+  },
+  {
     "id": "sandstone-rock-hollow",
     "title": "Sandstone Rock Hollow",
     "category": "Places",
