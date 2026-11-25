@@ -2,6 +2,278 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "city-monument",
+    "title": "City Monument",
+    "category": "Places",
+    "description": "A colouring scene showing statue on a tall pedestal in front of a building.",
+    "tags": [
+      "statue",
+      "monument",
+      "city",
+      "building",
+      "steps"
+    ],
+    "preview": "assets/previews/city-monument.png",
+    "pdf": "assets/pdfs/city-monument.pdf",
+    "alt": "Outline drawing of statue on a tall pedestal in front of a building"
+  },
+  {
+    "id": "eagle-adventure",
+    "title": "Eagle Adventure",
+    "category": "Animals",
+    "description": "A colouring scene showing traveller holding an eagle with spread wings.",
+    "tags": [
+      "eagle",
+      "bird",
+      "wings",
+      "traveller",
+      "hills"
+    ],
+    "preview": "assets/previews/eagle-adventure.png",
+    "pdf": "assets/pdfs/eagle-adventure.pdf",
+    "alt": "Outline drawing of traveller holding an eagle with spread wings"
+  },
+  {
+    "id": "lifting-the-yurt-roof",
+    "title": "Lifting the Yurt Roof",
+    "category": "Culture",
+    "description": "A colouring scene showing people lifting the circular roof frame of a yurt.",
+    "tags": [
+      "yurt",
+      "roof",
+      "frame",
+      "craft",
+      "teamwork"
+    ],
+    "preview": "assets/previews/lifting-the-yurt-roof.png",
+    "pdf": "assets/pdfs/lifting-the-yurt-roof.pdf",
+    "alt": "Outline drawing of people lifting the circular roof frame of a yurt"
+  },
+  {
+    "id": "building-a-yurt",
+    "title": "Building a Yurt",
+    "category": "Culture",
+    "description": "A colouring scene showing group assembling a yurt with lattice walls.",
+    "tags": [
+      "yurt",
+      "lattice",
+      "building",
+      "teamwork",
+      "craft"
+    ],
+    "preview": "assets/previews/building-a-yurt.png",
+    "pdf": "assets/pdfs/building-a-yurt.pdf",
+    "alt": "Outline drawing of group assembling a yurt with lattice walls"
+  },
+  {
+    "id": "rolling-a-felt-mat",
+    "title": "Rolling a Felt Mat",
+    "category": "Culture",
+    "description": "A colouring scene showing two people stepping on a rolled mat.",
+    "tags": [
+      "mat",
+      "rolling",
+      "craft",
+      "people",
+      "courtyard"
+    ],
+    "preview": "assets/previews/rolling-a-felt-mat.png",
+    "pdf": "assets/pdfs/rolling-a-felt-mat.pdf",
+    "alt": "Outline drawing of two people stepping on a rolled mat"
+  },
+  {
+    "id": "felt-making-teamwork",
+    "title": "Felt-making Teamwork",
+    "category": "Culture",
+    "description": "A colouring scene showing people working together with a rolled mat and rope.",
+    "tags": [
+      "felt",
+      "mat",
+      "rope",
+      "teamwork",
+      "craft"
+    ],
+    "preview": "assets/previews/felt-making-teamwork.png",
+    "pdf": "assets/pdfs/felt-making-teamwork.pdf",
+    "alt": "Outline drawing of people working together with a rolled mat and rope"
+  },
+  {
+    "id": "campfire",
+    "title": "Campfire",
+    "category": "Nature",
+    "description": "A colouring scene showing campfire with logs and a bench nearby.",
+    "tags": [
+      "fire",
+      "logs",
+      "camping",
+      "flames",
+      "outdoors"
+    ],
+    "preview": "assets/previews/campfire.png",
+    "pdf": "assets/pdfs/campfire.pdf",
+    "alt": "Outline drawing of campfire with logs and a bench nearby"
+  },
+  {
+    "id": "mountain-lake-hikers",
+    "title": "Mountain Lake Hikers",
+    "category": "Nature",
+    "description": "A colouring scene showing two hikers standing beside a mountain lake.",
+    "tags": [
+      "hiking",
+      "lake",
+      "mountains",
+      "backpacks",
+      "rocks"
+    ],
+    "preview": "assets/previews/mountain-lake-hikers.png",
+    "pdf": "assets/pdfs/mountain-lake-hikers.pdf",
+    "alt": "Outline drawing of two hikers standing beside a mountain lake"
+  },
+  {
+    "id": "mountain-truck",
+    "title": "Mountain Truck",
+    "category": "Vehicles",
+    "description": "A colouring scene showing traveller sitting on the front of a truck.",
+    "tags": [
+      "truck",
+      "vehicle",
+      "mountains",
+      "travel",
+      "adventure"
+    ],
+    "preview": "assets/previews/mountain-truck.png",
+    "pdf": "assets/pdfs/mountain-truck.pdf",
+    "alt": "Outline drawing of traveller sitting on the front of a truck"
+  },
+  {
+    "id": "river-valley-walker",
+    "title": "River Valley Walker",
+    "category": "Nature",
+    "description": "A colouring scene showing traveller standing beside a winding river.",
+    "tags": [
+      "river",
+      "valley",
+      "walking",
+      "hills",
+      "traveller"
+    ],
+    "preview": "assets/previews/river-valley-walker.png",
+    "pdf": "assets/pdfs/river-valley-walker.pdf",
+    "alt": "Outline drawing of traveller standing beside a winding river"
+  },
+  {
+    "id": "winding-mountain-river",
+    "title": "Winding Mountain River",
+    "category": "Nature",
+    "description": "A colouring scene showing river winding between rocky hills and trees.",
+    "tags": [
+      "river",
+      "mountains",
+      "rocks",
+      "trees",
+      "valley"
+    ],
+    "preview": "assets/previews/winding-mountain-river.png",
+    "pdf": "assets/pdfs/winding-mountain-river.pdf",
+    "alt": "Outline drawing of river winding between rocky hills and trees"
+  },
+  {
+    "id": "sunset-yurt-camp",
+    "title": "Sunset Yurt Camp",
+    "category": "Places",
+    "description": "A colouring scene showing traveller standing before yurts at sunset.",
+    "tags": [
+      "yurt",
+      "camp",
+      "sunset",
+      "hills",
+      "travel"
+    ],
+    "preview": "assets/previews/sunset-yurt-camp.png",
+    "pdf": "assets/pdfs/sunset-yurt-camp.pdf",
+    "alt": "Outline drawing of traveller standing before yurts at sunset"
+  },
+  {
+    "id": "river-rafting",
+    "title": "River Rafting",
+    "category": "Activities",
+    "description": "A colouring scene showing group paddling an inflatable raft on a river.",
+    "tags": [
+      "rafting",
+      "river",
+      "paddles",
+      "boat",
+      "teamwork"
+    ],
+    "preview": "assets/previews/river-rafting.png",
+    "pdf": "assets/pdfs/river-rafting.pdf",
+    "alt": "Outline drawing of group paddling an inflatable raft on a river"
+  },
+  {
+    "id": "lakeside-rest",
+    "title": "Lakeside Rest",
+    "category": "Nature",
+    "description": "A colouring scene showing two hikers sitting and looking across a mountain lake.",
+    "tags": [
+      "lake",
+      "hikers",
+      "mountains",
+      "backpacks",
+      "rest"
+    ],
+    "preview": "assets/previews/lakeside-rest.png",
+    "pdf": "assets/pdfs/lakeside-rest.pdf",
+    "alt": "Outline drawing of two hikers sitting and looking across a mountain lake"
+  },
+  {
+    "id": "three-river-rafts",
+    "title": "Three River Rafts",
+    "category": "Activities",
+    "description": "A colouring scene showing three rafts carrying groups of people along a river.",
+    "tags": [
+      "rafts",
+      "river",
+      "boating",
+      "people",
+      "water"
+    ],
+    "preview": "assets/previews/three-river-rafts.png",
+    "pdf": "assets/pdfs/three-river-rafts.pdf",
+    "alt": "Outline drawing of three rafts carrying groups of people along a river"
+  },
+  {
+    "id": "mountain-lake-view",
+    "title": "Mountain Lake View",
+    "category": "Nature",
+    "description": "A colouring scene showing two seated hikers overlooking a lake and mountains.",
+    "tags": [
+      "lake",
+      "mountains",
+      "hikers",
+      "rocks",
+      "boat"
+    ],
+    "preview": "assets/previews/mountain-lake-view.png",
+    "pdf": "assets/pdfs/mountain-lake-view.pdf",
+    "alt": "Outline drawing of two seated hikers overlooking a lake and mountains"
+  },
+  {
+    "id": "rafting-through-a-valley",
+    "title": "Rafting Through a Valley",
+    "category": "Activities",
+    "description": "A colouring scene showing rafts floating through a valley lined with trees.",
+    "tags": [
+      "rafting",
+      "valley",
+      "river",
+      "trees",
+      "boats"
+    ],
+    "preview": "assets/previews/rafting-through-a-valley.png",
+    "pdf": "assets/pdfs/rafting-through-a-valley.pdf",
+    "alt": "Outline drawing of rafts floating through a valley lined with trees"
+  },
+  {
     "id": "mosque-chandeliers",
     "title": "Mosque Chandeliers",
     "category": "Architecture",
