@@ -2,6 +2,118 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "winding-canyon-path",
+    "title": "Winding Canyon Path",
+    "category": "Nature",
+    "description": "A winding path passes between rocky canyon walls and shrubs.",
+    "tags": [
+      "canyon",
+      "path",
+      "rocks",
+      "shrubs",
+      "nature"
+    ],
+    "preview": "assets/previews/winding-canyon-path.png",
+    "pdf": "assets/pdfs/winding-canyon-path.pdf",
+    "alt": "Outline drawing: A winding path passes between rocky canyon walls and shrubs"
+  },
+  {
+    "id": "narrow-canyon-explorer",
+    "title": "Narrow Canyon Explorer",
+    "category": "Nature",
+    "description": "A smiling hiker reaches towards both canyon walls.",
+    "tags": [
+      "canyon",
+      "hiker",
+      "walking",
+      "rocks",
+      "adventure"
+    ],
+    "preview": "assets/previews/narrow-canyon-explorer.png",
+    "pdf": "assets/pdfs/narrow-canyon-explorer.pdf",
+    "alt": "Outline drawing: A smiling hiker reaches towards both canyon walls"
+  },
+  {
+    "id": "sweeping-canyon-valley",
+    "title": "Sweeping Canyon Valley",
+    "category": "Nature",
+    "description": "Two distant hikers explore a valley surrounded by layered cliffs.",
+    "tags": [
+      "canyon",
+      "valley",
+      "cliffs",
+      "hikers",
+      "landscape"
+    ],
+    "preview": "assets/previews/sweeping-canyon-valley.png",
+    "pdf": "assets/pdfs/sweeping-canyon-valley.pdf",
+    "alt": "Outline drawing: Two distant hikers explore a valley surrounded by layered cliffs"
+  },
+  {
+    "id": "canyon-rock-spire",
+    "title": "Canyon Rock Spire",
+    "category": "Nature",
+    "description": "A tall rock spire rises above layered canyon cliffs.",
+    "tags": [
+      "canyon",
+      "spire",
+      "rocks",
+      "cliffs",
+      "landscape"
+    ],
+    "preview": "assets/previews/canyon-rock-spire.png",
+    "pdf": "assets/pdfs/canyon-rock-spire.pdf",
+    "alt": "Outline drawing: A tall rock spire rises above layered canyon cliffs"
+  },
+  {
+    "id": "rocky-canyon-hike",
+    "title": "Rocky Canyon Hike",
+    "category": "Nature",
+    "description": "A hiker walks along a rocky path between canyon walls.",
+    "tags": [
+      "hiker",
+      "canyon",
+      "trail",
+      "rocks",
+      "walking"
+    ],
+    "preview": "assets/previews/rocky-canyon-hike.png",
+    "pdf": "assets/pdfs/rocky-canyon-hike.pdf",
+    "alt": "Outline drawing: A hiker walks along a rocky path between canyon walls"
+  },
+  {
+    "id": "canyon-hiking-friends",
+    "title": "Canyon Hiking Friends",
+    "category": "Nature",
+    "description": "Three hikers stand beneath a large layered rock formation.",
+    "tags": [
+      "hikers",
+      "friends",
+      "canyon",
+      "rocks",
+      "adventure"
+    ],
+    "preview": "assets/previews/canyon-hiking-friends.png",
+    "pdf": "assets/pdfs/canyon-hiking-friends.pdf",
+    "alt": "Outline drawing: Three hikers stand beneath a large layered rock formation"
+  },
+  {
+    "id": "hiker-beneath-rock-spire",
+    "title": "Hiker Beneath Rock Spire",
+    "category": "Nature",
+    "description": "A smiling hiker wearing a sun hat stands below a rock spire.",
+    "tags": [
+      "hiker",
+      "hat",
+      "canyon",
+      "spire",
+      "adventure"
+    ],
+    "preview": "assets/previews/hiker-beneath-rock-spire.png",
+    "pdf": "assets/pdfs/hiker-beneath-rock-spire.pdf",
+    "alt": "Outline drawing: A smiling hiker wearing a sun hat stands below a rock spire"
+  },
+  {
     "id": "donkeys-in-the-countryside",
     "title": "Donkeys in the Countryside",
     "category": "Animals",
