@@ -2,6 +2,230 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "mosque-chandeliers",
+    "title": "Mosque Chandeliers",
+    "category": "Architecture",
+    "description": "Visitors beneath a large circular chandelier in a mosque.",
+    "tags": [
+      "mosque",
+      "chandelier",
+      "lights",
+      "dome",
+      "visitors"
+    ],
+    "preview": "assets/previews/mosque-chandeliers.png",
+    "pdf": "assets/pdfs/mosque-chandeliers.pdf",
+    "alt": "Outline drawing of visitors beneath a large circular chandelier in a mosque"
+  },
+  {
+    "id": "mosque-prayer-hall",
+    "title": "Mosque Prayer Hall",
+    "category": "Architecture",
+    "description": "Visitors and book stands inside a spacious mosque.",
+    "tags": [
+      "mosque",
+      "books",
+      "prayer",
+      "hall",
+      "architecture"
+    ],
+    "preview": "assets/previews/mosque-prayer-hall.png",
+    "pdf": "assets/pdfs/mosque-prayer-hall.pdf",
+    "alt": "Outline drawing of visitors and book stands inside a spacious mosque"
+  },
+  {
+    "id": "king-abdullah-mosque",
+    "title": "King Abdullah Mosque",
+    "category": "Architecture",
+    "description": "A mosque with a patterned dome and two minarets.",
+    "tags": [
+      "mosque",
+      "dome",
+      "minarets",
+      "jordan",
+      "amman"
+    ],
+    "preview": "assets/previews/king-abdullah-mosque.png",
+    "pdf": "assets/pdfs/king-abdullah-mosque.pdf",
+    "alt": "Outline drawing of a mosque with a patterned dome and two minarets"
+  },
+  {
+    "id": "mosque-visitor",
+    "title": "Mosque Visitor",
+    "category": "Architecture",
+    "description": "A visitor standing outside a domed mosque.",
+    "tags": [
+      "mosque",
+      "visitor",
+      "dome",
+      "courtyard",
+      "travel"
+    ],
+    "preview": "assets/previews/mosque-visitor.png",
+    "pdf": "assets/pdfs/mosque-visitor.pdf",
+    "alt": "Outline drawing of a visitor standing outside a domed mosque"
+  },
+  {
+    "id": "amman-hillside",
+    "title": "Amman Hillside",
+    "category": "Places",
+    "description": "A visitor looking across a hillside filled with buildings.",
+    "tags": [
+      "amman",
+      "city",
+      "hills",
+      "buildings",
+      "view"
+    ],
+    "preview": "assets/previews/amman-hillside.png",
+    "pdf": "assets/pdfs/amman-hillside.pdf",
+    "alt": "Outline drawing of a visitor looking across a hillside filled with buildings"
+  },
+  {
+    "id": "amman-citadel",
+    "title": "Amman Citadel",
+    "category": "History",
+    "description": "Ancient ruins and a flag on a hilltop.",
+    "tags": [
+      "citadel",
+      "ruins",
+      "flag",
+      "stones",
+      "jordan"
+    ],
+    "preview": "assets/previews/amman-citadel.png",
+    "pdf": "assets/pdfs/amman-citadel.pdf",
+    "alt": "Outline drawing of ancient ruins and a flag on a hilltop"
+  },
+  {
+    "id": "temple-of-hercules",
+    "title": "Temple of Hercules",
+    "category": "History",
+    "description": "Tall ancient columns standing on a stone platform.",
+    "tags": [
+      "temple",
+      "columns",
+      "ruins",
+      "roman",
+      "amman"
+    ],
+    "preview": "assets/previews/temple-of-hercules.png",
+    "pdf": "assets/pdfs/temple-of-hercules.pdf",
+    "alt": "Outline drawing of tall ancient columns standing on a stone platform"
+  },
+  {
+    "id": "market-sweets",
+    "title": "Market Sweets",
+    "category": "Food",
+    "description": "A customer and vendor beside trays of sweets.",
+    "tags": [
+      "market",
+      "sweets",
+      "vendor",
+      "customer",
+      "pastries"
+    ],
+    "preview": "assets/previews/market-sweets.png",
+    "pdf": "assets/pdfs/market-sweets.pdf",
+    "alt": "Outline drawing of a customer and vendor beside trays of sweets"
+  },
+  {
+    "id": "market-seeds",
+    "title": "Market Seeds",
+    "category": "Food",
+    "description": "Bowls of seeds and nuts displayed at a market.",
+    "tags": [
+      "market",
+      "seeds",
+      "nuts",
+      "bowls",
+      "food"
+    ],
+    "preview": "assets/previews/market-seeds.png",
+    "pdf": "assets/pdfs/market-seeds.pdf",
+    "alt": "Outline drawing of bowls of seeds and nuts displayed at a market"
+  },
+  {
+    "id": "market-nuts",
+    "title": "Market Nuts",
+    "category": "Food",
+    "description": "Large bowls of nuts and snacks in a market.",
+    "tags": [
+      "nuts",
+      "market",
+      "snacks",
+      "bowls",
+      "shop"
+    ],
+    "preview": "assets/previews/market-nuts.png",
+    "pdf": "assets/pdfs/market-nuts.pdf",
+    "alt": "Outline drawing of large bowls of nuts and snacks in a market"
+  },
+  {
+    "id": "vegetable-stall",
+    "title": "Vegetable Stall",
+    "category": "Food",
+    "description": "Tomatoes and long vegetables piled at a market stall.",
+    "tags": [
+      "tomatoes",
+      "vegetables",
+      "market",
+      "produce",
+      "stall"
+    ],
+    "preview": "assets/previews/vegetable-stall.png",
+    "pdf": "assets/pdfs/vegetable-stall.pdf",
+    "alt": "Outline drawing of tomatoes and long vegetables piled at a market stall"
+  },
+  {
+    "id": "snack-market",
+    "title": "Snack Market",
+    "category": "Food",
+    "description": "Bowls of snacks beside shelves in a market.",
+    "tags": [
+      "snacks",
+      "market",
+      "bowls",
+      "shop",
+      "food"
+    ],
+    "preview": "assets/previews/snack-market.png",
+    "pdf": "assets/pdfs/snack-market.pdf",
+    "alt": "Outline drawing of bowls of snacks beside shelves in a market"
+  },
+  {
+    "id": "roman-theatre-visitors",
+    "title": "Roman Theatre Visitors",
+    "category": "History",
+    "description": "Visitors and a photographer in front of an ancient theatre.",
+    "tags": [
+      "theatre",
+      "roman",
+      "visitors",
+      "steps",
+      "amman"
+    ],
+    "preview": "assets/previews/roman-theatre-visitors.png",
+    "pdf": "assets/pdfs/roman-theatre-visitors.pdf",
+    "alt": "Outline drawing of visitors and a photographer in front of an ancient theatre"
+  },
+  {
+    "id": "roman-theatre-plaza",
+    "title": "Roman Theatre Plaza",
+    "category": "History",
+    "description": "People crossing a plaza towards a Roman theatre.",
+    "tags": [
+      "theatre",
+      "plaza",
+      "roman",
+      "travel",
+      "amman"
+    ],
+    "preview": "assets/previews/roman-theatre-plaza.png",
+    "pdf": "assets/pdfs/roman-theatre-plaza.pdf",
+    "alt": "Outline drawing of people crossing a plaza towards a Roman theatre"
+  },
+  {
     "id": "calm-sea-and-cliffs",
     "title": "Calm Sea and Cliffs",
     "category": "Nature",
