@@ -2,6 +2,118 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "bishkek-aircraft-monument",
+    "title": "Aircraft Monument",
+    "category": "Vehicles",
+    "description": "A jet aircraft stands on a tall monument surrounded by trees.",
+    "tags": [
+      "aircraft",
+      "jet",
+      "monument",
+      "bishkek",
+      "trees"
+    ],
+    "preview": "assets/previews/bishkek-aircraft-monument.png",
+    "pdf": "assets/pdfs/bishkek-aircraft-monument.pdf",
+    "alt": "A jet aircraft on a tall pedestal with trees"
+  },
+  {
+    "id": "bishkek-government-building",
+    "title": "Government Building and Fountains",
+    "category": "Architecture",
+    "description": "A grand building overlooks fountains and flower beds.",
+    "tags": [
+      "building",
+      "fountains",
+      "garden",
+      "bishkek",
+      "architecture"
+    ],
+    "preview": "assets/previews/bishkek-government-building.png",
+    "pdf": "assets/pdfs/bishkek-government-building.pdf",
+    "alt": "A symmetrical building with columns, fountains and flower beds"
+  },
+  {
+    "id": "bishkek-unity-monument",
+    "title": "Unity Monument",
+    "category": "Monuments",
+    "description": "Two sculpted figures push against a large stone wall.",
+    "tags": [
+      "statue",
+      "figures",
+      "wall",
+      "monument",
+      "bishkek"
+    ],
+    "preview": "assets/previews/bishkek-unity-monument.png",
+    "pdf": "assets/pdfs/bishkek-unity-monument.pdf",
+    "alt": "Two figures leaning against a stone wall"
+  },
+  {
+    "id": "bishkek-horseback-monument",
+    "title": "Horseback Monument",
+    "category": "Monuments",
+    "description": "A flag-bearing rider sits on a leaping horse above a stone pedestal.",
+    "tags": [
+      "horse",
+      "rider",
+      "flag",
+      "statue",
+      "bishkek"
+    ],
+    "preview": "assets/previews/bishkek-horseback-monument.png",
+    "pdf": "assets/pdfs/bishkek-horseback-monument.pdf",
+    "alt": "A rider holding a flag on a leaping horse"
+  },
+  {
+    "id": "bishkek-circular-monument",
+    "title": "Circular Monument",
+    "category": "Monuments",
+    "description": "A standing figure is framed by a circular monument and garden shrubs.",
+    "tags": [
+      "statue",
+      "circle",
+      "monument",
+      "garden",
+      "bishkek"
+    ],
+    "preview": "assets/previews/bishkek-circular-monument.png",
+    "pdf": "assets/pdfs/bishkek-circular-monument.pdf",
+    "alt": "A standing statue in front of a patterned circular backdrop"
+  },
+  {
+    "id": "bishkek-yurt-and-colonnade",
+    "title": "Yurt and Colonnade",
+    "category": "Architecture",
+    "description": "A traditional yurt stands beside a curved colonnade and statue.",
+    "tags": [
+      "yurt",
+      "columns",
+      "statue",
+      "garden",
+      "bishkek"
+    ],
+    "preview": "assets/previews/bishkek-yurt-and-colonnade.png",
+    "pdf": "assets/pdfs/bishkek-yurt-and-colonnade.pdf",
+    "alt": "A patterned yurt beside a curved row of columns and a statue"
+  },
+  {
+    "id": "bishkek-document-statue",
+    "title": "Statue with a Document",
+    "category": "Monuments",
+    "description": "A uniformed statue holds a document beside a draped coat.",
+    "tags": [
+      "statue",
+      "document",
+      "coat",
+      "uniform",
+      "bishkek"
+    ],
+    "preview": "assets/previews/bishkek-document-statue.png",
+    "pdf": "assets/pdfs/bishkek-document-statue.pdf",
+    "alt": "A standing uniformed statue holding a sheet of paper beside a coat"
+  },
+  {
     "id": "city-monument",
     "title": "City Monument",
     "category": "Places",
