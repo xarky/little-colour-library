@@ -2,6 +2,102 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "donkeys-in-the-countryside",
+    "title": "Donkeys in the Countryside",
+    "category": "Animals",
+    "description": "Donkeys stand among bushes beneath distant mountains.",
+    "tags": [
+      "donkeys",
+      "foal",
+      "countryside",
+      "mountains",
+      "bushes"
+    ],
+    "preview": "assets/previews/donkeys-in-the-countryside.png",
+    "pdf": "assets/pdfs/donkeys-in-the-countryside.pdf",
+    "alt": "Outline drawing of four donkeys among bushes and mountains"
+  },
+  {
+    "id": "countryside-wooden-veranda",
+    "title": "Countryside Wooden Veranda",
+    "category": "Places",
+    "description": "People stand on a wooden veranda overlooking a field and trees.",
+    "tags": [
+      "veranda",
+      "wooden",
+      "field",
+      "trees",
+      "countryside"
+    ],
+    "preview": "assets/previews/countryside-wooden-veranda.png",
+    "pdf": "assets/pdfs/countryside-wooden-veranda.pdf",
+    "alt": "Outline drawing of people on a veranda beside a field and tall trees"
+  },
+  {
+    "id": "sculpture-in-a-mountain-garden",
+    "title": "Sculpture in a Mountain Garden",
+    "category": "Places",
+    "description": "An arch-shaped sculpture stands in a garden near mountain buildings.",
+    "tags": [
+      "sculpture",
+      "garden",
+      "arch",
+      "buildings",
+      "mountains"
+    ],
+    "preview": "assets/previews/sculpture-in-a-mountain-garden.png",
+    "pdf": "assets/pdfs/sculpture-in-a-mountain-garden.pdf",
+    "alt": "Outline drawing of arch-shaped sculpture with buildings, trees and mountains"
+  },
+  {
+    "id": "mountain-valley",
+    "title": "Mountain Valley",
+    "category": "Nature",
+    "description": "Clouds float above mountains and a row of trees.",
+    "tags": [
+      "mountains",
+      "valley",
+      "clouds",
+      "trees",
+      "rocks"
+    ],
+    "preview": "assets/previews/mountain-valley.png",
+    "pdf": "assets/pdfs/mountain-valley.pdf",
+    "alt": "Outline drawing of mountain ridges above trees and rocky ground"
+  },
+  {
+    "id": "riverside-sunset",
+    "title": "Riverside Sunset",
+    "category": "Nature",
+    "description": "A man sits on a rock beside a river at sunset.",
+    "tags": [
+      "river",
+      "sunset",
+      "rocks",
+      "man",
+      "mountains"
+    ],
+    "preview": "assets/previews/riverside-sunset.png",
+    "pdf": "assets/pdfs/riverside-sunset.pdf",
+    "alt": "Outline drawing of man seated on a rock beside a river and setting sun"
+  },
+  {
+    "id": "winding-mountain-river-2",
+    "title": "Winding Mountain River",
+    "category": "Nature",
+    "description": "A river winds between rocky banks beneath a setting sun.",
+    "tags": [
+      "river",
+      "mountains",
+      "sunset",
+      "rocks",
+      "trees"
+    ],
+    "preview": "assets/previews/winding-mountain-river-2.png",
+    "pdf": "assets/pdfs/winding-mountain-river-2.pdf",
+    "alt": "Outline drawing of winding river with rocks, trees and a sun above mountains"
+  },
+  {
     "id": "bishkek-aircraft-monument",
     "title": "Aircraft Monument",
     "category": "Vehicles",
