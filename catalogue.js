@@ -2,6 +2,70 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "lakeside-hiker",
+    "title": "Lakeside Hiker",
+    "category": "Nature",
+    "description": "A hiker rests on a rock beside a mountain lake.",
+    "tags": [
+      "hiker",
+      "lake",
+      "mountains",
+      "rocks",
+      "outdoors"
+    ],
+    "preview": "assets/previews/lakeside-hiker.png",
+    "pdf": "assets/pdfs/lakeside-hiker.pdf",
+    "alt": "Outline drawing of a seated hiker beside a mountain lake"
+  },
+  {
+    "id": "boats-on-rocky-shore",
+    "title": "Boats on a Rocky Shore",
+    "category": "Vehicles",
+    "description": "Two inflatable boats rest on a rocky lakeshore.",
+    "tags": [
+      "boats",
+      "lake",
+      "shore",
+      "mountains",
+      "rocks"
+    ],
+    "preview": "assets/previews/boats-on-rocky-shore.png",
+    "pdf": "assets/pdfs/boats-on-rocky-shore.pdf",
+    "alt": "Two inflatable motorboats on a rocky shore beneath mountains"
+  },
+  {
+    "id": "two-lake-motorboats",
+    "title": "Two Lake Motorboats",
+    "category": "Vehicles",
+    "description": "Passengers explore a mountain lake in two motorboats.",
+    "tags": [
+      "motorboats",
+      "lake",
+      "mountains",
+      "passengers",
+      "life jackets"
+    ],
+    "preview": "assets/previews/two-lake-motorboats.png",
+    "pdf": "assets/pdfs/two-lake-motorboats.pdf",
+    "alt": "Two motorboats carrying passengers across a mountain lake"
+  },
+  {
+    "id": "inflatable-boat-trip",
+    "title": "Inflatable Boat Trip",
+    "category": "Vehicles",
+    "description": "Four passengers enjoy a ride in an inflatable boat.",
+    "tags": [
+      "boat",
+      "lake",
+      "passengers",
+      "life jackets",
+      "mountains"
+    ],
+    "preview": "assets/previews/inflatable-boat-trip.png",
+    "pdf": "assets/pdfs/inflatable-boat-trip.pdf",
+    "alt": "Four passengers in an inflatable motorboat beneath rocky cliffs"
+  },
+  {
     "id": "winding-canyon-path",
     "title": "Winding Canyon Path",
     "category": "Nature",
