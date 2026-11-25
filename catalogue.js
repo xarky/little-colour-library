@@ -228,7 +228,7 @@ window.COLOUR_CATALOGUE = [
   {
     "id": "bishkek-government-building",
     "title": "Government Building and Fountains",
-    "category": "Architecture",
+    "category": "Buildings",
     "description": "A grand building overlooks fountains and flower beds.",
     "tags": [
       "building",
@@ -292,7 +292,7 @@ window.COLOUR_CATALOGUE = [
   {
     "id": "bishkek-yurt-and-colonnade",
     "title": "Yurt and Colonnade",
-    "category": "Architecture",
+    "category": "Buildings",
     "description": "A traditional yurt stands beside a curved colonnade and statue.",
     "tags": [
       "yurt",
@@ -596,7 +596,7 @@ window.COLOUR_CATALOGUE = [
   {
     "id": "mosque-chandeliers",
     "title": "Mosque Chandeliers",
-    "category": "Architecture",
+    "category": "Buildings",
     "description": "Visitors beneath a large circular chandelier in a mosque.",
     "tags": [
       "mosque",
@@ -612,7 +612,7 @@ window.COLOUR_CATALOGUE = [
   {
     "id": "mosque-prayer-hall",
     "title": "Mosque Prayer Hall",
-    "category": "Architecture",
+    "category": "Buildings",
     "description": "Visitors and book stands inside a spacious mosque.",
     "tags": [
       "mosque",
@@ -628,7 +628,7 @@ window.COLOUR_CATALOGUE = [
   {
     "id": "king-abdullah-mosque",
     "title": "King Abdullah Mosque",
-    "category": "Architecture",
+    "category": "Buildings",
     "description": "A mosque with a patterned dome and two minarets.",
     "tags": [
       "mosque",
@@ -644,7 +644,7 @@ window.COLOUR_CATALOGUE = [
   {
     "id": "mosque-visitor",
     "title": "Mosque Visitor",
-    "category": "Architecture",
+    "category": "Buildings",
     "description": "A visitor standing outside a domed mosque.",
     "tags": [
       "mosque",
@@ -2944,9 +2944,9 @@ window.COLOUR_CATALOGUE = [
   {
     id: "mermaid-on-rocks",
     title: "Mermaid on the Rocks",
-    category: "Fantasy",
+    category: "Monuments",
     description: "Colour a beautiful mermaid resting on seaside rocks, surrounded by rolling ocean waves in this magical underwater-inspired scene.",
-    tags: ["mermaid", "sea", "ocean", "rocks", "waves", "fantasy", "seaside", "mythical creatures"],
+    tags: ["mermaid", "sea", "ocean", "rocks", "waves", "monument", "seaside", "mythical creatures"],
     preview: "assets/previews/mermaid-on-rocks.png",
     pdf: "assets/pdfs/mermaid-on-rocks.pdf",
     alt: "Black and white outline drawing of a mermaid with flowing hair and a curved tail sitting on coastal rocks beside ocean waves"
@@ -4115,7 +4115,7 @@ window.COLOUR_CATALOGUE = [
   {
     id: 'south-korea-plane',
     title: 'Aeroplanes in South Korea',
-    category: 'Transport',
+    category: 'Vehicles',
     description: 'Aeroplanes on display in a South Korean park.',
     tags: ['aeroplanes', 'aircraft', 'South Korea', 'park', 'aviation', 'travel', 'transport'],
     preview: 'assets/previews/south-korea-plane.png',
