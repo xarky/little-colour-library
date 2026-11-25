@@ -2,6 +2,118 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "lake-boat-between-cliffs",
+    "title": "Lake Boat Between Cliffs",
+    "category": "Nature",
+    "description": "A small boat travels between towering rocky cliffs.",
+    "tags": [
+      "boat",
+      "lake",
+      "cliffs",
+      "mountains",
+      "water"
+    ],
+    "preview": "assets/previews/lake-boat-between-cliffs.png",
+    "pdf": "assets/pdfs/lake-boat-between-cliffs.pdf",
+    "alt": "Outline drawing: a small boat travels between towering rocky cliffs"
+  },
+  {
+    "id": "motorboat-mountain-adventure",
+    "title": "Motorboat Mountain Adventure",
+    "category": "Vehicles",
+    "description": "Passengers in life jackets travel past mountain cliffs.",
+    "tags": [
+      "motorboat",
+      "passengers",
+      "life jackets",
+      "mountains",
+      "lake"
+    ],
+    "preview": "assets/previews/motorboat-mountain-adventure.png",
+    "pdf": "assets/pdfs/motorboat-mountain-adventure.pdf",
+    "alt": "Outline drawing: passengers in life jackets travel past mountain cliffs"
+  },
+  {
+    "id": "friends-on-a-motorboat",
+    "title": "Friends on a Motorboat",
+    "category": "Vehicles",
+    "description": "A group enjoys a motorboat ride beside rocky cliffs.",
+    "tags": [
+      "motorboat",
+      "friends",
+      "life jackets",
+      "water",
+      "cliffs"
+    ],
+    "preview": "assets/previews/friends-on-a-motorboat.png",
+    "pdf": "assets/pdfs/friends-on-a-motorboat.pdf",
+    "alt": "Outline drawing: a group enjoys a motorboat ride beside rocky cliffs"
+  },
+  {
+    "id": "quiet-rocky-gorge",
+    "title": "Quiet Rocky Gorge",
+    "category": "Nature",
+    "description": "Calm water winds between steep rocky cliffs.",
+    "tags": [
+      "gorge",
+      "cliffs",
+      "lake",
+      "water",
+      "mountains"
+    ],
+    "preview": "assets/previews/quiet-rocky-gorge.png",
+    "pdf": "assets/pdfs/quiet-rocky-gorge.pdf",
+    "alt": "Outline drawing: calm water winds between steep rocky cliffs"
+  },
+  {
+    "id": "clouds-over-mountain-lake",
+    "title": "Clouds over a Mountain Lake",
+    "category": "Nature",
+    "description": "Clouds float above mountains reflected in a lake.",
+    "tags": [
+      "clouds",
+      "mountains",
+      "lake",
+      "reflection",
+      "sky"
+    ],
+    "preview": "assets/previews/clouds-over-mountain-lake.png",
+    "pdf": "assets/pdfs/clouds-over-mountain-lake.pdf",
+    "alt": "Outline drawing: clouds float above mountains reflected in a lake"
+  },
+  {
+    "id": "cloudy-canyon-lake",
+    "title": "Cloudy Canyon Lake",
+    "category": "Nature",
+    "description": "Two clouds float above a lake framed by rocky cliffs.",
+    "tags": [
+      "clouds",
+      "canyon",
+      "lake",
+      "cliffs",
+      "water"
+    ],
+    "preview": "assets/previews/cloudy-canyon-lake.png",
+    "pdf": "assets/pdfs/cloudy-canyon-lake.pdf",
+    "alt": "Outline drawing: two clouds float above a lake framed by rocky cliffs"
+  },
+  {
+    "id": "distant-mountain-passage",
+    "title": "Distant Mountain Passage",
+    "category": "Nature",
+    "description": "Steep cliffs frame a distant mountain passage across calm water.",
+    "tags": [
+      "mountains",
+      "passage",
+      "cliffs",
+      "lake",
+      "ripples"
+    ],
+    "preview": "assets/previews/distant-mountain-passage.png",
+    "pdf": "assets/pdfs/distant-mountain-passage.pdf",
+    "alt": "Outline drawing: steep cliffs frame a distant mountain passage across calm water"
+  },
+  {
     id: "mountain-lake-and-boats",
     title: "Mountain Lake and Boats",
     category: "Nature",
