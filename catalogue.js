@@ -2,6 +2,118 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "rolling-hills",
+    "title": "Rolling Hills",
+    "category": "Nature",
+    "description": "Rolling hills rise above an open grassy meadow.",
+    "tags": [
+      "hills",
+      "meadow",
+      "grass",
+      "landscape",
+      "countryside"
+    ],
+    "preview": "assets/previews/rolling-hills.png",
+    "pdf": "assets/pdfs/rolling-hills.pdf",
+    "alt": "Outline drawing of rolling hills and grass tufts in an open meadow"
+  },
+  {
+    "id": "mountain-valley-stream",
+    "title": "Mountain Valley Stream",
+    "category": "Nature",
+    "description": "A stream winds through a mountain valley dotted with small buildings.",
+    "tags": [
+      "stream",
+      "valley",
+      "mountains",
+      "buildings",
+      "countryside"
+    ],
+    "preview": "assets/previews/mountain-valley-stream.png",
+    "pdf": "assets/pdfs/mountain-valley-stream.pdf",
+    "alt": "Outline drawing of a winding stream with small buildings and hills behind it"
+  },
+  {
+    "id": "horses-by-the-stream",
+    "title": "Horses by the Stream",
+    "category": "Animals",
+    "description": "Two horses stand beside a stream below a wooded hillside.",
+    "tags": [
+      "horses",
+      "stream",
+      "trees",
+      "woodland",
+      "meadow"
+    ],
+    "preview": "assets/previews/horses-by-the-stream.png",
+    "pdf": "assets/pdfs/horses-by-the-stream.pdf",
+    "alt": "Outline drawing of two horses beside a stream with conifer trees on a hillside"
+  },
+  {
+    "id": "winding-canyon-river",
+    "title": "Winding Canyon River",
+    "category": "Nature",
+    "description": "A river winds between rounded rocky canyon walls.",
+    "tags": [
+      "river",
+      "canyon",
+      "rocks",
+      "cliffs",
+      "water"
+    ],
+    "preview": "assets/previews/winding-canyon-river.png",
+    "pdf": "assets/pdfs/winding-canyon-river.pdf",
+    "alt": "Outline drawing of a winding river between large rocky cliffs"
+  },
+  {
+    "id": "rocky-gorge",
+    "title": "Rocky Gorge",
+    "category": "Nature",
+    "description": "Large boulders sit in a stream between steep rock walls.",
+    "tags": [
+      "gorge",
+      "boulders",
+      "stream",
+      "cliffs",
+      "rocks"
+    ],
+    "preview": "assets/previews/rocky-gorge.png",
+    "pdf": "assets/pdfs/rocky-gorge.pdf",
+    "alt": "Outline drawing of a narrow rocky gorge with boulders in the stream"
+  },
+  {
+    "id": "mountain-plateau",
+    "title": "Mountain Plateau",
+    "category": "Nature",
+    "description": "An open grassy plateau overlooks a ravine and distant mountain peaks.",
+    "tags": [
+      "plateau",
+      "mountains",
+      "ravine",
+      "grass",
+      "landscape"
+    ],
+    "preview": "assets/previews/mountain-plateau.png",
+    "pdf": "assets/pdfs/mountain-plateau.pdf",
+    "alt": "Outline drawing of an open plateau with a ravine and distant mountain peaks"
+  },
+  {
+    "id": "mountain-yurt-camp-1",
+    "title": "Mountain Yurt Camp",
+    "category": "Places",
+    "description": "Round yurts and a vehicle sit beside a winding road beneath mountain peaks.",
+    "tags": [
+      "yurts",
+      "camp",
+      "mountains",
+      "road",
+      "vehicle"
+    ],
+    "preview": "assets/previews/mountain-yurt-camp-1.png",
+    "pdf": "assets/pdfs/mountain-yurt-camp-1.pdf",
+    "alt": "Outline drawing of round yurts, a building and a vehicle beneath mountain peaks"
+  },
+  {
     "id": "riverside-yurts",
     "title": "Riverside Yurts",
     "category": "Nature",
