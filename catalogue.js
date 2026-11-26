@@ -2,6 +2,87 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "mountain-valley-track",
+    "title": "Mountain Valley Track",
+    "category": "Nature",
+    "description": "A winding track leads across a broad plain towards jagged mountains.",
+    "tags": [
+      "mountains",
+      "valley",
+      "track",
+      "hills",
+      "landscape"
+    ],
+    "preview": "assets/previews/mountain-valley-track.png",
+    "pdf": "assets/pdfs/mountain-valley-track.pdf",
+    "alt": "Outline drawing of a winding track through a plain beneath mountain peaks"
+  },
+  {
+    "id": "rocky-mountain-pass",
+    "title": "Rocky Mountain Pass",
+    "category": "Nature",
+    "description": "Towering cliffs surround a rocky mountain pass.",
+    "tags": [
+      "mountains",
+      "cliffs",
+      "rocks",
+      "pass",
+      "valley"
+    ],
+    "preview": "assets/previews/rocky-mountain-pass.png",
+    "pdf": "assets/pdfs/rocky-mountain-pass.pdf",
+    "alt": "Outline drawing of steep mountain walls, a central rock spire and foreground boulders"
+  },
+  {
+    "id": "mountain-stream-1",
+    "title": "Mountain Stream",
+    "category": "Nature",
+    "description": "A winding stream flows between steep mountains and scattered boulders.",
+    "tags": [
+      "mountains",
+      "stream",
+      "rocks",
+      "valley",
+      "water"
+    ],
+    "preview": "assets/previews/mountain-stream-1.png",
+    "pdf": "assets/pdfs/mountain-stream-1.pdf",
+    "alt": "Outline drawing of a stream winding through a rocky mountain valley"
+  },
+  {
+    "id": "rolling-hills-and-stream",
+    "title": "Rolling Hills and Stream",
+    "category": "Nature",
+    "description": "A stream winds past boulders beneath gentle rolling hills.",
+    "tags": [
+      "hills",
+      "stream",
+      "rocks",
+      "valley",
+      "landscape"
+    ],
+    "preview": "assets/previews/rolling-hills-and-stream.png",
+    "pdf": "assets/pdfs/rolling-hills-and-stream.pdf",
+    "alt": "Outline drawing of rolling hills and a winding stream surrounded by rocks"
+  },
+  {
+    "id": "horse-riders-and-hikers",
+    "title": "Horse Riders and Hikers",
+    "category": "Nature",
+    "description": "Three horse riders and two hikers explore a rocky mountain valley.",
+    "tags": [
+      "horses",
+      "riders",
+      "hiking",
+      "mountains",
+      "trail",
+      "rocks"
+    ],
+    "preview": "assets/previews/horse-riders-and-hikers.png",
+    "pdf": "assets/pdfs/horse-riders-and-hikers.pdf",
+    "alt": "Outline drawing of three horse riders and two backpackers on a mountain trail"
+  },
+  {
     "id": "lake-boat-between-cliffs",
     "title": "Lake Boat Between Cliffs",
     "category": "Nature",
