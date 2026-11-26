@@ -2,6 +2,182 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "riverside-yurts",
+    "title": "Riverside Yurts",
+    "category": "Nature",
+    "description": "Yurts stand beside a winding river beneath mountain peaks.",
+    "tags": [
+      "yurts",
+      "river",
+      "mountains",
+      "camping",
+      "valley"
+    ],
+    "preview": "assets/previews/riverside-yurts.png",
+    "pdf": "assets/pdfs/riverside-yurts.pdf",
+    "alt": "Outline drawing: yurts stand beside a winding river beneath mountain peaks."
+  },
+  {
+    "id": "mountain-yurt-camp",
+    "title": "Mountain Yurt Camp",
+    "category": "Nature",
+    "description": "A small yurt camp sits beneath rolling hills and jagged peaks.",
+    "tags": [
+      "yurts",
+      "hills",
+      "mountains",
+      "grassland",
+      "camp"
+    ],
+    "preview": "assets/previews/mountain-yurt-camp.png",
+    "pdf": "assets/pdfs/mountain-yurt-camp.pdf",
+    "alt": "Outline drawing: a small yurt camp sits beneath rolling hills and jagged peaks."
+  },
+  {
+    "id": "road-to-the-yurts",
+    "title": "Road to the Yurts",
+    "category": "Nature",
+    "description": "A winding road leads towards a row of yurts and a vehicle.",
+    "tags": [
+      "road",
+      "yurts",
+      "vehicle",
+      "mountains",
+      "travel"
+    ],
+    "preview": "assets/previews/road-to-the-yurts.png",
+    "pdf": "assets/pdfs/road-to-the-yurts.pdf",
+    "alt": "Outline drawing: a winding road leads towards a row of yurts and a vehicle."
+  },
+  {
+    "id": "wide-mountain-valley",
+    "title": "Wide Mountain Valley",
+    "category": "Nature",
+    "description": "A broad valley stretches between mountains and distant camps.",
+    "tags": [
+      "valley",
+      "mountains",
+      "grassland",
+      "yurts",
+      "landscape"
+    ],
+    "preview": "assets/previews/wide-mountain-valley.png",
+    "pdf": "assets/pdfs/wide-mountain-valley.pdf",
+    "alt": "Outline drawing: a broad valley stretches between mountains and distant camps."
+  },
+  {
+    "id": "walking-across-the-valley",
+    "title": "Walking Across the Valley",
+    "category": "Outdoors",
+    "description": "Walkers cross open grassland with mountains in the distance.",
+    "tags": [
+      "walking",
+      "hikers",
+      "valley",
+      "grassland",
+      "mountains"
+    ],
+    "preview": "assets/previews/walking-across-the-valley.png",
+    "pdf": "assets/pdfs/walking-across-the-valley.pdf",
+    "alt": "Outline drawing: walkers cross open grassland with mountains in the distance."
+  },
+  {
+    "id": "hiking-downhill",
+    "title": "Hiking Downhill",
+    "category": "Outdoors",
+    "description": "Backpackers look across a river valley from a hillside.",
+    "tags": [
+      "hiking",
+      "backpacks",
+      "hillside",
+      "river",
+      "valley"
+    ],
+    "preview": "assets/previews/hiking-downhill.png",
+    "pdf": "assets/pdfs/hiking-downhill.pdf",
+    "alt": "Outline drawing: backpackers look across a river valley from a hillside."
+  },
+  {
+    "id": "smiling-mountain-hiker",
+    "title": "Smiling Mountain Hiker",
+    "category": "Outdoors",
+    "description": "A smiling hiker holds backpack straps against a mountain backdrop.",
+    "tags": [
+      "hiker",
+      "backpack",
+      "mountains",
+      "outdoors",
+      "walking"
+    ],
+    "preview": "assets/previews/smiling-mountain-hiker.png",
+    "pdf": "assets/pdfs/smiling-mountain-hiker.pdf",
+    "alt": "Outline drawing: a smiling hiker holds backpack straps against a mountain backdrop."
+  },
+  {
+    "id": "friends-on-the-hillside",
+    "title": "Friends on the Hillside",
+    "category": "Outdoors",
+    "description": "A group of walkers explores a hillside above a broad valley.",
+    "tags": [
+      "friends",
+      "hikers",
+      "hillside",
+      "valley",
+      "outdoors"
+    ],
+    "preview": "assets/previews/friends-on-the-hillside.png",
+    "pdf": "assets/pdfs/friends-on-the-hillside.pdf",
+    "alt": "Outline drawing: a group of walkers explores a hillside above a broad valley."
+  },
+  {
+    "id": "river-valley-overlook",
+    "title": "River Valley Overlook",
+    "category": "Nature",
+    "description": "A winding river passes a small camp beneath layered mountains.",
+    "tags": [
+      "river",
+      "valley",
+      "mountains",
+      "yurts",
+      "landscape"
+    ],
+    "preview": "assets/previews/river-valley-overlook.png",
+    "pdf": "assets/pdfs/river-valley-overlook.pdf",
+    "alt": "Outline drawing: a winding river passes a small camp beneath layered mountains."
+  },
+  {
+    "id": "moon-over-the-valley",
+    "title": "Moon over the Valley",
+    "category": "Nature",
+    "description": "A round moon hangs above a winding river and mountain slopes.",
+    "tags": [
+      "moon",
+      "river",
+      "mountains",
+      "valley",
+      "night"
+    ],
+    "preview": "assets/previews/moon-over-the-valley.png",
+    "pdf": "assets/pdfs/moon-over-the-valley.pdf",
+    "alt": "Outline drawing: a round moon hangs above a winding river and mountain slopes."
+  },
+  {
+    "id": "campfire-marshmallows",
+    "title": "Campfire Marshmallows",
+    "category": "Outdoors",
+    "description": "Friends gather around a campfire with marshmallows on sticks.",
+    "tags": [
+      "campfire",
+      "marshmallows",
+      "friends",
+      "camping",
+      "outdoors"
+    ],
+    "preview": "assets/previews/campfire-marshmallows.png",
+    "pdf": "assets/pdfs/campfire-marshmallows.pdf",
+    "alt": "Outline drawing: friends gather around a campfire with marshmallows on sticks."
+  },
+  {
     "id": "mountain-valley-track",
     "title": "Mountain Valley Track",
     "category": "Nature",
