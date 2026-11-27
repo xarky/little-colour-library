@@ -2,6 +2,150 @@
 // Use relative paths so GitHub Pages also works under a repository subpath.
 window.COLOUR_CATALOGUE = [
   {
+    "id": "sunset-yurt-camp-1",
+    "title": "Sunset Yurt Camp",
+    "category": "Places",
+    "description": "A visitor walks beside yurts as the sun sets behind the mountains.",
+    "tags": [
+      "yurts",
+      "sunset",
+      "camp",
+      "mountains",
+      "visitor"
+    ],
+    "preview": "assets/previews/sunset-yurt-camp-1.png",
+    "pdf": "assets/pdfs/sunset-yurt-camp-1.pdf",
+    "alt": "Yurts, a setting sun and a walking visitor"
+  },
+  {
+    "id": "lakeside-yurts",
+    "title": "Lakeside Yurts",
+    "category": "Places",
+    "description": "A row of yurts stretches towards a lake beneath the setting sun.",
+    "tags": [
+      "yurts",
+      "lake",
+      "sunset",
+      "camp",
+      "plains"
+    ],
+    "preview": "assets/previews/lakeside-yurts.png",
+    "pdf": "assets/pdfs/lakeside-yurts.pdf",
+    "alt": "Yurts beside a lake with distant mountains"
+  },
+  {
+    "id": "mountain-road-truck",
+    "title": "Mountain Road Truck",
+    "category": "Vehicles",
+    "description": "A truck travels along a winding road through the mountains.",
+    "tags": [
+      "truck",
+      "road",
+      "mountains",
+      "valley",
+      "travel"
+    ],
+    "preview": "assets/previews/mountain-road-truck.png",
+    "pdf": "assets/pdfs/mountain-road-truck.pdf",
+    "alt": "Truck on a winding mountain road"
+  },
+  {
+    "id": "winding-mountain-valley",
+    "title": "Winding Mountain Valley",
+    "category": "Nature",
+    "description": "A winding road curves through a valley surrounded by mountains.",
+    "tags": [
+      "road",
+      "valley",
+      "mountains",
+      "hills",
+      "rocks"
+    ],
+    "preview": "assets/previews/winding-mountain-valley.png",
+    "pdf": "assets/pdfs/winding-mountain-valley.pdf",
+    "alt": "Mountain valley with a winding road and rocks"
+  },
+  {
+    "id": "mountain-traveller",
+    "title": "Mountain Traveller",
+    "category": "People",
+    "description": "A traveller with sunglasses stands above a winding mountain road.",
+    "tags": [
+      "traveller",
+      "sunglasses",
+      "mountains",
+      "road",
+      "bag"
+    ],
+    "preview": "assets/previews/mountain-traveller.png",
+    "pdf": "assets/pdfs/mountain-traveller.pdf",
+    "alt": "Traveller with folded arms and a shoulder bag in a mountain valley"
+  },
+  {
+    "id": "traveller-on-the-pass",
+    "title": "Traveller on the Pass",
+    "category": "People",
+    "description": "A traveller stands with folded arms among mountain peaks.",
+    "tags": [
+      "traveller",
+      "pass",
+      "mountains",
+      "sunglasses",
+      "rocks"
+    ],
+    "preview": "assets/previews/traveller-on-the-pass.png",
+    "pdf": "assets/pdfs/traveller-on-the-pass.pdf",
+    "alt": "Full-length traveller with sunglasses above a winding road"
+  },
+  {
+    "id": "rocky-mountain-stream",
+    "title": "Rocky Mountain Stream",
+    "category": "Nature",
+    "description": "A rocky stream flows beneath a tall mountain.",
+    "tags": [
+      "stream",
+      "mountain",
+      "rocks",
+      "bushes",
+      "water"
+    ],
+    "preview": "assets/previews/rocky-mountain-stream.png",
+    "pdf": "assets/pdfs/rocky-mountain-stream.pdf",
+    "alt": "Stream with large rocks and bushes beneath a mountain peak"
+  },
+  {
+    "id": "river-through-the-gorge",
+    "title": "River Through the Gorge",
+    "category": "Nature",
+    "description": "A river winds between bushes and steep rocky slopes.",
+    "tags": [
+      "river",
+      "gorge",
+      "rocks",
+      "bushes",
+      "water"
+    ],
+    "preview": "assets/previews/river-through-the-gorge.png",
+    "pdf": "assets/pdfs/river-through-the-gorge.pdf",
+    "alt": "Winding rocky river bordered by bushes and steep slopes"
+  },
+  {
+    "id": "forest-river-rapids",
+    "title": "Forest River Rapids",
+    "category": "Nature",
+    "description": "A river flows past rocks and trees in a mountain valley.",
+    "tags": [
+      "river",
+      "rapids",
+      "trees",
+      "rocks",
+      "mountains"
+    ],
+    "preview": "assets/previews/forest-river-rapids.png",
+    "pdf": "assets/pdfs/forest-river-rapids.pdf",
+    "alt": "River with ripples, rocks, trees and mountain slopes"
+  },
+  {
     "id": "rolling-hills",
     "title": "Rolling Hills",
     "category": "Nature",
